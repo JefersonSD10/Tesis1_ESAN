@@ -1,5 +1,4 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {spanish}{}
+\babel@toc {spanish}{}\relax 
 \contentsline {figure}{\numberline {1}{\ignorespaces Resultados y ratios obtenidos en la encuesta por GEM y ESAN}}{5}{figure.caption.9}%
 \contentsline {figure}{\numberline {2}{\ignorespaces Ratio de éxito de proyectos en Kickstarter desde 2009 hasta 2019 (Febrero)}}{7}{figure.caption.10}%
 \contentsline {figure}{\numberline {3}{\ignorespaces Extensión de Google Chrome creada para predecir el estado del proyecto}}{13}{figure.caption.11}%
@@ -37,7 +36,7 @@
 \contentsline {figure}{\numberline {35}{\ignorespaces Fases de la metodología SEMMA}}{52}{figure.caption.46}%
 \contentsline {figure}{\numberline {36}{\ignorespaces Fases de la metodología KDD}}{53}{figure.caption.47}%
 \contentsline {figure}{\numberline {37}{\ignorespaces Modelo para representar una neurona propuesto por McCulloch y Pitts (1943)}}{55}{figure.caption.49}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Nodos con funciones de activación umbral en forma de puertas lógicas}}{56}{figure.caption.52}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Nodos con funciones de activación umbral en forma de puertas lógicas}}{57}{figure.caption.52}%
 \contentsline {figure}{\numberline {39}{\ignorespaces Función de activación sigmoide}}{57}{figure.caption.54}%
 \contentsline {figure}{\numberline {40}{\ignorespaces Ilustración del algoritmo gradiente descendiente}}{58}{figure.caption.56}%
 \contentsline {figure}{\numberline {41}{\ignorespaces Actualización de pesos W con el algoritmo}}{59}{figure.caption.58}%
@@ -87,8 +86,8 @@
 \contentsline {figure}{\numberline {85}{\ignorespaces Proceso de limpieza de conjunto de datos de descripciones}}{108}{figure.caption.116}%
 \contentsline {figure}{\numberline {86}{\ignorespaces Procesos de vectorización y creación de matriz incrustaciones de palabras}}{109}{figure.caption.117}%
 \contentsline {figure}{\numberline {87}{\ignorespaces Proceso de operación del prototipo del sistema}}{120}{figure.caption.118}%
-\contentsline {figure}{\numberline {88}{\ignorespaces Descripción de resultados de modelo descriptivo de ejemplo}}{123}{figure.caption.122}%
-\contentsline {figure}{\numberline {89}{\ignorespaces Comparación de tres resultados de la curva AUC en el modelo}}{124}{figure.caption.124}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Descripción de resultados de modelo descriptivo de ejemplo}}{122}{figure.caption.122}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Comparación de tres resultados de la curva AUC en el modelo}}{123}{figure.caption.124}%
 \contentsline {figure}{\numberline {90}{\ignorespaces Cronograma de actividades de la investigación}}{126}{figure.caption.127}%
 \contentsline {figure}{\numberline {91}{\ignorespaces Vista del website Web Robots (visitado en agosto del 2019)}}{129}{figure.caption.130}%
 \contentsline {figure}{\numberline {92}{\ignorespaces Tamaño de conjunto de datos al corte de Julio 2019}}{130}{figure.caption.131}%
