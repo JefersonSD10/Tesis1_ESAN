@@ -110,37 +110,6 @@
       \verb https://becominghuman.ai/1-dimensional-convolution-layer-for-nlp-task-5d2e86e0229c
       \endverb
     \endentry
-    \entry{cr_aep2018emprend}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a6ccdde2e82a7422d2c594e73f6d3da2}{%
-           family={{Asociación de Emprendedores de Perú}},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{fullhash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{bibnamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authorbibnamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authornamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authorfullhash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{12}
-      \field{month}{2}
-      \field{title}{Avances y limitaciones del emprendimiento peruano}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://asep.pe/index.php/avances-limitaciones-emprendimiento-peruano/
-      \endverb
-      \verb{url}
-      \verb https://asep.pe/index.php/avances-limitaciones-emprendimiento-peruano/
-      \endverb
-    \endentry
     \entry{tec_baheti2020introduction_mdl}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=acb1a8bbc36bf2d131015ac20419fe36}{%
@@ -1487,57 +1456,6 @@
       \endverb
       \verb{url}
       \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
-      \endverb
-    \endentry
-    \entry{cr_fernandezbedoya2020colecoperu}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f459eb296bee57f416d44deeabb533b1}{%
-           family={Fernández-Bedoya},
-           familyi={F\bibinithyphendelim B\bibinitperiod},
-           given={Víctor\bibnamedelima Hugo},
-           giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5a6daa7920fda20473748f358f279f82}{%
-           family={Gago-Chávez},
-           familyi={G\bibinithyphendelim C\bibinitperiod},
-           given={Johanna\bibnamedelimb de\bibnamedelimb Jesús\bibnamedelima Stephanie},
-           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee7460a5ec6d30b276292ba338e8fd7c}{%
-           family={Meneses-la-Riva},
-           familyi={M\bibinithyphendelim R\bibinitperiod},
-           given={Mónica\bibnamedelima Elisa},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d422e21beea8b0d0da442445c4baa9a6}{%
-           family={Suyo-Vega},
-           familyi={S\bibinithyphendelim V\bibinitperiod},
-           given={Josefina\bibnamedelima Amanda},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3d3f87270f522b39cc763951d3f14606}
-      \strng{fullhash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{bibnamehash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{authorbibnamehash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{authornamehash}{3d3f87270f522b39cc763951d3f14606}
-      \strng{authorfullhash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Path of Science}
-      \field{number}{5}
-      \field{title}{Collaborative Economy in Peru: Past, Present and Future}
-      \field{volume}{6}
-      \field{year}{2020}
-      \field{pages}{7001\bibrangedash 7006}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.22178/pos.58-5
       \endverb
     \endentry
     \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
@@ -4163,72 +4081,6 @@
       \verb https://dle.rae.es/
       \endverb
     \endentry
-    \entry{cr_gestion2015emprendper}{periodical}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2ee06fb219320c92fc7cdd3ca07dca9}{%
-           family={{Redacción Gestión}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{fullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{bibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorbibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authornamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorfullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{11}
-      \field{journaltitle}{Diario Gestión}
-      \field{month}{3}
-      \field{title}{Emprendimiento en el Perú se origina más por oportunidades de negocio que por desempleo}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://gestion.pe/economia/emprendimiento-peru-origina-oportunidad-negocio-desempleo-80578
-      \endverb
-      \verb{url}
-      \verb https://gestion.pe/economia/emprendimiento-peru-origina-oportunidad-negocio-desempleo-80578
-      \endverb
-    \endentry
-    \entry{cr_gestion2018emprend}{periodical}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2ee06fb219320c92fc7cdd3ca07dca9}{%
-           family={{Redacción Gestión}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{fullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{bibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorbibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authornamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorfullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \field{extraname}{2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{journaltitle}{Diario Gestión}
-      \field{month}{8}
-      \field{title}{Perú es el tercer país con mayor cantidad de emprendimientos en fase temprana a nivel mundial}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://gestion.pe/economia/peru-tercer-pais-mayor-cantidad-emprendimientos-fase-temprana-nivel-mundial-240264
-      \endverb
-      \verb{url}
-      \verb https://gestion.pe/economia/peru-tercer-pais-mayor-cantidad-emprendimientos-fase-temprana-nivel-mundial-240264
-      \endverb
-    \endentry
     \entry{bk_russell2004intart}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=143fa183327d9fcd9de18eec99d6ca97}{%
@@ -4435,35 +4287,6 @@
       \endverb
       \verb{url}
       \verb http://www.cs.us.es/~fsancho/?e=77
-      \endverb
-    \endentry
-    \entry{cr_sandoval_barreras}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5252c99e5f6fc0336b4f9e5d76488409}{%
-           family={Sandoval},
-           familyi={S\bibinitperiod},
-           given={Luis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{fullhash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{bibnamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authorbibnamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authornamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authorfullhash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Barreras del Emprendedor ¿Por qué cuesta tanto hacerlo?}
-      \verb{urlraw}
-      \verb https://www.emprender-facil.com/es/barreras-del-emprendedor/
-      \endverb
-      \verb{url}
-      \verb https://www.emprender-facil.com/es/barreras-del-emprendedor/
       \endverb
     \endentry
     \entry{gl_sas_deeplearning}{misc}{}
@@ -4765,82 +4588,6 @@
       \verb https://link.springer.com/article/10.1023/B:STCO.0000035301.49549.88
       \endverb
     \endentry
-    \entry{cr_sl_crowdfundlatam}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d6a493d2363a892d2902735fa2ee5079}{%
-           family={{Solidaridad Latina}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{fullhash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{bibnamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authorbibnamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authornamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authorfullhash}{d6a493d2363a892d2902735fa2ee5079}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Cómo funciona el crowdfunding en Latinoamérica?}
-      \verb{urlraw}
-      \verb https://solidaridadlatina.com/actualizacion/como-funciona-crowdfunding-latinoamerica/
-      \endverb
-      \verb{url}
-      \verb https://solidaridadlatina.com/actualizacion/como-funciona-crowdfunding-latinoamerica/
-      \endverb
-    \endentry
-    \entry{cr_stokes2014coleco}{report}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b9be8bc2995963348284de4a36d6c736}{%
-           family={Stokes},
-           familyi={S\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1361f3462796b6cbca622f7cf1a650ae}{%
-           family={Clarence},
-           familyi={C\bibinitperiod},
-           given={Emma},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cab6c55e1e2e0769c42f512c2b4f8f3a}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Lauren},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e667b37ebf77dc656184631704090d76}{%
-           family={Rinne},
-           familyi={R\bibinitperiod},
-           given={April},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d8944f0154ec7d506f0be8bf0d3ffa07}
-      \strng{fullhash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{bibnamehash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{authorbibnamehash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{authornamehash}{d8944f0154ec7d506f0be8bf0d3ffa07}
-      \strng{authorfullhash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{9}
-      \field{title}{Making sense of the UK	collaborative economy}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb http://collaboriamo.org/media/2014/10/making_sense_of_the_uk_collaborative_economy_14.pdf
-      \endverb
-      \verb{url}
-      \verb http://collaboriamo.org/media/2014/10/making_sense_of_the_uk_collaborative_economy_14.pdf
-      \endverb
-    \endentry
     \entry{bk_sutton2018rl}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=eb920e5277d3d5fd0903f3cd41e11871}{%
@@ -5006,32 +4753,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/jrfm13040080
-      \endverb
-    \endentry
-    \entry{cr_uc_crowdfunding}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=594d56cca8b153463f85969bd0d5dc47}{%
-           family={{Universo Crowdfunding}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{fullhash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{bibnamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authorbibnamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authornamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authorfullhash}{594d56cca8b153463f85969bd0d5dc47}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Qué es el crowdfunding?}
-      \verb{urlraw}
-      \verb https://www.universocrowdfunding.com/que-es-el-crowdfunding/
-      \endverb
-      \verb{url}
-      \verb https://www.universocrowdfunding.com/que-es-el-crowdfunding/
       \endverb
     \endentry
     \entry{tec_viera2013backpropexplain}{misc}{}
@@ -5653,37 +5374,6 @@
       \verb https://becominghuman.ai/1-dimensional-convolution-layer-for-nlp-task-5d2e86e0229c
       \endverb
     \endentry
-    \entry{cr_aep2018emprend}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=a6ccdde2e82a7422d2c594e73f6d3da2}{%
-           family={{Asociación de Emprendedores de Perú}},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{fullhash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{bibnamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authorbibnamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authornamehash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \strng{authorfullhash}{a6ccdde2e82a7422d2c594e73f6d3da2}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{12}
-      \field{month}{2}
-      \field{title}{Avances y limitaciones del emprendimiento peruano}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://asep.pe/index.php/avances-limitaciones-emprendimiento-peruano/
-      \endverb
-      \verb{url}
-      \verb https://asep.pe/index.php/avances-limitaciones-emprendimiento-peruano/
-      \endverb
-    \endentry
     \entry{tec_baheti2020introduction_mdl}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=acb1a8bbc36bf2d131015ac20419fe36}{%
@@ -7030,57 +6720,6 @@
       \endverb
       \verb{url}
       \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
-      \endverb
-    \endentry
-    \entry{cr_fernandezbedoya2020colecoperu}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f459eb296bee57f416d44deeabb533b1}{%
-           family={Fernández-Bedoya},
-           familyi={F\bibinithyphendelim B\bibinitperiod},
-           given={Víctor\bibnamedelima Hugo},
-           giveni={V\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5a6daa7920fda20473748f358f279f82}{%
-           family={Gago-Chávez},
-           familyi={G\bibinithyphendelim C\bibinitperiod},
-           given={Johanna\bibnamedelimb de\bibnamedelimb Jesús\bibnamedelima Stephanie},
-           giveni={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee7460a5ec6d30b276292ba338e8fd7c}{%
-           family={Meneses-la-Riva},
-           familyi={M\bibinithyphendelim R\bibinitperiod},
-           given={Mónica\bibnamedelima Elisa},
-           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d422e21beea8b0d0da442445c4baa9a6}{%
-           family={Suyo-Vega},
-           familyi={S\bibinithyphendelim V\bibinitperiod},
-           given={Josefina\bibnamedelima Amanda},
-           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3d3f87270f522b39cc763951d3f14606}
-      \strng{fullhash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{bibnamehash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{authorbibnamehash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \strng{authornamehash}{3d3f87270f522b39cc763951d3f14606}
-      \strng{authorfullhash}{acd3fac6ba978fe93cef5b5e6a93cb44}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Path of Science}
-      \field{number}{5}
-      \field{title}{Collaborative Economy in Peru: Past, Present and Future}
-      \field{volume}{6}
-      \field{year}{2020}
-      \field{pages}{7001\bibrangedash 7006}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.22178/pos.58-5
       \endverb
     \endentry
     \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
@@ -9706,72 +9345,6 @@
       \verb https://dle.rae.es/
       \endverb
     \endentry
-    \entry{cr_gestion2015emprendper}{periodical}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2ee06fb219320c92fc7cdd3ca07dca9}{%
-           family={{Redacción Gestión}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{fullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{bibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorbibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authornamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorfullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{11}
-      \field{journaltitle}{Diario Gestión}
-      \field{month}{3}
-      \field{title}{Emprendimiento en el Perú se origina más por oportunidades de negocio que por desempleo}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://gestion.pe/economia/emprendimiento-peru-origina-oportunidad-negocio-desempleo-80578
-      \endverb
-      \verb{url}
-      \verb https://gestion.pe/economia/emprendimiento-peru-origina-oportunidad-negocio-desempleo-80578
-      \endverb
-    \endentry
-    \entry{cr_gestion2018emprend}{periodical}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=c2ee06fb219320c92fc7cdd3ca07dca9}{%
-           family={{Redacción Gestión}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{fullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{bibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorbibnamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authornamehash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \strng{authorfullhash}{c2ee06fb219320c92fc7cdd3ca07dca9}
-      \field{extraname}{2}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{1}
-      \field{journaltitle}{Diario Gestión}
-      \field{month}{8}
-      \field{title}{Perú es el tercer país con mayor cantidad de emprendimientos en fase temprana a nivel mundial}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://gestion.pe/economia/peru-tercer-pais-mayor-cantidad-emprendimientos-fase-temprana-nivel-mundial-240264
-      \endverb
-      \verb{url}
-      \verb https://gestion.pe/economia/peru-tercer-pais-mayor-cantidad-emprendimientos-fase-temprana-nivel-mundial-240264
-      \endverb
-    \endentry
     \entry{bk_russell2004intart}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=143fa183327d9fcd9de18eec99d6ca97}{%
@@ -9978,35 +9551,6 @@
       \endverb
       \verb{url}
       \verb http://www.cs.us.es/~fsancho/?e=77
-      \endverb
-    \endentry
-    \entry{cr_sandoval_barreras}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=5252c99e5f6fc0336b4f9e5d76488409}{%
-           family={Sandoval},
-           familyi={S\bibinitperiod},
-           given={Luis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{fullhash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{bibnamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authorbibnamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authornamehash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \strng{authorfullhash}{5252c99e5f6fc0336b4f9e5d76488409}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Barreras del Emprendedor ¿Por qué cuesta tanto hacerlo?}
-      \verb{urlraw}
-      \verb https://www.emprender-facil.com/es/barreras-del-emprendedor/
-      \endverb
-      \verb{url}
-      \verb https://www.emprender-facil.com/es/barreras-del-emprendedor/
       \endverb
     \endentry
     \entry{gl_sas_deeplearning}{misc}{}
@@ -10308,82 +9852,6 @@
       \verb https://link.springer.com/article/10.1023/B:STCO.0000035301.49549.88
       \endverb
     \endentry
-    \entry{cr_sl_crowdfundlatam}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=d6a493d2363a892d2902735fa2ee5079}{%
-           family={{Solidaridad Latina}},
-           familyi={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{fullhash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{bibnamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authorbibnamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authornamehash}{d6a493d2363a892d2902735fa2ee5079}
-      \strng{authorfullhash}{d6a493d2363a892d2902735fa2ee5079}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Cómo funciona el crowdfunding en Latinoamérica?}
-      \verb{urlraw}
-      \verb https://solidaridadlatina.com/actualizacion/como-funciona-crowdfunding-latinoamerica/
-      \endverb
-      \verb{url}
-      \verb https://solidaridadlatina.com/actualizacion/como-funciona-crowdfunding-latinoamerica/
-      \endverb
-    \endentry
-    \entry{cr_stokes2014coleco}{report}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=b9be8bc2995963348284de4a36d6c736}{%
-           family={Stokes},
-           familyi={S\bibinitperiod},
-           given={Kathleen},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1361f3462796b6cbca622f7cf1a650ae}{%
-           family={Clarence},
-           familyi={C\bibinitperiod},
-           given={Emma},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cab6c55e1e2e0769c42f512c2b4f8f3a}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Lauren},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e667b37ebf77dc656184631704090d76}{%
-           family={Rinne},
-           familyi={R\bibinitperiod},
-           given={April},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{d8944f0154ec7d506f0be8bf0d3ffa07}
-      \strng{fullhash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{bibnamehash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{authorbibnamehash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \strng{authornamehash}{d8944f0154ec7d506f0be8bf0d3ffa07}
-      \strng{authorfullhash}{7eb2b52e4311c5a8fb01e89241700edc}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{9}
-      \field{title}{Making sense of the UK	collaborative economy}
-      \field{year}{2014}
-      \verb{urlraw}
-      \verb http://collaboriamo.org/media/2014/10/making_sense_of_the_uk_collaborative_economy_14.pdf
-      \endverb
-      \verb{url}
-      \verb http://collaboriamo.org/media/2014/10/making_sense_of_the_uk_collaborative_economy_14.pdf
-      \endverb
-    \endentry
     \entry{bk_sutton2018rl}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=eb920e5277d3d5fd0903f3cd41e11871}{%
@@ -10549,32 +10017,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.3390/jrfm13040080
-      \endverb
-    \endentry
-    \entry{cr_uc_crowdfunding}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=594d56cca8b153463f85969bd0d5dc47}{%
-           family={{Universo Crowdfunding}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \strng{namehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{fullhash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{bibnamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authorbibnamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authornamehash}{594d56cca8b153463f85969bd0d5dc47}
-      \strng{authorfullhash}{594d56cca8b153463f85969bd0d5dc47}
-      \field{sortinit}{U}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{¿Qué es el crowdfunding?}
-      \verb{urlraw}
-      \verb https://www.universocrowdfunding.com/que-es-el-crowdfunding/
-      \endverb
-      \verb{url}
-      \verb https://www.universocrowdfunding.com/que-es-el-crowdfunding/
       \endverb
     \endentry
     \entry{tec_viera2013backpropexplain}{misc}{}
