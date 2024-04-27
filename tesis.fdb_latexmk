@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber tesis"] 1713759465.04822 "tesis.bcf" "tesis.bbl" "tesis" 1713759512.60989 0
+["biber tesis"] 1714258213.35497 "tesis.bcf" "tesis.bbl" "tesis" 1714262059.66174 0
   "biblio/references.bib" 1713749558 46078 795b96efe963101be2295897b57b9116 ""
-  "tesis.bcf" 1713759511 195672 20f868d5a73350e358f4e1dedc8f690d "pdflatex"
+  "tesis.bcf" 1714262058 195358 5ca5342573c9ee5692c0935c9ba06e37 "pdflatex"
   (generated)
   "tesis.bbl"
   "tesis.blg"
   (rewritten before read)
-["pdflatex"] 1713759493.51202 "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN-1/tesis.tex" "tesis.pdf" "tesis" 1713759512.61091 0
+["pdflatex"] 1714262038.10155 "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN-1/tesis.tex" "tesis.pdf" "tesis" 1714262059.66285 0
   "0/agradecimientos.tex" 1713749556 2365 65a42e81d5ebb4a4e8201d69117fbced ""
   "0/aprobacion.tex" 1713749556 705 8569c5c74500904e08446088164741cc ""
   "0/introduccion.tex" 1713749556 3950 8384f380eb8333e788dd690ff3965083 ""
@@ -14,7 +14,7 @@
   "0/titulo.tex" 1713749556 236 047aab3b71ad7e641c1ae4e40cc8487d ""
   "1/figures/CISCO_QUEJAS.jpg" 1713758524 15376 4d5ecb5881d24ead18902e9aa6896997 ""
   "1/figures/access-point-1.jpeg" 1713759359 129890 ac29611b23a0b5aa0a531a54f89dfe5f ""
-  "1/planteamiento.tex" 1713759442 15997 3efed8074e8a35880468cef33c0b2e1d ""
+  "1/planteamiento.tex" 1714260105 17029 6f80f44527aba18725ec9e18e6e5f779 ""
   "2/1_antecedentes/antecedentes.tex" 1713749557 59209 99017d1a4659690adc2e4dd6ff58f5be ""
   "2/2_teoria/base_teo.tex" 1713749557 105790 7fbdc3d51e0b004da5bbdc05d8be4518 ""
   "2/3_conceptos/marc_conceptual.tex" 1713749557 14232 a39cecfb7e1227d38b48c69a6a4aee59 ""
@@ -372,20 +372,20 @@
   "C:/Users/jefer/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "C:/Users/jefer/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "C:/Users/jefer/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-  "anexos/anexo.tex" 1713749558 40198 8675924bfd237e928310055a1aaefbc5 ""
-  "anexos/arbol_objetivos.png" 1713749558 118966 f645ffbfcdc55f318be5684b8248a899 ""
-  "anexos/arbol_problemas.png" 1713749558 120350 4d2973d895eb043d90365d6a6fb388a5 ""
+  "anexos/anexo.tex" 1714262037 40270 341e4c60139eb02fefbd4cef15ca5f4d ""
+  "anexos/arbol_objetivos.png" 1714260974 120370 351a2707f33fff3faf1ca5ff6df8f1e6 ""
+  "anexos/arbol_problemas.png" 1714261413 115453 ac0e3af25604071af37eb84f2db9c66f ""
   "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN-1/tesis.tex" 1713749558 13630 09715ad94fe651239efbb4b9b536e896 ""
   "images_repo/esanlogomin.png" 1713749558 44054 5686aaa912c5c911c9912422804fbdf6 ""
-  "tesis.aux" 1713759511 208168 32890dcd244e9f1e68e9c17bc2d253f6 "pdflatex"
-  "tesis.bbl" 1713759474 436541 99f1b368e9d919ace73edd678bea1675 "biber tesis"
-  "tesis.equ" 1713759511 3426 179c8acf4b87ca4265dda96ab6d8308b "pdflatex"
-  "tesis.lof" 1713759511 19598 79629df8f909d170ae0b71cf88b5a837 "pdflatex"
-  "tesis.lot" 1713759511 2691 59c0c477c85af15d8c2e0dbd724ca062 "pdflatex"
-  "tesis.out" 1713759511 14075 65d40c6fcf53c7613e431dcb33a658c8 "pdflatex"
-  "tesis.run.xml" 1713759511 2407 abd49b23619a5865ba13eeb8aa920da5 "pdflatex"
+  "tesis.aux" 1714262058 207684 963cf9ccadf3e0b6e798bd237a2558ff "pdflatex"
+  "tesis.bbl" 1714258242 436541 99f1b368e9d919ace73edd678bea1675 "biber tesis"
+  "tesis.equ" 1714262058 3426 179c8acf4b87ca4265dda96ab6d8308b "pdflatex"
+  "tesis.lof" 1714262058 19598 79629df8f909d170ae0b71cf88b5a837 "pdflatex"
+  "tesis.lot" 1714262058 2691 59c0c477c85af15d8c2e0dbd724ca062 "pdflatex"
+  "tesis.out" 1714262058 14075 65d40c6fcf53c7613e431dcb33a658c8 "pdflatex"
+  "tesis.run.xml" 1714262058 2407 abd49b23619a5865ba13eeb8aa920da5 "pdflatex"
   "tesis.tex" 1713749558 13630 09715ad94fe651239efbb4b9b536e896 ""
-  "tesis.toc" 1713759511 7016 430b34ee616e27e0225963eeb62b1f25 "pdflatex"
+  "tesis.toc" 1714262058 7016 430b34ee616e27e0225963eeb62b1f25 "pdflatex"
   (generated)
   "tesis.aux"
   "tesis.bcf"
