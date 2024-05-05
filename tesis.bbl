@@ -47,6 +47,44 @@
       \verb https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/
       \endverb
     \endentry
+    \entry{pr_alathari2023optimiap}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df2a75fe64461fdb0fc6b1664751dc7a}{%
+           family={Alathari},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{fullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{bibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authorbibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authornamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authorfullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer}
+      \field{title}{An Optimization for Access Point Placement in Indoor Communication}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-981-19-8406-8_48
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.translate.goog/chapter/10.1007/978-981-19-8406-8_48?error=cookies_not_supported&code=42ecea64-b4ca-4fa9-a735-58817c40dea5&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.translate.goog/chapter/10.1007/978-981-19-8406-8_48?error=cookies_not_supported&code=42ecea64-b4ca-4fa9-a735-58817c40dea5&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc
+      \endverb
+    \endentry
     \entry{bk_alpaydin2014ml}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=8351b0b43ad4aed68fb279505ebd7d01}{%
@@ -5293,6 +5331,44 @@
       \endverb
       \verb{url}
       \verb https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/
+      \endverb
+    \endentry
+    \entry{pr_alathari2023optimiap}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=df2a75fe64461fdb0fc6b1664751dc7a}{%
+           family={Alathari},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{fullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{bibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authorbibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authornamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{authorfullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Springer}
+      \field{title}{An Optimization for Access Point Placement in Indoor Communication}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-981-19-8406-8_48
+      \endverb
+      \verb{urlraw}
+      \verb https://link-springer-com.translate.goog/chapter/10.1007/978-981-19-8406-8_48?error=cookies_not_supported&code=42ecea64-b4ca-4fa9-a735-58817c40dea5&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc
+      \endverb
+      \verb{url}
+      \verb https://link-springer-com.translate.goog/chapter/10.1007/978-981-19-8406-8_48?error=cookies_not_supported&code=42ecea64-b4ca-4fa9-a735-58817c40dea5&_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sc
       \endverb
     \endentry
     \entry{bk_alpaydin2014ml}{book}{}

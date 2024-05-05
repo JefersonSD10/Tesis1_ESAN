@@ -461,10 +461,6 @@ INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tf
 INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Users\jefer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
-INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
-INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
-INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
 INPUT .\2\marco.tex
 INPUT .\2\marco.tex
 INPUT .\2\marco.tex
@@ -521,6 +517,10 @@ INPUT .\2\figures\chen2015.jpg
 INPUT .\2\figures\chen2015.jpg
 INPUT .\2\figures\chen2015.jpg
 INPUT .\2\figures\chen2015.jpg
+INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
+INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
+INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\omlptm.fd
+INPUT C:\Users\jefer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmib10.tfm
 INPUT .\2\figures\beckwith2016.jpg
 INPUT .\2\figures\beckwith2016.jpg
 INPUT .\2\figures\beckwith2016.jpg
