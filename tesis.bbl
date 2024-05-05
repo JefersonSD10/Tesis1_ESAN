@@ -182,46 +182,6 @@
       \verb https://www.bbvaopenmind.com/tecnologia/mundo-digital/que-es-el-aprendijaze-profundo/
       \endverb
     \endentry
-    \entry{pr_beckwith2016predcrowd}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=10f25e146ac037056a2607af539b34a2}{%
-           family={Beckwith},
-           familyi={B\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Universidad de Pensilvania}%
-      }
-      \list{location}{1}{%
-        {Filadelfia, Pensilvania, Estados Unidos}%
-      }
-      \strng{namehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{fullhash}{10f25e146ac037056a2607af539b34a2}
-      \strng{bibnamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authorbibnamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authornamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authorfullhash}{10f25e146ac037056a2607af539b34a2}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Predicting Success in Equity Crowdfunding}
-      \field{type}{Tesis de grado}
-      \field{year}{2016}
-      \field{pages}{140}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://repository.upenn.edu/joseph_wharton_scholars/25
-      \endverb
-      \verb{url}
-      \verb http://repository.upenn.edu/joseph_wharton_scholars/25
-      \endverb
-    \endentry
     \entry{tec_bertona2005algevol}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea10ff96a3eb16fea2f4ae1298fa86c5}{%
@@ -1174,6 +1134,34 @@
       \verb https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789808452/1/ch01lvl1sec15/data-scaling
       \endverb
     \endentry
+    \entry{ot_cisco2022ap}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b1d1185b835814de783483f686e9825}{%
+           family={{Cisco}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b1d1185b835814de783483f686e9825}
+      \strng{fullhash}{7b1d1185b835814de783483f686e9825}
+      \strng{bibnamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authorbibnamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authornamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authorfullhash}{7b1d1185b835814de783483f686e9825}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Los puntos de acceso C9120 no inician PnP o IOx}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cisco.com/c/es_mx/support/docs/wireless/catalyst-9120axi-access-point/218069-c9120-access-points-do-not-start-pnp.html
+      \endverb
+      \verb{url}
+      \verb https://www.cisco.com/c/es_mx/support/docs/wireless/catalyst-9120axi-access-point/218069-c9120-access-points-do-not-start-pnp.html
+      \endverb
+    \endentry
     \entry{cr_colgren2014risecrwd}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d702637e7ebb7502f91baeed338aade8}{%
@@ -1458,6 +1446,34 @@
       \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
       \endverb
     \endentry
+    \entry{ot_elpais2023wifi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53b34a29169dfc4935d26a70a39e1a29}{%
+           family={{El País}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{fullhash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{bibnamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authorbibnamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authornamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authorfullhash}{53b34a29169dfc4935d26a70a39e1a29}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{El wifi de la mayoría de los hogares se enfrenta al colapso por el aumento de dispositivos conectados y el tráfico de datos}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
+      \endverb
+      \verb{url}
+      \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
+      \endverb
+    \endentry
     \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=e567e8728541b2381f08ac0d316d5edb}{%
@@ -1718,32 +1734,6 @@
       \endverb
       \verb{url}
       \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
-      \endverb
-    \endentry
-    \entry{ot_googlecloud_freetrial}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=57f3af2a3d1051c172ab3c3db7d5409d}{%
-           family={{Google Cloud}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{fullhash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{bibnamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authorbibnamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authornamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authorfullhash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Programa gratuito de Google Cloud}
-      \verb{urlraw}
-      \verb https://cloud.google.com/free/docs/gcp-free-tier
-      \endverb
-      \verb{url}
-      \verb https://cloud.google.com/free/docs/gcp-free-tier
       \endverb
     \endentry
     \entry{gl_google2018machinelearning}{misc}{}
@@ -2026,6 +2016,34 @@
       \verb https://www.ibm.com/support/knowledgecenter/es/SSLVMB_sub/statistics_mainhelp_ddita/spss/regression/idh_lreg.html
       \endverb
     \endentry
+    \entry{ot_inei2022estati}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d7bf55010a4bce3e53bfcf6615cccdb}{%
+           family={{INEI}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{fullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{bibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authorbibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authornamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authorfullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estadísiticas de las Tecnologías de Información y Comunicación en los hogares}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
+      \endverb
+    \endentry
     \entry{tec_inzaugarat2018ann}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d15029c802bff38149cd156bb0c77fe3}{%
@@ -2224,59 +2242,14 @@
       \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
       \endverb
     \endentry
-    \entry{pr_kamath2018suplearn}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=68e694a06a9d6b3c41665a1fe91e011c}{%
-           family={Kamath},
-           familyi={K\bibinitperiod},
-           given={R.\bibnamedelimi S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=05e23504222da69528ccde71569de146}{%
-           family={Kamat},
-           familyi={K\bibinitperiod},
-           given={R.\bibnamedelimi K.},
-           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Zenodo}%
-      }
-      \strng{namehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{fullhash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{bibnamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authorbibnamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authornamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authorfullhash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Information Technology, Modeling and Computing (IJITMC)}
-      \field{number}{1}
-      \field{title}{Supervised Learning Model For Kickstarter Campaigns With R Mining}
-      \field{volume}{4}
-      \field{year}{2018}
-      \verb{doi}
-      \verb 10.5281/zenodo.1228716
-      \endverb
-      \verb{urlraw}
-      \verb https://www.aircconline.com/ijitmc/V4N1/4116ijitmc02.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.aircconline.com/ijitmc/V4N1/4116ijitmc02.pdf
-      \endverb
-    \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=1cfc30479d29622a456cfefbcbdf6fa3}{%
+        {{un=0,uniquepart=base,hash=1cfc30479d29622a456cfefbcbdf6fa3}{%
            family={Kamath},
            familyi={K\bibinitperiod},
            given={Uday},
            giveni={U\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=43b0dce2cc8966238118a2bec6068e52}{%
            family={Liu},
            familyi={L\bibinitperiod},
@@ -2303,6 +2276,7 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deep Learning for NLP and Speech Recognition}
@@ -3497,6 +3471,72 @@
       \verb https://www.researchgate.net/publication/236604665_Statistics_Corner_A_guide_to_appropriate_use_of_Correlation_coefficient_in_medical_research
       \endverb
     \endentry
+    \entry{ot_napit2017ap}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3128b65dbdd8673cec28807c7e37a13}{%
+           family={{NapIT}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{fullhash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{bibnamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authorbibnamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authornamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authorfullhash}{b3128b65dbdd8673cec28807c7e37a13}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{3 Problemas que pueden perjudicar su Wireless Corporativo}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://napit.com.br/3-problemas-que-puedem-perjudicar-su-wireless-corporativo/
+      \endverb
+      \verb{url}
+      \verb https://napit.com.br/3-problemas-que-puedem-perjudicar-su-wireless-corporativo/
+      \endverb
+    \endentry
+    \entry{pr_nauata2021housegan}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79ed26621f29b65619a7f8e98b9da6d5}{%
+           family={Nauata},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{fullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{bibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authorbibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authornamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authorfullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Vision Foundation}
+      \field{title}{House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects}
+      \field{year}{2021}
+      \verb{doi}
+      \verb https://doi.org/10.1109/CVPR46437.2021.01342
+      \endverb
+      \verb{urlraw}
+      \verb https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf
+      \endverb
+    \endentry
     \entry{tec_ng2018bidirectionalRNN}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bdb4d740fc9548d1c32a62103c30169d}{%
@@ -4024,33 +4064,6 @@
       \field{title}{Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning}
       \field{year}{2019}
     \endentry
-    \entry{ot_rae_hidra}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b397d66b02476457c3703cb2d7051bea}{%
-           family={{Real Academia Española}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{fullhash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{bibnamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authorbibnamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authornamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authorfullhash}{b397d66b02476457c3703cb2d7051bea}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Hidra}
-      \verb{urlraw}
-      \verb https://dle.rae.es/hidra
-      \endverb
-      \verb{url}
-      \verb https://dle.rae.es/hidra
-      \endverb
-    \endentry
     \entry{gl_rae}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b397d66b02476457c3703cb2d7051bea}{%
@@ -4063,7 +4076,6 @@
       \strng{authorbibnamehash}{b397d66b02476457c3703cb2d7051bea}
       \strng{authornamehash}{b397d66b02476457c3703cb2d7051bea}
       \strng{authorfullhash}{b397d66b02476457c3703cb2d7051bea}
-      \field{extraname}{2}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -4636,37 +4648,6 @@
       \verb http://incompleteideas.net/book/RLbook2018.pdf
       \endverb
     \endentry
-    \entry{cr_hustle2019successrate}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ccfa6baf9cf2e529fdd727b083b8ae03}{%
-           family={{The Hustle}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{fullhash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{bibnamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authorbibnamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authornamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authorfullhash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{9}
-      \field{month}{2}
-      \field{title}{What are your chances of successfully raising money on Kickstarter?}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://thehustle.co/crowdfunding-success-rate
-      \endverb
-      \verb{url}
-      \verb https://thehustle.co/crowdfunding-success-rate
-      \endverb
-    \endentry
     \entry{cr_tung2019backers}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e88d1438d4573681d803f0e3ade3a683}{%
@@ -4784,34 +4765,6 @@
       \endverb
       \verb{url}
       \verb https://youtu.be/0odQ286nsIY
-      \endverb
-    \endentry
-    \entry{ot_webrobots2019kickstarter}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6d75ec139b23ed572b6e3496381898ce}{%
-           family={{Web Robots}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{fullhash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{bibnamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authorbibnamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authornamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authorfullhash}{6d75ec139b23ed572b6e3496381898ce}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Kickstarter Datasets}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://webrobots.io/kickstarter-datasets/
-      \endverb
-      \verb{url}
-      \verb https://webrobots.io/kickstarter-datasets/
       \endverb
     \endentry
     \entry{cr_xuefeng2018chcrowdplatf}{article}{}
@@ -5248,6 +5201,37 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971
+      \endverb
+    \endentry
+    \entry{ot_zig2020abi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f51b679043a14b621ce3c311918d08f9}{%
+           family={Zignani},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{fullhash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{bibnamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authorbibnamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authornamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authorfullhash}{f51b679043a14b621ce3c311918d08f9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ABI: 6 GHz band essential amid growing WiFi demand}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
+      \endverb
+      \verb{url}
+      \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
       \endverb
     \endentry
     \entry{tec_zimovnov2018text_preprocessing}{misc}{}
@@ -5446,46 +5430,6 @@
       \verb https://www.bbvaopenmind.com/tecnologia/mundo-digital/que-es-el-aprendijaze-profundo/
       \endverb
     \endentry
-    \entry{pr_beckwith2016predcrowd}{thesis}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=10f25e146ac037056a2607af539b34a2}{%
-           family={Beckwith},
-           familyi={B\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Universidad de Pensilvania}%
-      }
-      \list{location}{1}{%
-        {Filadelfia, Pensilvania, Estados Unidos}%
-      }
-      \strng{namehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{fullhash}{10f25e146ac037056a2607af539b34a2}
-      \strng{bibnamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authorbibnamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authornamehash}{10f25e146ac037056a2607af539b34a2}
-      \strng{authorfullhash}{10f25e146ac037056a2607af539b34a2}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Predicting Success in Equity Crowdfunding}
-      \field{type}{Tesis de grado}
-      \field{year}{2016}
-      \field{pages}{140}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://repository.upenn.edu/joseph_wharton_scholars/25
-      \endverb
-      \verb{url}
-      \verb http://repository.upenn.edu/joseph_wharton_scholars/25
-      \endverb
-    \endentry
     \entry{tec_bertona2005algevol}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea10ff96a3eb16fea2f4ae1298fa86c5}{%
@@ -6438,6 +6382,34 @@
       \verb https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789808452/1/ch01lvl1sec15/data-scaling
       \endverb
     \endentry
+    \entry{ot_cisco2022ap}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b1d1185b835814de783483f686e9825}{%
+           family={{Cisco}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b1d1185b835814de783483f686e9825}
+      \strng{fullhash}{7b1d1185b835814de783483f686e9825}
+      \strng{bibnamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authorbibnamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authornamehash}{7b1d1185b835814de783483f686e9825}
+      \strng{authorfullhash}{7b1d1185b835814de783483f686e9825}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Los puntos de acceso C9120 no inician PnP o IOx}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.cisco.com/c/es_mx/support/docs/wireless/catalyst-9120axi-access-point/218069-c9120-access-points-do-not-start-pnp.html
+      \endverb
+      \verb{url}
+      \verb https://www.cisco.com/c/es_mx/support/docs/wireless/catalyst-9120axi-access-point/218069-c9120-access-points-do-not-start-pnp.html
+      \endverb
+    \endentry
     \entry{cr_colgren2014risecrwd}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d702637e7ebb7502f91baeed338aade8}{%
@@ -6722,6 +6694,34 @@
       \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
       \endverb
     \endentry
+    \entry{ot_elpais2023wifi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=53b34a29169dfc4935d26a70a39e1a29}{%
+           family={{El País}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{fullhash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{bibnamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authorbibnamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authornamehash}{53b34a29169dfc4935d26a70a39e1a29}
+      \strng{authorfullhash}{53b34a29169dfc4935d26a70a39e1a29}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{El wifi de la mayoría de los hogares se enfrenta al colapso por el aumento de dispositivos conectados y el tráfico de datos}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
+      \endverb
+      \verb{url}
+      \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
+      \endverb
+    \endentry
     \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
       \name{author}{4}{}{%
         {{un=0,uniquepart=base,hash=e567e8728541b2381f08ac0d316d5edb}{%
@@ -6982,32 +6982,6 @@
       \endverb
       \verb{url}
       \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
-      \endverb
-    \endentry
-    \entry{ot_googlecloud_freetrial}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=57f3af2a3d1051c172ab3c3db7d5409d}{%
-           family={{Google Cloud}},
-           familyi={G\bibinitperiod}}}%
-      }
-      \strng{namehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{fullhash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{bibnamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authorbibnamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authornamehash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \strng{authorfullhash}{57f3af2a3d1051c172ab3c3db7d5409d}
-      \field{sortinit}{G}
-      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Programa gratuito de Google Cloud}
-      \verb{urlraw}
-      \verb https://cloud.google.com/free/docs/gcp-free-tier
-      \endverb
-      \verb{url}
-      \verb https://cloud.google.com/free/docs/gcp-free-tier
       \endverb
     \endentry
     \entry{gl_google2018machinelearning}{misc}{}
@@ -7290,6 +7264,34 @@
       \verb https://www.ibm.com/support/knowledgecenter/es/SSLVMB_sub/statistics_mainhelp_ddita/spss/regression/idh_lreg.html
       \endverb
     \endentry
+    \entry{ot_inei2022estati}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4d7bf55010a4bce3e53bfcf6615cccdb}{%
+           family={{INEI}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{fullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{bibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authorbibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authornamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \strng{authorfullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estadísiticas de las Tecnologías de Información y Comunicación en los hogares}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
+      \endverb
+    \endentry
     \entry{tec_inzaugarat2018ann}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d15029c802bff38149cd156bb0c77fe3}{%
@@ -7488,59 +7490,14 @@
       \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
       \endverb
     \endentry
-    \entry{pr_kamath2018suplearn}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=68e694a06a9d6b3c41665a1fe91e011c}{%
-           family={Kamath},
-           familyi={K\bibinitperiod},
-           given={R.\bibnamedelimi S.},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=05e23504222da69528ccde71569de146}{%
-           family={Kamat},
-           familyi={K\bibinitperiod},
-           given={R.\bibnamedelimi K.},
-           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Zenodo}%
-      }
-      \strng{namehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{fullhash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{bibnamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authorbibnamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authornamehash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \strng{authorfullhash}{1dee45d9d9ab1b6cdbff11eab5fcb2b0}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{International Journal of Information Technology, Modeling and Computing (IJITMC)}
-      \field{number}{1}
-      \field{title}{Supervised Learning Model For Kickstarter Campaigns With R Mining}
-      \field{volume}{4}
-      \field{year}{2018}
-      \verb{doi}
-      \verb 10.5281/zenodo.1228716
-      \endverb
-      \verb{urlraw}
-      \verb https://www.aircconline.com/ijitmc/V4N1/4116ijitmc02.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.aircconline.com/ijitmc/V4N1/4116ijitmc02.pdf
-      \endverb
-    \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=1cfc30479d29622a456cfefbcbdf6fa3}{%
+        {{un=0,uniquepart=base,hash=1cfc30479d29622a456cfefbcbdf6fa3}{%
            family={Kamath},
            familyi={K\bibinitperiod},
            given={Uday},
            giveni={U\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=43b0dce2cc8966238118a2bec6068e52}{%
            family={Liu},
            familyi={L\bibinitperiod},
@@ -7567,6 +7524,7 @@
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Deep Learning for NLP and Speech Recognition}
@@ -8761,6 +8719,72 @@
       \verb https://www.researchgate.net/publication/236604665_Statistics_Corner_A_guide_to_appropriate_use_of_Correlation_coefficient_in_medical_research
       \endverb
     \endentry
+    \entry{ot_napit2017ap}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3128b65dbdd8673cec28807c7e37a13}{%
+           family={{NapIT}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{fullhash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{bibnamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authorbibnamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authornamehash}{b3128b65dbdd8673cec28807c7e37a13}
+      \strng{authorfullhash}{b3128b65dbdd8673cec28807c7e37a13}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{3 Problemas que pueden perjudicar su Wireless Corporativo}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://napit.com.br/3-problemas-que-puedem-perjudicar-su-wireless-corporativo/
+      \endverb
+      \verb{url}
+      \verb https://napit.com.br/3-problemas-que-puedem-perjudicar-su-wireless-corporativo/
+      \endverb
+    \endentry
+    \entry{pr_nauata2021housegan}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79ed26621f29b65619a7f8e98b9da6d5}{%
+           family={Nauata},
+           familyi={N\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{fullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{bibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authorbibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authornamehash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{authorfullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer Vision Foundation}
+      \field{title}{House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects}
+      \field{year}{2021}
+      \verb{doi}
+      \verb https://doi.org/10.1109/CVPR46437.2021.01342
+      \endverb
+      \verb{urlraw}
+      \verb https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf
+      \endverb
+      \verb{url}
+      \verb https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf
+      \endverb
+    \endentry
     \entry{tec_ng2018bidirectionalRNN}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bdb4d740fc9548d1c32a62103c30169d}{%
@@ -9288,33 +9312,6 @@
       \field{title}{Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning}
       \field{year}{2019}
     \endentry
-    \entry{ot_rae_hidra}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b397d66b02476457c3703cb2d7051bea}{%
-           family={{Real Academia Española}},
-           familyi={R\bibinitperiod}}}%
-      }
-      \strng{namehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{fullhash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{bibnamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authorbibnamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authornamehash}{b397d66b02476457c3703cb2d7051bea}
-      \strng{authorfullhash}{b397d66b02476457c3703cb2d7051bea}
-      \field{extraname}{1}
-      \field{sortinit}{R}
-      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Hidra}
-      \verb{urlraw}
-      \verb https://dle.rae.es/hidra
-      \endverb
-      \verb{url}
-      \verb https://dle.rae.es/hidra
-      \endverb
-    \endentry
     \entry{gl_rae}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b397d66b02476457c3703cb2d7051bea}{%
@@ -9327,7 +9324,6 @@
       \strng{authorbibnamehash}{b397d66b02476457c3703cb2d7051bea}
       \strng{authornamehash}{b397d66b02476457c3703cb2d7051bea}
       \strng{authorfullhash}{b397d66b02476457c3703cb2d7051bea}
-      \field{extraname}{2}
       \field{sortinit}{R}
       \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
       \field{extradatescope}{labelyear}
@@ -9900,37 +9896,6 @@
       \verb http://incompleteideas.net/book/RLbook2018.pdf
       \endverb
     \endentry
-    \entry{cr_hustle2019successrate}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=ccfa6baf9cf2e529fdd727b083b8ae03}{%
-           family={{The Hustle}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{fullhash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{bibnamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authorbibnamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authornamehash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \strng{authorfullhash}{ccfa6baf9cf2e529fdd727b083b8ae03}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{9}
-      \field{month}{2}
-      \field{title}{What are your chances of successfully raising money on Kickstarter?}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb https://thehustle.co/crowdfunding-success-rate
-      \endverb
-      \verb{url}
-      \verb https://thehustle.co/crowdfunding-success-rate
-      \endverb
-    \endentry
     \entry{cr_tung2019backers}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=e88d1438d4573681d803f0e3ade3a683}{%
@@ -10048,34 +10013,6 @@
       \endverb
       \verb{url}
       \verb https://youtu.be/0odQ286nsIY
-      \endverb
-    \endentry
-    \entry{ot_webrobots2019kickstarter}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=6d75ec139b23ed572b6e3496381898ce}{%
-           family={{Web Robots}},
-           familyi={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{fullhash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{bibnamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authorbibnamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authornamehash}{6d75ec139b23ed572b6e3496381898ce}
-      \strng{authorfullhash}{6d75ec139b23ed572b6e3496381898ce}
-      \field{sortinit}{W}
-      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Kickstarter Datasets}
-      \field{year}{2019}
-      \verb{urlraw}
-      \verb https://webrobots.io/kickstarter-datasets/
-      \endverb
-      \verb{url}
-      \verb https://webrobots.io/kickstarter-datasets/
       \endverb
     \endentry
     \entry{cr_xuefeng2018chcrowdplatf}{article}{}
@@ -10514,6 +10451,37 @@
       \verb https://towardsdatascience.com/a-simple-explanation-of-the-bag-of-words-model-b88fc4f4971
       \endverb
     \endentry
+    \entry{ot_zig2020abi}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f51b679043a14b621ce3c311918d08f9}{%
+           family={Zignani},
+           familyi={Z\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{fullhash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{bibnamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authorbibnamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authornamehash}{f51b679043a14b621ce3c311918d08f9}
+      \strng{authorfullhash}{f51b679043a14b621ce3c311918d08f9}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ABI: 6 GHz band essential amid growing WiFi demand}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
+      \endverb
+      \verb{url}
+      \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
+      \endverb
+    \endentry
     \entry{tec_zimovnov2018text_preprocessing}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=373068bb9a8bfbcc290add8272392d18}{%
@@ -10546,6 +10514,11 @@
       \endverb
     \endentry
   \enddatalist
+  \missing{ot_googlecloud_freetrial}
+  \missing{ot_rae_hidra}
+  \missing{ot_webrobots2019kickstarter}
+  \missing{pr_beckwith2016predcrowd}
+  \missing{pr_kamath2018suplearn}
 \endrefsection
 \endinput
 
