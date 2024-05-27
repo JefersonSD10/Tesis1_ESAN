@@ -47,24 +47,143 @@
       \verb https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/
       \endverb
     \endentry
-    \entry{pr_alathari2023optimiap}{thesis}{}
+    \entry{pr_ahmed2019impactaps}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5e89856c4fe7e477e5b524e4d27f90c2}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Youssef},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d8f381051a06cef0eb76569c3e64910}{%
+           family={Pierre},
+           familyi={P\bibinitperiod},
+           given={ABI-CHARR},
+           giveni={A\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{fullhash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{bibnamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authorbibnamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authornamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authorfullhash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Xplore}
+      \field{title}{The Impact of Access Points Placement on Indoor Positioning Systems: A Probability-Based Approach}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.1109/TSP.2019.8768876
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8768876
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8768876
+      \endverb
+    \endentry
+    \entry{pr_ainun2022optikmeans}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b2a61521398b119fc08dca658bf8e9f9}{%
+           family={Ainun},
+           familyi={A\bibinitperiod},
+           given={Faiz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55e419fb4039a874fe6b82b63fb30904}{%
+           family={Mazharuddin},
+           familyi={M\bibinitperiod},
+           given={Ary},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{fullhash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{bibnamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authorbibnamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authornamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authorfullhash}{90776e3d149e94be2b6b52868974ed9a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPTEK The Journal of Technology and Science}
+      \field{number}{1}
+      \field{title}{Optimization of Access Point Positioning on Wi-Fi Networks using The K-Means Clustering Method}
+      \field{volume}{33}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.12962/j20882033.v33i1.12402
+      \endverb
+      \verb{urlraw}
+      \verb https://iptek.its.ac.id/index.php/jts/article/view/12402
+      \endverb
+      \verb{url}
+      \verb https://iptek.its.ac.id/index.php/jts/article/view/12402
+      \endverb
+    \endentry
+    \entry{pr_akhter2023interfacesetup}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=df2a75fe64461fdb0fc6b1664751dc7a}{%
+        {{un=0,uniquepart=base,hash=c2a3a5a77afcca19ea27c0b5a66cc433}{%
+           family={Akhter},
+           familyi={A\bibinitperiod},
+           given={Fatema},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{fullhash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{bibnamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authorbibnamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authornamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authorfullhash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{title}{An Interface Setup Optimization Method Using a Throughput Estimation Model for Concurrently Communicating Access Points in a Wireless Local Area Network}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.3390/s23146367
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/23/14/6367
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/23/14/6367
+      \endverb
+    \endentry
+    \entry{pr_alathari2023optaps}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a02678f378922f201ad63c9cc90fc823}{%
            family={Alathari},
            familyi={A\bibinitperiod},
-           given={B.},
+           given={Bashar},
            giveni={B\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{fullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{bibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authorbibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authornamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authorfullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{namehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{fullhash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{bibnamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authorbibnamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authornamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authorfullhash}{a02678f378922f201ad63c9cc90fc823}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -608,14 +727,54 @@
       \verb https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8
       \endverb
     \endentry
+    \entry{pr_cai2023precisewifi}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=404670cdcf6777f4aa61c92bdfef042d}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Minxue},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=eacb5c6f48e0a3d0df2bd50831fcf94d}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zihuai},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{fullhash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{bibnamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authorbibnamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authornamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authorfullhash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv:2307.02011}
+      \field{title}{Precise WiFi Indoor Positioning using Deep Learning Algorithms}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2307.02011
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2307.02011#:~:text=This%20study%20demonstrates%20a%20WiFi,and%20log%2Dnormal%20fading%20variance.
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2307.02011#:~:text=This%20study%20demonstrates%20a%20WiFi,and%20log%2Dnormal%20fading%20variance.
+      \endverb
+    \endentry
     \entry{tec_cai2017forecast}{report}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=661f995cf4900bf9a73313bc2be9a3fb}{%
+        {{un=1,uniquepart=given,hash=661f995cf4900bf9a73313bc2be9a3fb}{%
            family={Cai},
            familyi={C\bibinitperiod},
            given={Yiqing},
            giveni={Y\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=d666bc67969973630ff7ece54daff480}{%
            family={Moore},
            familyi={M\bibinitperiod},
@@ -669,7 +828,6 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{4}
@@ -783,170 +941,14 @@
       \verb http://www.diegocalvo.es/funcion-de-activacion-redes-neuronales/
       \endverb
     \endentry
-    \entry{pr_chaichi2019nlp_3dprinting}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=3cafa0a05edd6afecc0bd95a26be0c93}{%
-           family={Chaichi},
-           familyi={C\bibinitperiod},
-           given={Nina},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a2e1df4061baa7f040baa5cc78fd5f7a}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Timothy},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Portland, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{fullhash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{bibnamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authorbibnamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authornamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authorfullhash}{51d33e277ec78f271c1a673c24bca415}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2019 Portland International Conference on Management of Engineering and Technology (PICMET)}
-      \field{series}{PICMET '19}
-      \field{title}{Deploying Natural Language Processing to Extract Key Product Features of Crowdfunding Campaigns: The Case of 3D Printing Technologies on Kickstarter}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 9}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.23919/PICMET.2019.8893839
-      \endverb
-      \verb{urlraw}
-      \verb https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1221&context=etm_fac
-      \endverb
-      \verb{url}
-      \verb https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1221&context=etm_fac
-      \endverb
-    \endentry
-    \entry{pr_chen2013kickpredict}{report}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=983d591f2f65ee1e0373cdf4378da02d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=880623849ab6070f9416b77e3d16d574}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={Brock},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75f6a4f3eead9713d50021387d4feeaa}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Isaac},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7665be89749fbb59779c06b8eb644bb}{%
-           family={Schlamp},
-           familyi={S\bibinitperiod},
-           given={Brooklyn},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Instituto de Tecnología de California}%
-      }
-      \list{location}{1}{%
-        {California, Estados Unidos de América}%
-      }
-      \strng{namehash}{49f563b1dd03da9bda747713cfa16add}
-      \strng{fullhash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{bibnamehash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{authorbibnamehash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{authornamehash}{49f563b1dd03da9bda747713cfa16add}
-      \strng{authorfullhash}{620374e603645008eebffd0e9cc1e4a1}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{KickPredict: Predicting Kickstarter Success}
-      \field{type}{Reporte técnico}
-      \field{year}{2013}
-      \verb{urlraw}
-      \verb http://courses.cms.caltech.edu/cs145/2013/blue.pdf
-      \endverb
-      \verb{url}
-      \verb http://courses.cms.caltech.edu/cs145/2013/blue.pdf
-      \endverb
-    \endentry
-    \entry{pr_chen2019keywords_crowdfunding}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=04be7e1271a2bdef02d4eed0d90c7c5c}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Long-Sheng},
-           giveni={L\bibinithyphendelim S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=a1f3a49f4cf7783ab343b86073f8c2cf}{%
-           family={Shen},
-           familyi={S\bibinitperiod},
-           given={En-Li},
-           giveni={E\bibinithyphendelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Tokio, Japón}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{fullhash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{bibnamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authorbibnamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authornamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authorfullhash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2019 IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA)}
-      \field{series}{ICIEA '19}
-      \field{title}{Finding the Keywords Affecting the Success of Crowdfunding Projects}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{567\bibrangedash 571}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/IEA.2019.8714815
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/8714815
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/8714815
-      \endverb
-    \endentry
     \entry{cr_perry2012kickstarterproject}{online}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=bf108a23f9fd30dea730dad09348a8f7}{%
+        {{un=0,uniquepart=base,hash=bf108a23f9fd30dea730dad09348a8f7}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={Perry},
            giveni={P\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{organization}{1}{%
         {Kickstarter}%
@@ -961,6 +963,7 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The New Project Page}
@@ -970,137 +973,6 @@
       \endverb
       \verb{url}
       \verb https://www.kickstarter.com/blog/the-new-project-page
-      \endverb
-    \endentry
-    \entry{pr_chen2015predcrowd}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=ce84ab6ca882287ab52ae26f561041ed}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Shih-Ying},
-           giveni={S\bibinithyphendelim Y\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=dfcb63a13c32df80af8722b60de591e5}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Ching-Ning},
-           giveni={C\bibinithyphendelim N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee13ab9110a41bceb9884ebee334ea89}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Yu-Ren},
-           giveni={Y\bibinithyphendelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7de209a833689f59f8f14b1804cebad1}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Chih-Wei},
-           giveni={C\bibinithyphendelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=88583c3d621f38d626a2018abfe0eedf}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={Wan-Ching},
-           giveni={W\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=542e9c3668d05980aca3efe03f8d7cc5}{%
-           family={Wei},
-           familyi={W\bibinitperiod},
-           given={Chih-Ping},
-           giveni={C\bibinithyphendelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Nueva York, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Information Systems AIS Electronic Library (AISeL)}%
-      }
-      \strng{namehash}{47472b9b0a4af7b931e9da9c0d65b94f}
-      \strng{fullhash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{bibnamehash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{authorbibnamehash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{authornamehash}{47472b9b0a4af7b931e9da9c0d65b94f}
-      \strng{authorfullhash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Pacific Asia Conference on Information Systems (PACIS) 2015}
-      \field{series}{PACIS '15}
-      \field{title}{Will Your Project Get the Green Light? Predicting the Success of Crowdfunding Campaigns}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{pages}{79}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://aisel.aisnet.org/pacis2015/79
-      \endverb
-      \verb{url}
-      \verb http://aisel.aisnet.org/pacis2015/79
-      \endverb
-    \endentry
-    \entry{pr_cheng2019deeplearning}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=95ce53b44d77a255b5e72b99d1aba7ab}{%
-           family={Cheng},
-           familyi={C\bibinitperiod},
-           given={Chaoran},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8ddbbef1bac71574a951f689d0efa423}{%
-           family={Tan},
-           familyi={T\bibinitperiod},
-           given={Fei},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8f428a03a61853434c21b29e06ba8de8}{%
-           family={Hou},
-           familyi={H\bibinitperiod},
-           given={Xiurui},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=055fb0d8bcd9760f3edd13e328d1090d}{%
-           family={Wei},
-           familyi={W\bibinitperiod},
-           given={Zhi},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Macao, China}%
-      }
-      \strng{namehash}{ae21359550c49ed5f7ea8cc9aa833c59}
-      \strng{fullhash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{bibnamehash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{authorbibnamehash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{authornamehash}{ae21359550c49ed5f7ea8cc9aa833c59}
-      \strng{authorfullhash}{4441c81f2bec29f70f958ea1f869a11c}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Twenty-Eighth International Joint Conference on Artificial Intelligence}
-      \field{series}{IJCAI-19}
-      \field{title}{Success Prediction on Crowdfunding with Multimodal Deep Learning}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{2158\bibrangedash 2164}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.24963/ijcai.2019/299
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ijcai.org/proceedings/2019/0299.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.ijcai.org/proceedings/2019/0299.pdf
       \endverb
     \endentry
     \entry{tec_chengwei2018embedding}{online}{}
@@ -1413,56 +1285,27 @@
       \verb 10.3390/en11040949
       \endverb
     \endentry
-    \entry{pr_dorofki2012ann}{inbook}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=4f7fa9cbb06c04567de6fce5ea028312}{%
-           family={Dorofki},
+    \entry{pr_dou2023researchwir}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebc3116153084e1c2389a5881123e66b}{%
+           family={Dou},
            familyi={D\bibinitperiod},
-           given={Mohammad},
-           giveni={M\bibinitperiod},
+           given={Peilin},
+           giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b56f42c141db852120120f3f2c849452}{%
-           family={Elshafie},
-           familyi={E\bibinitperiod},
-           given={Ahmed\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7e9810e65be299946cccd4c6d5a9d94}{%
-           family={Jaafar},
-           familyi={J\bibinitperiod},
-           given={Othman},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ead2a58e98e52a086f965d319b483e31}{%
-           family={Karim},
-           familyi={K\bibinitperiod},
-           given={Othman\bibnamedelima A.},
-           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a7f5264b68edbeea5529cdbcca25b12b}{%
-           family={Mastura},
-           familyi={M\bibinitperiod},
-           given={Sharifah},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=68f05d30328713073bc7060b16c4d219}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Guohua},
+           giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=f1bd9ec00ed57a4705cd422bea7d164c}{%
-           family={IPCBEE},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IACSIT Press}%
-      }
-      \strng{namehash}{cef7ec19532285e9ad3c10f64942248c}
-      \strng{fullhash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{bibnamehash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{authorbibnamehash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{authornamehash}{cef7ec19532285e9ad3c10f64942248c}
-      \strng{authorfullhash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{editorbibnamehash}{f1bd9ec00ed57a4705cd422bea7d164c}
-      \strng{editornamehash}{f1bd9ec00ed57a4705cd422bea7d164c}
-      \strng{editorfullhash}{f1bd9ec00ed57a4705cd422bea7d164c}
+      \strng{namehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{fullhash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{bibnamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authorbibnamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authornamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authorfullhash}{abd9a3cbb7af8f227a279fb0b0fe5184}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -1470,18 +1313,62 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2012 International Conference on Environment, Energy and Biotechnology}
-      \field{title}{Comparison of Artificial Neural Network Transfer Functions Abilities to Simulate Extreme Runoff Data}
-      \field{volume}{33}
-      \field{year}{2012}
-      \field{dateera}{ce}
-      \field{pages}{40}
-      \range{pages}{1}
+      \field{journaltitle}{Applied Mathematics and Nonlinear Sciences}
+      \field{month}{6}
+      \field{title}{Research on Wireless Network Coverage for Transformation and Upgrading of Exhibition Management with Artificial Intelligence Technology}
+      \field{volume}{9}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.2478/amns.2023.1.00180
+      \endverb
       \verb{urlraw}
-      \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
+      \verb https://sciendo.com/article/10.2478/amns.2023.1.00180
       \endverb
       \verb{url}
-      \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
+      \verb https://sciendo.com/article/10.2478/amns.2023.1.00180
+      \endverb
+    \endentry
+    \entry{pr_dudhat2022indoorwir}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74ddf62e0bf8a0243c08ffc8db49c105}{%
+           family={Dudhat},
+           familyi={D\bibinitperiod},
+           given={Amitkumar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f016aa4654769cc4a32c0fffbcfa7f}{%
+           family={Mariyanti},
+           familyi={M\bibinitperiod},
+           given={Tatik},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{fullhash}{b988996726076ba49124fbefca98b4e0}
+      \strng{bibnamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authorbibnamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authornamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authorfullhash}{b988996726076ba49124fbefca98b4e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Cyber and IT Service Management (IJCITSM)}
+      \field{number}{1}
+      \field{title}{Indoor Wireless Network Coverage Area Optimization}
+      \field{volume}{2}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.34306/ijcitsm.v2i1.86
+      \endverb
+      \verb{urlraw}
+      \verb https://iiast.iaic-publisher.org/ijcitsm/index.php/IJCITSM/article/view/86
+      \endverb
+      \verb{url}
+      \verb https://iiast.iaic-publisher.org/ijcitsm/index.php/IJCITSM/article/view/86
       \endverb
     \endentry
     \entry{ot_elpais2023wifi}{misc}{}
@@ -1510,67 +1397,6 @@
       \endverb
       \verb{url}
       \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
-      \endverb
-    \endentry
-    \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=e567e8728541b2381f08ac0d316d5edb}{%
-           family={Fernandez-Blanco},
-           familyi={F\bibinithyphendelim B\bibinitperiod},
-           given={Aladino},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b4399166c5c6899efceaedc16305b81}{%
-           family={Villanueva-Balsera},
-           familyi={V\bibinithyphendelim B\bibinitperiod},
-           given={Joaquin},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75ec820495bcff9a1d605284f771a4a0}{%
-           family={Rodriguez-Montequin},
-           familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={Vicente},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=38ca65309f8cee45f62b7e5bffb7d8da}{%
-           family={Moran-Palacios},
-           familyi={M\bibinithyphendelim P\bibinitperiod},
-           given={Henar},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{8be74b8874238aef2c5e3b993337e0da}
-      \strng{fullhash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{bibnamehash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{authorbibnamehash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{authornamehash}{8be74b8874238aef2c5e3b993337e0da}
-      \strng{authorfullhash}{0f00401c6d9e5697b3955ed6063799cc}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Sustainability}
-      \field{month}{1}
-      \field{number}{2}
-      \field{title}{Key Factors for Project Crowdfunding Success: An Empirical Study}
-      \field{volume}{12}
-      \field{year}{2020}
-      \field{pages}{599}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/su12020599
-      \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/2071-1050/12/2/599/pdf
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/2071-1050/12/2/599/pdf
       \endverb
     \endentry
     \entry{tec_figueroa_convolucion}{article}{}
@@ -1835,6 +1661,89 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+      \endverb
+    \endentry
+    \entry{pr_hosseini2023NSGAIIap}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e8b0e490bef038dc6484ca1ef9cbb694}{%
+           family={Hamid\bibnamedelima Hosseini},
+           familyi={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Mohammad\bibnamedelima Taleai},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e8a9042a189018a6a5cc6f882f465a5}{%
+           family={Zlatanova},
+           familyi={Z\bibinitperiod},
+           given={Sisi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{fullhash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{bibnamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authorbibnamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authornamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authorfullhash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automation in Construction}
+      \field{title}{NSGA-II based optimal Wi-Fi access point placement for indoor positioning: A BIM-based RSS prediction}
+      \field{volume}{152}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.autcon.2023.104897
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0926580523001577?via%3Dihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0926580523001577?via%3Dihub
+      \endverb
+    \endentry
+    \entry{pr_tang2023graphtransfor}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3c026c32b6b4c3551615c4fac728e12b}{%
+           family={Hao\bibnamedelima Tang},
+           familyi={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Zhenyu\bibnamedelima Zhang},
+           giveni={Z\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81d65bc4502134b1ebce663ddcdc52cf}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Humphrey},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{fullhash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{bibnamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authorbibnamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authornamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authorfullhash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv:2303.08225v1}
+      \field{title}{Graph Transformer GANs for Graph-Constrained House Generation}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2303.08225
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2303.08225
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2303.08225
       \endverb
     \endentry
     \entry{bk_hernandez2014metodologia}{book}{}
@@ -2210,74 +2119,45 @@
       \verb 10.1109/ACCESS.2019.2933262
       \endverb
     \endentry
-    \entry{pr_jin2019dayssuccess}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=b99915a5baf2c1681937b5b89dacad79}{%
-           family={Jin},
-           familyi={J\bibinitperiod},
-           given={Binbin},
-           giveni={B\bibinitperiod},
+    \entry{pr_chang2021buildinggan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87dfb1040103cc749a4610cbd57001a4}{%
+           family={Kai-Hung\bibnamedelima Chang},
+           familyi={K\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Chin-Yi\bibnamedelima Cheng},
+           giveni={C\bibinithyphendelim Y\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=28d6a57a98a31fe2c68433935cccc0d7}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Hongke},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=439e8d5e114670edea6f746db3c18b5b}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Enhong},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b07af422f6616fac129405a8b4b1de4}{%
-           family={Liu},
+        {{un=0,uniquepart=base,hash=3feee19f8821af368b851298057f4f3a}{%
+           family={Luo},
            familyi={L\bibinitperiod},
-           given={Qi},
-           giveni={Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=85670d97bd4b38184f6db06c023a19e6}{%
-           family={Ge},
-           familyi={G\bibinitperiod},
-           given={Yong},
-           giveni={Y\bibinitperiod},
+           given={Jieliang},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Honolulu, Hawái}%
-      }
-      \list{publisher}{1}{%
-        {Association for the Advancement of Artificial}%
-      }
-      \strng{namehash}{41240192e0b85824522526c886a435dc}
-      \strng{fullhash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{bibnamehash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{authorbibnamehash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{authornamehash}{41240192e0b85824522526c886a435dc}
-      \strng{authorfullhash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \strng{namehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{fullhash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{bibnamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authorbibnamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authornamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authorfullhash}{ddda9c22758b52520f8c8f32b17549f0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{33rd AAAI Conference on Artificial Intelligence (AAAI'2019)}
-      \field{series}{AAAI'2019}
-      \field{title}{Estimating the Days to Success of Campaigns in Crowdfunding: A Deep Survival Perspective}
-      \field{volume}{33}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{4023\bibrangedash 4030}
-      \range{pages}{8}
+      \field{journaltitle}{arXiv:2104.13316v1}
+      \field{title}{Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation}
+      \field{year}{2021}
       \verb{doi}
-      \verb 10.1609/aaai.v33i01.33014023
+      \verb https://doi.org/10.48550/arXiv.2104.13316
       \endverb
       \verb{urlraw}
-      \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
+      \verb https://arxiv.org/abs/2104.13316
       \endverb
       \verb{url}
-      \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
+      \verb https://arxiv.org/abs/2104.13316
       \endverb
     \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
@@ -2320,54 +2200,6 @@
       \field{title}{Deep Learning for NLP and Speech Recognition}
       \field{year}{2019}
     \endentry
-    \entry{pr_kaur2017socmedcrowd}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6eb51c954e0d16776b80e176644b1573}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Harmeet},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e9fdd02ef649632ba708d27c38831a92}{%
-           family={Gera},
-           familyi={G\bibinitperiod},
-           given={Jaya},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier B.V}%
-      }
-      \strng{namehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{fullhash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{bibnamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authorbibnamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authornamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authorfullhash}{48394811cde3c094a3d4f529e78a5177}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Procedia Computer Science}
-      \field{month}{11}
-      \field{title}{Effect of Social Media Connectivity on Success of Crowdfunding Campaigns}
-      \field{volume}{122}
-      \field{year}{2017}
-      \field{pages}{767\bibrangedash 774}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1016/j.procs.2017.11.435
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S1877050917326832
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S1877050917326832
-      \endverb
-    \endentry
     \entry{tec_keras_modeltraining}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7fee7bb66f4294c3e32783efa7d9bafc}{%
@@ -2392,6 +2224,49 @@
       \endverb
       \verb{url}
       \verb https://keras.io/api/models/model_training_apis/
+      \endverb
+    \endentry
+    \entry{pr_ketkhaw2019deepl}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9ce10b38e24c5206eabbadc6fc6baf41}{%
+           family={Ketkhaw},
+           familyi={K\bibinitperiod},
+           given={Apisak},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4297044735afea6902cf974c6292f72e}{%
+           family={Thipchaksurat},
+           familyi={T\bibinitperiod},
+           given={Sakchai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{fullhash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{bibnamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authorbibnamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authornamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authorfullhash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mobile Multimedia}
+      \field{number}{4}
+      \field{title}{Location Prediction of Rogue Access Point Based on Deep Neural Network Approach}
+      \field{volume}{18}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.13052/jmm1550-4646.1845
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.riverpublishers.com/index.php/JMM/article/view/9123
+      \endverb
+      \verb{url}
+      \verb https://journals.riverpublishers.com/index.php/JMM/article/view/9123
       \endverb
     \endentry
     \entry{cr_kickstarter_about}{online}{}
@@ -2734,6 +2609,41 @@
       \verb 10.1016/j.jik.2016.01.010
       \endverb
     \endentry
+    \entry{pr_lee2015coverage3d}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=9a070b49f93222a6bda832b076836da6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gunhak},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{fullhash}{9a070b49f93222a6bda832b076836da6}
+      \strng{bibnamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authorbibnamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authornamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authorfullhash}{9a070b49f93222a6bda832b076836da6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers, Environment and Urban Systems}
+      \field{title}{3D coverage location modeling of Wi-Fi access point placement in indoor environment}
+      \field{volume}{54}
+      \field{year}{2015}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compenvurbsys.2015.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
+      \endverb
+    \endentry
     \entry{cr_lee2019crwdfactors}{article}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=b686d37b5d383d1396d814af4534a68d}{%
@@ -2800,71 +2710,14 @@
       \field{pages}{35\bibrangedash 46}
       \range{pages}{12}
     \endentry
-    \entry{pr_lee2018contentDL}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=e103f6590410869aaf802a1a6647d767}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={SeungHun},
-           giveni={S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=cc6f4b234f2934964a63d9d1b013d306}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={KangHee},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=319b6cd254b2142b29f8f53c4ba17096}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Hyun-chul},
-           giveni={H\bibinithyphendelim c\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Jersey City, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{6e6a928c9473d4c957d5653c1ce16f83}
-      \strng{fullhash}{5539b5840be4a687a28b0bd035573919}
-      \strng{bibnamehash}{5539b5840be4a687a28b0bd035573919}
-      \strng{authorbibnamehash}{5539b5840be4a687a28b0bd035573919}
-      \strng{authornamehash}{6e6a928c9473d4c957d5653c1ce16f83}
-      \strng{authorfullhash}{5539b5840be4a687a28b0bd035573919}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781450360180}
-      \field{journaltitle}{Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing}
-      \field{series}{CSCW '18}
-      \field{title}{Content-based Success Prediction of Crowdfunding Campaigns: A Deep	Learning Approach}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{193\bibrangedash 196}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1145/3272973.3274053
-      \endverb
-      \verb{urlraw}
-      \verb https://dl.acm.org/doi/10.1145/3272973.3274053
-      \endverb
-      \verb{url}
-      \verb https://dl.acm.org/doi/10.1145/3272973.3274053
-      \endverb
-    \endentry
     \entry{tec_li2019cnn}{report}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=9147b1a8523fee33e02ea8ada6fde536}{%
+        {{un=0,uniquepart=base,hash=9147b1a8523fee33e02ea8ada6fde536}{%
            family={Li},
            familyi={L\bibinitperiod},
            given={Fei-Fei},
            giveni={F\bibinithyphendelim F\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=90edc587e1d523d4e173b1fe6e733445}{%
            family={Johnson},
            familyi={J\bibinitperiod},
@@ -2891,6 +2744,7 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Convolutional Neural Networks}
@@ -2901,62 +2755,6 @@
       \endverb
       \verb{url}
       \verb http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture05.pdf
-      \endverb
-    \endentry
-    \entry{pr_li2016predcrowd}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=92e14a8c19eb5a0c7c199c85db74f106}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yan},
-           giveni={Y\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=621aa097f1e0719c8b7222c3fe35983c}{%
-           family={Rakesh},
-           familyi={R\bibinitperiod},
-           given={Vineeth},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=032468e36a0ab9511f98a11f03bbcea1}{%
-           family={Reddy},
-           familyi={R\bibinitperiod},
-           given={Chandan\bibnamedelima K.},
-           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{a71fd46be5707627f7ffea030721fc93}
-      \strng{fullhash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{bibnamehash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{authorbibnamehash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{authornamehash}{a71fd46be5707627f7ffea030721fc93}
-      \strng{authorfullhash}{09fad6021b29f981f341d4813de2e15c}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Ninth ACM International Conference on web search and data mining}
-      \field{series}{WSDM '16}
-      \field{title}{Project Success Prediction in Crowdfunding Environments}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{pages}{247\bibrangedash 256}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1145/2835776.2835791
-      \endverb
-      \verb{urlraw}
-      \verb http://dl.acm.org/citation.cfm?id=2835791
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=2835791
       \endverb
     \endentry
     \entry{cr_lichtig2015crowdfunding}{article}{}
@@ -3237,6 +3035,49 @@
       \verb https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
       \endverb
     \endentry
+    \entry{pr_contreras2021modelwlan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2d2fb3aed7d4e6d446fde0fda406bbf9}{%
+           family={Martha\bibnamedelima Contreras},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Juan\bibnamedelima Vesga},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5c7ad588e7327948775785f31b64de}{%
+           family={Vesga},
+           familyi={V\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{fullhash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{bibnamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authorbibnamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authornamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authorfullhash}{a91cb95106e671c931c609f3d9b78a05}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Investigación e Innovación en Ingenierías}
+      \field{number}{1}
+      \field{title}{Modelo de optimización para la ubicación de Access Point en redes WLAN}
+      \field{volume}{9}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.17081/invinno.9.1.4203
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
+      \endverb
+      \verb{url}
+      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
+      \endverb
+    \endentry
     \entry{gl_mathworks_svm}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
@@ -3378,57 +3219,6 @@
       \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
       \endverb
     \endentry
-    \entry{pr_mitra2014phrases}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=4adddece80ffbb8473c9268318a702c9}{%
-           family={Mitra},
-           familyi={M\bibinitperiod},
-           given={Tanushree},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c3163690c9103d2541d6910886053ba6}{%
-           family={Gilbert},
-           familyi={G\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Baltimore, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{fullhash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{bibnamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authorbibnamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authornamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authorfullhash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{17th ACM conference on Computer supported cooperative work \& social computing}
-      \field{series}{CSCW '14}
-      \field{title}{The Language that Gets People to Give: Phrases that Predict Success on Kickstarter}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{pages}{49\bibrangedash 61}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1145/2531602.2531656
-      \endverb
-      \verb{urlraw}
-      \verb http://comp.social.gatech.edu/papers/cscw14.crowdfunding.mitra.pdf
-      \endverb
-      \verb{url}
-      \verb http://comp.social.gatech.edu/papers/cscw14.crowdfunding.mitra.pdf
-      \endverb
-    \endentry
     \entry{gl_molina2017pediatria_curvaroc}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=05200cea61fff6478dcd41cc1a3e7863}{%
@@ -3509,6 +3299,43 @@
       \verb https://www.researchgate.net/publication/236604665_Statistics_Corner_A_guide_to_appropriate_use_of_Correlation_coefficient_in_medical_research
       \endverb
     \endentry
+    \entry{pr_mukti2021placemodelindo}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=baa58c5e4b75ba8d3c7684bb8240d69c}{%
+           family={Mukti},
+           familyi={M\bibinitperiod},
+           given={Fransiska},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{fullhash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{bibnamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authorbibnamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authornamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authorfullhash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computing and Digital Systems}
+      \field{number}{1}
+      \field{title}{Access Point Placement Model for Indoor Environment using Hybrid Empirical Propagation and Simulated Annealing Algorithm}
+      \field{volume}{10}
+      \field{year}{2021}
+      \verb{doi}
+      \verb http://dx.doi.org/10.12785/ijcds/100183
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.uob.edu.bh/handle/123456789/4219
+      \endverb
+      \verb{url}
+      \verb https://journal.uob.edu.bh/handle/123456789/4219
+      \endverb
+    \endentry
     \entry{ot_napit2017ap}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3128b65dbdd8673cec28807c7e37a13}{%
@@ -3538,23 +3365,29 @@
       \endverb
     \endentry
     \entry{pr_nauata2021housegan}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=79ed26621f29b65619a7f8e98b9da6d5}{%
-           family={Nauata},
-           familyi={N\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod},
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=97516bb8b5a98e6f2275aac1bb202986}{%
+           family={Nelson\bibnamedelima Nauata},
+           familyi={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Sepidehsadat\bibnamedelima Hosseini},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b93f1456eb79c94746135b09f85a1c1}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Kai-Hung},
+           giveni={K\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{fullhash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{bibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authorbibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authornamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authorfullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{namehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{fullhash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{bibnamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authorbibnamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authornamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authorfullhash}{a41b1fa450c0697dd47326b6b9aef158}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -3645,6 +3478,48 @@
       \endverb
       \verb{url}
       \verb http://www.nlab.ci.i.u-tokyo.ac.jp/projects/deeplearn-e.html
+      \endverb
+    \endentry
+    \entry{pr_ozerol2023genermass}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2948b4221528286dadaee4d6b4486f6a}{%
+           family={Özerol},
+           familyi={Ö\bibinitperiod},
+           given={Gizem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c681171aad62fc199c05238609bad76}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={Semra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{fullhash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{bibnamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authorbibnamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authornamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authorfullhash}{854f1a5e30f1847b57ea493823b71ce9}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Architecture and Planning Journal (APJ)}
+      \field{title}{Generating Mass Housing Plans Through Gans - A Case in Toki, Turkey}
+      \field{volume}{28}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.54729/2789-8547.1197
+      \endverb
+      \verb{urlraw}
+      \verb https://digitalcommons.bau.edu.lb/apj/vol28/iss3/2/
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.bau.edu.lb/apj/vol28/iss3/2/
       \endverb
     \endentry
     \entry{tec_scikitlearn}{article}{}
@@ -4033,6 +3908,48 @@
       \field{pages}{140}
       \range{pages}{1}
     \endentry
+    \entry{pr_chen2020intelhome3d}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18394247aacfe7bb4d2503b74ba5c6bb}{%
+           family={Qi\bibnamedelima Chen},
+           familyi={Q\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Qi\bibnamedelima Wu},
+           giveni={Q\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9808131c304b46a1a1de697001684f1b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{fullhash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{bibnamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authorbibnamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authornamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authorfullhash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{3}
+      \field{title}{Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2003.00397
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2003.00397
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2003.00397
+      \endverb
+    \endentry
     \entry{tec_ranjan2019thumbrules}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=138183e14e5a991d939c81f02604e7bb}{%
@@ -4365,56 +4282,6 @@
       \verb https://www.sas.com/es_pe/insights/analytics/deep-learning.html
       \endverb
     \endentry
-    \entry{pr_sawhney2016usingLT}{report}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=928d5f8906d253b915a0a4a24d8585b4}{%
-           family={Sawhney},
-           familyi={S\bibinitperiod},
-           given={Kartik},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4517dc2101cfb9ec22665af171cd8751}{%
-           family={Tran},
-           familyi={T\bibinitperiod},
-           given={Caelin},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d4b337f3c40cd78e358cb70f99126649}{%
-           family={Tuason},
-           familyi={T\bibinitperiod},
-           given={Ramon},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Universidad Standford}%
-      }
-      \list{location}{1}{%
-        {California, Estados Unidos de América}%
-      }
-      \strng{namehash}{bab1a683e00f7ef93c59748cc576fdb7}
-      \strng{fullhash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{bibnamehash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{authorbibnamehash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{authornamehash}{bab1a683e00f7ef93c59748cc576fdb7}
-      \strng{authorfullhash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Using Language to Predict Kickstarter Success}
-      \field{type}{Reporte técnico}
-      \field{year}{2016}
-      \verb{urlraw}
-      \verb https://stanford.edu/~kartiks2/kickstarter.pdf
-      \endverb
-      \verb{url}
-      \verb https://stanford.edu/~kartiks2/kickstarter.pdf
-      \endverb
-    \endentry
     \entry{tec_minmaxscaler}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ae928b07781d0af9cd222cc0af04ec88}{%
@@ -4483,30 +4350,21 @@
       \verb http://www.ijisr.issr-journals.org/abstract.php?article=IJISR-14-281-04
       \endverb
     \endentry
-    \entry{pr_shafqat2019topicpredictions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9baa9a9ee8ca0704dbfcafec1de80f22}{%
-           family={Shafqat},
+    \entry{pr_shen2018localaplognor}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee2287ad7378c30e72f5ee04b107d777}{%
+           family={Shen},
            familyi={S\bibinitperiod},
-           given={Wafa},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8acb2b6e48919c3938f69bb7462fb1fe}{%
-           family={Byun},
-           familyi={B\bibinitperiod},
-           given={Yung-Cheol},
-           giveni={Y\bibinithyphendelim C\bibinitperiod},
+           given={Jushang},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{fullhash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{bibnamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authorbibnamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authornamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authorfullhash}{a75d6f72303370a6e9de75efc94e6648}
+      \strng{namehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{fullhash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{bibnamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authorbibnamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authornamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authorfullhash}{ee2287ad7378c30e72f5ee04b107d777}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -4514,22 +4372,17 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Applied Sciences}
-      \field{month}{11}
-      \field{number}{24}
-      \field{title}{Topic Predictions and Optimized Recommendation	Mechanism Based on Integrated Topic Modeling and Deep Neural Networks in Crowdfunding Platforms}
-      \field{volume}{9}
-      \field{year}{2019}
-      \field{pages}{5496}
-      \range{pages}{1}
+      \field{journaltitle}{2018 IEEE Wireless Communications and Networking Conference (WCNC)}
+      \field{title}{Localization of Access Points Based on the Rayleigh Lognormal Model}
+      \field{year}{2018}
       \verb{doi}
-      \verb 10.3390/app9245496
+      \verb https://doi.org/10.1109/WCNC.2018.8377059
       \endverb
       \verb{urlraw}
-      \verb https://www.mdpi.com/2076-3417/9/24/5496/pdf
+      \verb https://ieeexplore.ieee.org/document/8377059
       \endverb
       \verb{url}
-      \verb https://www.mdpi.com/2076-3417/9/24/5496/pdf
+      \verb https://ieeexplore.ieee.org/document/8377059
       \endverb
     \endentry
     \entry{gl_bigdata2019metricas}{misc}{}
@@ -4857,12 +4710,12 @@
     \endentry
     \entry{cr_yu2017kickstarter_course}{report}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=4b42a6a8c9f54e5b570f803edaea7463}{%
+        {{un=0,uniquepart=base,hash=4b42a6a8c9f54e5b570f803edaea7463}{%
            family={Yu},
            familyi={Y\bibinitperiod},
            given={Angela},
            giveni={A\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {Udemy}%
@@ -4877,6 +4730,7 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Complete Crowdfunding Course for Kickstarter \& Indiegogo}
@@ -4885,141 +4739,14 @@
       \field{pages}{1\bibrangedash 85}
       \range{pages}{85}
     \endentry
-    \entry{pr_yu2018deeplearning}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=d3b838ceb6ea0136cecfe19c4b611a0c}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={Pi-Fen},
-           giveni={P\bibinithyphendelim F\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=311643315097206f0f8df3337383085a}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Fu-Ming},
-           giveni={F\bibinithyphendelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=533c82a54eee436a530456ecbf1066b0}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Chuan},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5fd7574ac4d19e691fa34327326f9f0a}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Yu-Hsin},
-           giveni={Y\bibinithyphendelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=daaf76bb6536b00a49907281b8b64b4e}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Zi-Yi},
-           giveni={Z\bibinithyphendelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d3d44cea6f679e20a7f0c4f383ce6ab}{%
-           family={Tsai},
-           familyi={T\bibinitperiod},
-           given={Cheng-Hung},
-           giveni={C\bibinithyphendelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Xi'an, China}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{e331cf1c778984835d343940d7f29cc1}
-      \strng{fullhash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{bibnamehash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{authorbibnamehash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{authornamehash}{e331cf1c778984835d343940d7f29cc1}
-      \strng{authorfullhash}{11681b48ddfa53636f79f63b6130e818}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)}
-      \field{series}{ICEBE '18}
-      \field{title}{Prediction of Crowdfunding Project Success with Deep Learning}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 8}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1109/ICEBE.2018.00012
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/8592623
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/8592623
-      \endverb
-    \endentry
-    \entry{pr_yuan2016textanalytics}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=8f3ed4b2f5fd45048b82c0528592a87c}{%
-           family={Yuan},
-           familyi={Y\bibinitperiod},
-           given={Hui},
-           giveni={H\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=4bc99eef079dcf0abdc0d747d1f2a577}{%
-           family={Lau},
-           familyi={L\bibinitperiod},
-           given={Raymond\bibnamedelima Y.K.},
-           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b1dd1a9ff59cc6aeba590fc68bcc39cf}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Wei},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier B.V}%
-      }
-      \strng{namehash}{6c1720dd33db78cc0b820d8d46894be8}
-      \strng{fullhash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{bibnamehash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{authorbibnamehash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{authornamehash}{6c1720dd33db78cc0b820d8d46894be8}
-      \strng{authorfullhash}{eb74a7988f16f9749534097012f4a1aa}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Decision Support Systems}
-      \field{month}{11}
-      \field{title}{The Determinants of Crowdfunding Success: A Semantic Text Analytics Approach}
-      \field{volume}{91}
-      \field{year}{2016}
-      \field{pages}{67\bibrangedash 76}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.dss.2016.08.001
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0167923616301373
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0167923616301373
-      \endverb
-    \endentry
     \entry{tec_yuan2019lstm}{article}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=ecb55833597933ca227cfe0f18a0cbcb}{%
+        {{un=0,uniquepart=base,hash=ecb55833597933ca227cfe0f18a0cbcb}{%
            family={Yuan},
            familyi={Y\bibinitperiod},
            given={Xiaofeng},
            giveni={X\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=1df2b6f67a5a1fe41f9bc9df027cdb34}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -5043,6 +4770,7 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Industrial Informatics}
@@ -5137,77 +4865,6 @@
       \verb https://www.aclweb.org/anthology/I17-1026.pdf
       \endverb
     \endentry
-    \entry{pr_zhou2015projectdesc}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=ea82f1187cf74ae3aeeef6f1667648d1}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Mi},
-           giveni={M\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=2c65dc0155fc0f151c939cd8fa10040e}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Xuan},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3cbdf99841be904d994f49025761e54c}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Alan\bibnamedelima G.},
-           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=153d11ac951f665b3f17562bc7c0f863}{%
-           family={Du},
-           familyi={D\bibinitperiod},
-           given={Qianzhou},
-           giveni={Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=da5f97f3f45755126f9902730816d591}{%
-           family={Qiao},
-           familyi={Q\bibinitperiod},
-           given={Zhilei},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6df18b85690d40933f3d509159a6bcfd}{%
-           family={Fan},
-           familyi={F\bibinitperiod},
-           given={Weiguo},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Puerto Rico}%
-      }
-      \list{publisher}{1}{%
-        {Association for Information Systems}%
-      }
-      \strng{namehash}{a60d2b6a0553b81678215223661371c8}
-      \strng{fullhash}{49968c8277294bc995e4ab547026949b}
-      \strng{bibnamehash}{49968c8277294bc995e4ab547026949b}
-      \strng{authorbibnamehash}{49968c8277294bc995e4ab547026949b}
-      \strng{authornamehash}{a60d2b6a0553b81678215223661371c8}
-      \strng{authorfullhash}{49968c8277294bc995e4ab547026949b}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{12}
-      \field{journaltitle}{Twenty-first Americas Conference on Information Systems, Puerto Rico, 2015}
-      \field{month}{8}
-      \field{series}{AMCIS '15}
-      \field{title}{Money Talks: A Predictive Model on Crowdfunding Success Using Project Description}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb http://aisel.aisnet.org/amcis2015/BizAnalytics/GeneralPresentations/37
-      \endverb
-      \verb{url}
-      \verb http://aisel.aisnet.org/amcis2015/BizAnalytics/GeneralPresentations/37
-      \endverb
-    \endentry
     \entry{tec_zhou2019bow}{online}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=92fbef0a0ce86c0e3aef107ef15821f6}{%
@@ -5230,6 +4887,7 @@
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A Simple Explanation of the Bag-of-Words Model}
@@ -5333,24 +4991,143 @@
       \verb https://www.anotsorandomwalk.com/backpropagation-example-with-numbers-step-by-step/
       \endverb
     \endentry
-    \entry{pr_alathari2023optimiap}{thesis}{}
+    \entry{pr_ahmed2019impactaps}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5e89856c4fe7e477e5b524e4d27f90c2}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Youssef},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d8f381051a06cef0eb76569c3e64910}{%
+           family={Pierre},
+           familyi={P\bibinitperiod},
+           given={ABI-CHARR},
+           giveni={A\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{fullhash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{bibnamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authorbibnamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authornamehash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \strng{authorfullhash}{d080dc09c935ad6fbb4c98ce52f695f3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Xplore}
+      \field{title}{The Impact of Access Points Placement on Indoor Positioning Systems: A Probability-Based Approach}
+      \field{year}{2019}
+      \verb{doi}
+      \verb https://doi.org/10.1109/TSP.2019.8768876
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/8768876
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/8768876
+      \endverb
+    \endentry
+    \entry{pr_ainun2022optikmeans}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b2a61521398b119fc08dca658bf8e9f9}{%
+           family={Ainun},
+           familyi={A\bibinitperiod},
+           given={Faiz},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55e419fb4039a874fe6b82b63fb30904}{%
+           family={Mazharuddin},
+           familyi={M\bibinitperiod},
+           given={Ary},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{fullhash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{bibnamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authorbibnamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authornamehash}{90776e3d149e94be2b6b52868974ed9a}
+      \strng{authorfullhash}{90776e3d149e94be2b6b52868974ed9a}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IPTEK The Journal of Technology and Science}
+      \field{number}{1}
+      \field{title}{Optimization of Access Point Positioning on Wi-Fi Networks using The K-Means Clustering Method}
+      \field{volume}{33}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.12962/j20882033.v33i1.12402
+      \endverb
+      \verb{urlraw}
+      \verb https://iptek.its.ac.id/index.php/jts/article/view/12402
+      \endverb
+      \verb{url}
+      \verb https://iptek.its.ac.id/index.php/jts/article/view/12402
+      \endverb
+    \endentry
+    \entry{pr_akhter2023interfacesetup}{article}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=df2a75fe64461fdb0fc6b1664751dc7a}{%
+        {{un=0,uniquepart=base,hash=c2a3a5a77afcca19ea27c0b5a66cc433}{%
+           family={Akhter},
+           familyi={A\bibinitperiod},
+           given={Fatema},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{fullhash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{bibnamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authorbibnamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authornamehash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \strng{authorfullhash}{c2a3a5a77afcca19ea27c0b5a66cc433}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{title}{An Interface Setup Optimization Method Using a Throughput Estimation Model for Concurrently Communicating Access Points in a Wireless Local Area Network}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.3390/s23146367
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1424-8220/23/14/6367
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1424-8220/23/14/6367
+      \endverb
+    \endentry
+    \entry{pr_alathari2023optaps}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a02678f378922f201ad63c9cc90fc823}{%
            family={Alathari},
            familyi={A\bibinitperiod},
-           given={B.},
+           given={Bashar},
            giveni={B\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {Springer}%
       }
-      \strng{namehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{fullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{bibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authorbibnamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authornamehash}{df2a75fe64461fdb0fc6b1664751dc7a}
-      \strng{authorfullhash}{df2a75fe64461fdb0fc6b1664751dc7a}
+      \strng{namehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{fullhash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{bibnamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authorbibnamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authornamehash}{a02678f378922f201ad63c9cc90fc823}
+      \strng{authorfullhash}{a02678f378922f201ad63c9cc90fc823}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -5894,14 +5671,54 @@
       \verb https://towardsdatascience.com/creating-word-embeddings-coding-the-word2vec-algorithm-in-python-using-deep-learning-b337d0ba17a8
       \endverb
     \endentry
+    \entry{pr_cai2023precisewifi}{article}{}
+      \name{author}{2}{}{%
+        {{un=1,uniquepart=given,hash=404670cdcf6777f4aa61c92bdfef042d}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Minxue},
+           giveni={M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=eacb5c6f48e0a3d0df2bd50831fcf94d}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Zihuai},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{fullhash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{bibnamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authorbibnamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authornamehash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \strng{authorfullhash}{b82085ffccf4c0cd0477fb37269c5c3a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv:2307.02011}
+      \field{title}{Precise WiFi Indoor Positioning using Deep Learning Algorithms}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2307.02011
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2307.02011#:~:text=This%20study%20demonstrates%20a%20WiFi,and%20log%2Dnormal%20fading%20variance.
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2307.02011#:~:text=This%20study%20demonstrates%20a%20WiFi,and%20log%2Dnormal%20fading%20variance.
+      \endverb
+    \endentry
     \entry{tec_cai2017forecast}{report}{}
       \name{author}{8}{}{%
-        {{un=0,uniquepart=base,hash=661f995cf4900bf9a73313bc2be9a3fb}{%
+        {{un=1,uniquepart=given,hash=661f995cf4900bf9a73313bc2be9a3fb}{%
            family={Cai},
            familyi={C\bibinitperiod},
            given={Yiqing},
            giveni={Y\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=d666bc67969973630ff7ece54daff480}{%
            family={Moore},
            familyi={M\bibinitperiod},
@@ -5955,7 +5772,6 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{4}
@@ -6069,170 +5885,14 @@
       \verb http://www.diegocalvo.es/funcion-de-activacion-redes-neuronales/
       \endverb
     \endentry
-    \entry{pr_chaichi2019nlp_3dprinting}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=3cafa0a05edd6afecc0bd95a26be0c93}{%
-           family={Chaichi},
-           familyi={C\bibinitperiod},
-           given={Nina},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a2e1df4061baa7f040baa5cc78fd5f7a}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Timothy},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Portland, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{fullhash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{bibnamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authorbibnamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authornamehash}{51d33e277ec78f271c1a673c24bca415}
-      \strng{authorfullhash}{51d33e277ec78f271c1a673c24bca415}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2019 Portland International Conference on Management of Engineering and Technology (PICMET)}
-      \field{series}{PICMET '19}
-      \field{title}{Deploying Natural Language Processing to Extract Key Product Features of Crowdfunding Campaigns: The Case of 3D Printing Technologies on Kickstarter}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 9}
-      \range{pages}{9}
-      \verb{doi}
-      \verb 10.23919/PICMET.2019.8893839
-      \endverb
-      \verb{urlraw}
-      \verb https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1221&context=etm_fac
-      \endverb
-      \verb{url}
-      \verb https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=1221&context=etm_fac
-      \endverb
-    \endentry
-    \entry{pr_chen2013kickpredict}{report}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=983d591f2f65ee1e0373cdf4378da02d}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=880623849ab6070f9416b77e3d16d574}{%
-           family={Jones},
-           familyi={J\bibinitperiod},
-           given={Brock},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75f6a4f3eead9713d50021387d4feeaa}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Isaac},
-           giveni={I\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b7665be89749fbb59779c06b8eb644bb}{%
-           family={Schlamp},
-           familyi={S\bibinitperiod},
-           given={Brooklyn},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Instituto de Tecnología de California}%
-      }
-      \list{location}{1}{%
-        {California, Estados Unidos de América}%
-      }
-      \strng{namehash}{49f563b1dd03da9bda747713cfa16add}
-      \strng{fullhash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{bibnamehash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{authorbibnamehash}{620374e603645008eebffd0e9cc1e4a1}
-      \strng{authornamehash}{49f563b1dd03da9bda747713cfa16add}
-      \strng{authorfullhash}{620374e603645008eebffd0e9cc1e4a1}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{KickPredict: Predicting Kickstarter Success}
-      \field{type}{Reporte técnico}
-      \field{year}{2013}
-      \verb{urlraw}
-      \verb http://courses.cms.caltech.edu/cs145/2013/blue.pdf
-      \endverb
-      \verb{url}
-      \verb http://courses.cms.caltech.edu/cs145/2013/blue.pdf
-      \endverb
-    \endentry
-    \entry{pr_chen2019keywords_crowdfunding}{article}{}
-      \name{author}{2}{}{%
-        {{un=1,uniquepart=given,hash=04be7e1271a2bdef02d4eed0d90c7c5c}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Long-Sheng},
-           giveni={L\bibinithyphendelim S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=a1f3a49f4cf7783ab343b86073f8c2cf}{%
-           family={Shen},
-           familyi={S\bibinitperiod},
-           given={En-Li},
-           giveni={E\bibinithyphendelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Tokio, Japón}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{fullhash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{bibnamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authorbibnamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authornamehash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \strng{authorfullhash}{ed1e246fc74bd99daff98f8beeceddd5}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2019 IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA)}
-      \field{series}{ICIEA '19}
-      \field{title}{Finding the Keywords Affecting the Success of Crowdfunding Projects}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{567\bibrangedash 571}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1109/IEA.2019.8714815
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/8714815
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/8714815
-      \endverb
-    \endentry
     \entry{cr_perry2012kickstarterproject}{online}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=bf108a23f9fd30dea730dad09348a8f7}{%
+        {{un=0,uniquepart=base,hash=bf108a23f9fd30dea730dad09348a8f7}{%
            family={Chen},
            familyi={C\bibinitperiod},
            given={Perry},
            giveni={P\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{organization}{1}{%
         {Kickstarter}%
@@ -6247,6 +5907,7 @@
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The New Project Page}
@@ -6256,137 +5917,6 @@
       \endverb
       \verb{url}
       \verb https://www.kickstarter.com/blog/the-new-project-page
-      \endverb
-    \endentry
-    \entry{pr_chen2015predcrowd}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=ce84ab6ca882287ab52ae26f561041ed}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Shih-Ying},
-           giveni={S\bibinithyphendelim Y\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=dfcb63a13c32df80af8722b60de591e5}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Ching-Ning},
-           giveni={C\bibinithyphendelim N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ee13ab9110a41bceb9884ebee334ea89}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Yu-Ren},
-           giveni={Y\bibinithyphendelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7de209a833689f59f8f14b1804cebad1}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Chih-Wei},
-           giveni={C\bibinithyphendelim W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=88583c3d621f38d626a2018abfe0eedf}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={Wan-Ching},
-           giveni={W\bibinithyphendelim C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=542e9c3668d05980aca3efe03f8d7cc5}{%
-           family={Wei},
-           familyi={W\bibinitperiod},
-           given={Chih-Ping},
-           giveni={C\bibinithyphendelim P\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Nueva York, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Information Systems AIS Electronic Library (AISeL)}%
-      }
-      \strng{namehash}{47472b9b0a4af7b931e9da9c0d65b94f}
-      \strng{fullhash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{bibnamehash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{authorbibnamehash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \strng{authornamehash}{47472b9b0a4af7b931e9da9c0d65b94f}
-      \strng{authorfullhash}{30f098c47a893bebd17c6a4ff8a7a679}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Pacific Asia Conference on Information Systems (PACIS) 2015}
-      \field{series}{PACIS '15}
-      \field{title}{Will Your Project Get the Green Light? Predicting the Success of Crowdfunding Campaigns}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \field{pages}{79}
-      \range{pages}{1}
-      \verb{urlraw}
-      \verb http://aisel.aisnet.org/pacis2015/79
-      \endverb
-      \verb{url}
-      \verb http://aisel.aisnet.org/pacis2015/79
-      \endverb
-    \endentry
-    \entry{pr_cheng2019deeplearning}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=95ce53b44d77a255b5e72b99d1aba7ab}{%
-           family={Cheng},
-           familyi={C\bibinitperiod},
-           given={Chaoran},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8ddbbef1bac71574a951f689d0efa423}{%
-           family={Tan},
-           familyi={T\bibinitperiod},
-           given={Fei},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8f428a03a61853434c21b29e06ba8de8}{%
-           family={Hou},
-           familyi={H\bibinitperiod},
-           given={Xiurui},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=055fb0d8bcd9760f3edd13e328d1090d}{%
-           family={Wei},
-           familyi={W\bibinitperiod},
-           given={Zhi},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Macao, China}%
-      }
-      \strng{namehash}{ae21359550c49ed5f7ea8cc9aa833c59}
-      \strng{fullhash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{bibnamehash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{authorbibnamehash}{4441c81f2bec29f70f958ea1f869a11c}
-      \strng{authornamehash}{ae21359550c49ed5f7ea8cc9aa833c59}
-      \strng{authorfullhash}{4441c81f2bec29f70f958ea1f869a11c}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Twenty-Eighth International Joint Conference on Artificial Intelligence}
-      \field{series}{IJCAI-19}
-      \field{title}{Success Prediction on Crowdfunding with Multimodal Deep Learning}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{2158\bibrangedash 2164}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.24963/ijcai.2019/299
-      \endverb
-      \verb{urlraw}
-      \verb https://www.ijcai.org/proceedings/2019/0299.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.ijcai.org/proceedings/2019/0299.pdf
       \endverb
     \endentry
     \entry{tec_chengwei2018embedding}{online}{}
@@ -6699,56 +6229,27 @@
       \verb 10.3390/en11040949
       \endverb
     \endentry
-    \entry{pr_dorofki2012ann}{inbook}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=4f7fa9cbb06c04567de6fce5ea028312}{%
-           family={Dorofki},
+    \entry{pr_dou2023researchwir}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ebc3116153084e1c2389a5881123e66b}{%
+           family={Dou},
            familyi={D\bibinitperiod},
-           given={Mohammad},
-           giveni={M\bibinitperiod},
+           given={Peilin},
+           giveni={P\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=b56f42c141db852120120f3f2c849452}{%
-           family={Elshafie},
-           familyi={E\bibinitperiod},
-           given={Ahmed\bibnamedelima H.},
-           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e7e9810e65be299946cccd4c6d5a9d94}{%
-           family={Jaafar},
-           familyi={J\bibinitperiod},
-           given={Othman},
-           giveni={O\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ead2a58e98e52a086f965d319b483e31}{%
-           family={Karim},
-           familyi={K\bibinitperiod},
-           given={Othman\bibnamedelima A.},
-           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a7f5264b68edbeea5529cdbcca25b12b}{%
-           family={Mastura},
-           familyi={M\bibinitperiod},
-           given={Sharifah},
-           giveni={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=68f05d30328713073bc7060b16c4d219}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Guohua},
+           giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \name{editor}{1}{}{%
-        {{hash=f1bd9ec00ed57a4705cd422bea7d164c}{%
-           family={IPCBEE},
-           familyi={I\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {IACSIT Press}%
-      }
-      \strng{namehash}{cef7ec19532285e9ad3c10f64942248c}
-      \strng{fullhash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{bibnamehash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{authorbibnamehash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{authornamehash}{cef7ec19532285e9ad3c10f64942248c}
-      \strng{authorfullhash}{64545f7f20e0bbafe246dcb0deb099f0}
-      \strng{editorbibnamehash}{f1bd9ec00ed57a4705cd422bea7d164c}
-      \strng{editornamehash}{f1bd9ec00ed57a4705cd422bea7d164c}
-      \strng{editorfullhash}{f1bd9ec00ed57a4705cd422bea7d164c}
+      \strng{namehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{fullhash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{bibnamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authorbibnamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authornamehash}{abd9a3cbb7af8f227a279fb0b0fe5184}
+      \strng{authorfullhash}{abd9a3cbb7af8f227a279fb0b0fe5184}
       \field{sortinit}{D}
       \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
       \field{extradatescope}{labelyear}
@@ -6756,18 +6257,62 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{2012 International Conference on Environment, Energy and Biotechnology}
-      \field{title}{Comparison of Artificial Neural Network Transfer Functions Abilities to Simulate Extreme Runoff Data}
-      \field{volume}{33}
-      \field{year}{2012}
-      \field{dateera}{ce}
-      \field{pages}{40}
-      \range{pages}{1}
+      \field{journaltitle}{Applied Mathematics and Nonlinear Sciences}
+      \field{month}{6}
+      \field{title}{Research on Wireless Network Coverage for Transformation and Upgrading of Exhibition Management with Artificial Intelligence Technology}
+      \field{volume}{9}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.2478/amns.2023.1.00180
+      \endverb
       \verb{urlraw}
-      \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
+      \verb https://sciendo.com/article/10.2478/amns.2023.1.00180
       \endverb
       \verb{url}
-      \verb http://www.ipcbee.com/vol33/008-ICEEB2012-B021.pdf
+      \verb https://sciendo.com/article/10.2478/amns.2023.1.00180
+      \endverb
+    \endentry
+    \entry{pr_dudhat2022indoorwir}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74ddf62e0bf8a0243c08ffc8db49c105}{%
+           family={Dudhat},
+           familyi={D\bibinitperiod},
+           given={Amitkumar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0f016aa4654769cc4a32c0fffbcfa7f}{%
+           family={Mariyanti},
+           familyi={M\bibinitperiod},
+           given={Tatik},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{fullhash}{b988996726076ba49124fbefca98b4e0}
+      \strng{bibnamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authorbibnamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authornamehash}{b988996726076ba49124fbefca98b4e0}
+      \strng{authorfullhash}{b988996726076ba49124fbefca98b4e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Cyber and IT Service Management (IJCITSM)}
+      \field{number}{1}
+      \field{title}{Indoor Wireless Network Coverage Area Optimization}
+      \field{volume}{2}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.34306/ijcitsm.v2i1.86
+      \endverb
+      \verb{urlraw}
+      \verb https://iiast.iaic-publisher.org/ijcitsm/index.php/IJCITSM/article/view/86
+      \endverb
+      \verb{url}
+      \verb https://iiast.iaic-publisher.org/ijcitsm/index.php/IJCITSM/article/view/86
       \endverb
     \endentry
     \entry{ot_elpais2023wifi}{misc}{}
@@ -6796,67 +6341,6 @@
       \endverb
       \verb{url}
       \verb https://elpais.com/tecnologia/2023-09-26/el-wifi-de-la-mayoria-de-hogares-se-enfrenta-al-colapso-por-el-aumento-de-dispositivos-conectados-y-el-trafico-de-datos.html
-      \endverb
-    \endentry
-    \entry{pr_fernandezblanco2020crowdfunding_empirical}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=e567e8728541b2381f08ac0d316d5edb}{%
-           family={Fernandez-Blanco},
-           familyi={F\bibinithyphendelim B\bibinitperiod},
-           given={Aladino},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b4399166c5c6899efceaedc16305b81}{%
-           family={Villanueva-Balsera},
-           familyi={V\bibinithyphendelim B\bibinitperiod},
-           given={Joaquin},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=75ec820495bcff9a1d605284f771a4a0}{%
-           family={Rodriguez-Montequin},
-           familyi={R\bibinithyphendelim M\bibinitperiod},
-           given={Vicente},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=38ca65309f8cee45f62b7e5bffb7d8da}{%
-           family={Moran-Palacios},
-           familyi={M\bibinithyphendelim P\bibinitperiod},
-           given={Henar},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{8be74b8874238aef2c5e3b993337e0da}
-      \strng{fullhash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{bibnamehash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{authorbibnamehash}{0f00401c6d9e5697b3955ed6063799cc}
-      \strng{authornamehash}{8be74b8874238aef2c5e3b993337e0da}
-      \strng{authorfullhash}{0f00401c6d9e5697b3955ed6063799cc}
-      \field{sortinit}{F}
-      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Sustainability}
-      \field{month}{1}
-      \field{number}{2}
-      \field{title}{Key Factors for Project Crowdfunding Success: An Empirical Study}
-      \field{volume}{12}
-      \field{year}{2020}
-      \field{pages}{599}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.3390/su12020599
-      \endverb
-      \verb{urlraw}
-      \verb https://www.mdpi.com/2071-1050/12/2/599/pdf
-      \endverb
-      \verb{url}
-      \verb https://www.mdpi.com/2071-1050/12/2/599/pdf
       \endverb
     \endentry
     \entry{tec_figueroa_convolucion}{article}{}
@@ -7121,6 +6605,89 @@
       \endverb
       \verb{url}
       \verb https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052
+      \endverb
+    \endentry
+    \entry{pr_hosseini2023NSGAIIap}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e8b0e490bef038dc6484ca1ef9cbb694}{%
+           family={Hamid\bibnamedelima Hosseini},
+           familyi={H\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Mohammad\bibnamedelima Taleai},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e8a9042a189018a6a5cc6f882f465a5}{%
+           family={Zlatanova},
+           familyi={Z\bibinitperiod},
+           given={Sisi},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{fullhash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{bibnamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authorbibnamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authornamehash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \strng{authorfullhash}{2f30b6b5b4f2ca9662a6c9ed642c1682}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Automation in Construction}
+      \field{title}{NSGA-II based optimal Wi-Fi access point placement for indoor positioning: A BIM-based RSS prediction}
+      \field{volume}{152}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.autcon.2023.104897
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0926580523001577?via%3Dihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0926580523001577?via%3Dihub
+      \endverb
+    \endentry
+    \entry{pr_tang2023graphtransfor}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3c026c32b6b4c3551615c4fac728e12b}{%
+           family={Hao\bibnamedelima Tang},
+           familyi={H\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Zhenyu\bibnamedelima Zhang},
+           giveni={Z\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81d65bc4502134b1ebce663ddcdc52cf}{%
+           family={Shi},
+           familyi={S\bibinitperiod},
+           given={Humphrey},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{fullhash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{bibnamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authorbibnamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authornamehash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \strng{authorfullhash}{b081e48e3dd44f97dc8c3a5daf758494}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ArXiv:2303.08225v1}
+      \field{title}{Graph Transformer GANs for Graph-Constrained House Generation}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2303.08225
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2303.08225
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2303.08225
       \endverb
     \endentry
     \entry{bk_hernandez2014metodologia}{book}{}
@@ -7496,74 +7063,45 @@
       \verb 10.1109/ACCESS.2019.2933262
       \endverb
     \endentry
-    \entry{pr_jin2019dayssuccess}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=b99915a5baf2c1681937b5b89dacad79}{%
-           family={Jin},
-           familyi={J\bibinitperiod},
-           given={Binbin},
-           giveni={B\bibinitperiod},
+    \entry{pr_chang2021buildinggan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87dfb1040103cc749a4610cbd57001a4}{%
+           family={Kai-Hung\bibnamedelima Chang},
+           familyi={K\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Chin-Yi\bibnamedelima Cheng},
+           giveni={C\bibinithyphendelim Y\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=28d6a57a98a31fe2c68433935cccc0d7}{%
-           family={Zhao},
-           familyi={Z\bibinitperiod},
-           given={Hongke},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=439e8d5e114670edea6f746db3c18b5b}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Enhong},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=0b07af422f6616fac129405a8b4b1de4}{%
-           family={Liu},
+        {{un=0,uniquepart=base,hash=3feee19f8821af368b851298057f4f3a}{%
+           family={Luo},
            familyi={L\bibinitperiod},
-           given={Qi},
-           giveni={Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=85670d97bd4b38184f6db06c023a19e6}{%
-           family={Ge},
-           familyi={G\bibinitperiod},
-           given={Yong},
-           giveni={Y\bibinitperiod},
+           given={Jieliang},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{location}{1}{%
-        {Honolulu, Hawái}%
-      }
-      \list{publisher}{1}{%
-        {Association for the Advancement of Artificial}%
-      }
-      \strng{namehash}{41240192e0b85824522526c886a435dc}
-      \strng{fullhash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{bibnamehash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{authorbibnamehash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \strng{authornamehash}{41240192e0b85824522526c886a435dc}
-      \strng{authorfullhash}{7e4f532dbd1d19aa6e562af74ef340ce}
-      \field{sortinit}{J}
-      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \strng{namehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{fullhash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{bibnamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authorbibnamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authornamehash}{ddda9c22758b52520f8c8f32b17549f0}
+      \strng{authorfullhash}{ddda9c22758b52520f8c8f32b17549f0}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{33rd AAAI Conference on Artificial Intelligence (AAAI'2019)}
-      \field{series}{AAAI'2019}
-      \field{title}{Estimating the Days to Success of Campaigns in Crowdfunding: A Deep Survival Perspective}
-      \field{volume}{33}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{4023\bibrangedash 4030}
-      \range{pages}{8}
+      \field{journaltitle}{arXiv:2104.13316v1}
+      \field{title}{Building-GAN: Graph-Conditioned Architectural Volumetric Design Generation}
+      \field{year}{2021}
       \verb{doi}
-      \verb 10.1609/aaai.v33i01.33014023
+      \verb https://doi.org/10.48550/arXiv.2104.13316
       \endverb
       \verb{urlraw}
-      \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
+      \verb https://arxiv.org/abs/2104.13316
       \endverb
       \verb{url}
-      \verb http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Binbin-Jin-AAAI.pdf
+      \verb https://arxiv.org/abs/2104.13316
       \endverb
     \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
@@ -7606,54 +7144,6 @@
       \field{title}{Deep Learning for NLP and Speech Recognition}
       \field{year}{2019}
     \endentry
-    \entry{pr_kaur2017socmedcrowd}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6eb51c954e0d16776b80e176644b1573}{%
-           family={Kaur},
-           familyi={K\bibinitperiod},
-           given={Harmeet},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e9fdd02ef649632ba708d27c38831a92}{%
-           family={Gera},
-           familyi={G\bibinitperiod},
-           given={Jaya},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier B.V}%
-      }
-      \strng{namehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{fullhash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{bibnamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authorbibnamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authornamehash}{48394811cde3c094a3d4f529e78a5177}
-      \strng{authorfullhash}{48394811cde3c094a3d4f529e78a5177}
-      \field{sortinit}{K}
-      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Procedia Computer Science}
-      \field{month}{11}
-      \field{title}{Effect of Social Media Connectivity on Success of Crowdfunding Campaigns}
-      \field{volume}{122}
-      \field{year}{2017}
-      \field{pages}{767\bibrangedash 774}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1016/j.procs.2017.11.435
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S1877050917326832
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S1877050917326832
-      \endverb
-    \endentry
     \entry{tec_keras_modeltraining}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=7fee7bb66f4294c3e32783efa7d9bafc}{%
@@ -7678,6 +7168,49 @@
       \endverb
       \verb{url}
       \verb https://keras.io/api/models/model_training_apis/
+      \endverb
+    \endentry
+    \entry{pr_ketkhaw2019deepl}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9ce10b38e24c5206eabbadc6fc6baf41}{%
+           family={Ketkhaw},
+           familyi={K\bibinitperiod},
+           given={Apisak},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4297044735afea6902cf974c6292f72e}{%
+           family={Thipchaksurat},
+           familyi={T\bibinitperiod},
+           given={Sakchai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{fullhash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{bibnamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authorbibnamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authornamehash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \strng{authorfullhash}{09fe85224bf4bc2ef9bdba4fc56880ca}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mobile Multimedia}
+      \field{number}{4}
+      \field{title}{Location Prediction of Rogue Access Point Based on Deep Neural Network Approach}
+      \field{volume}{18}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.13052/jmm1550-4646.1845
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.riverpublishers.com/index.php/JMM/article/view/9123
+      \endverb
+      \verb{url}
+      \verb https://journals.riverpublishers.com/index.php/JMM/article/view/9123
       \endverb
     \endentry
     \entry{cr_kickstarter_about}{online}{}
@@ -8020,6 +7553,41 @@
       \verb 10.1016/j.jik.2016.01.010
       \endverb
     \endentry
+    \entry{pr_lee2015coverage3d}{article}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=9a070b49f93222a6bda832b076836da6}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Gunhak},
+           giveni={G\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{fullhash}{9a070b49f93222a6bda832b076836da6}
+      \strng{bibnamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authorbibnamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authornamehash}{9a070b49f93222a6bda832b076836da6}
+      \strng{authorfullhash}{9a070b49f93222a6bda832b076836da6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers, Environment and Urban Systems}
+      \field{title}{3D coverage location modeling of Wi-Fi access point placement in indoor environment}
+      \field{volume}{54}
+      \field{year}{2015}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.compenvurbsys.2015.05.002
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
+      \endverb
+    \endentry
     \entry{cr_lee2019crwdfactors}{article}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=b686d37b5d383d1396d814af4534a68d}{%
@@ -8086,71 +7654,14 @@
       \field{pages}{35\bibrangedash 46}
       \range{pages}{12}
     \endentry
-    \entry{pr_lee2018contentDL}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=e103f6590410869aaf802a1a6647d767}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={SeungHun},
-           giveni={S\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=cc6f4b234f2934964a63d9d1b013d306}{%
-           family={Lee},
-           familyi={L\bibinitperiod},
-           given={KangHee},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=319b6cd254b2142b29f8f53c4ba17096}{%
-           family={Kim},
-           familyi={K\bibinitperiod},
-           given={Hyun-chul},
-           giveni={H\bibinithyphendelim c\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Jersey City, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{6e6a928c9473d4c957d5653c1ce16f83}
-      \strng{fullhash}{5539b5840be4a687a28b0bd035573919}
-      \strng{bibnamehash}{5539b5840be4a687a28b0bd035573919}
-      \strng{authorbibnamehash}{5539b5840be4a687a28b0bd035573919}
-      \strng{authornamehash}{6e6a928c9473d4c957d5653c1ce16f83}
-      \strng{authorfullhash}{5539b5840be4a687a28b0bd035573919}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{isbn}{9781450360180}
-      \field{journaltitle}{Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing}
-      \field{series}{CSCW '18}
-      \field{title}{Content-based Success Prediction of Crowdfunding Campaigns: A Deep	Learning Approach}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{193\bibrangedash 196}
-      \range{pages}{4}
-      \verb{doi}
-      \verb 10.1145/3272973.3274053
-      \endverb
-      \verb{urlraw}
-      \verb https://dl.acm.org/doi/10.1145/3272973.3274053
-      \endverb
-      \verb{url}
-      \verb https://dl.acm.org/doi/10.1145/3272973.3274053
-      \endverb
-    \endentry
     \entry{tec_li2019cnn}{report}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=9147b1a8523fee33e02ea8ada6fde536}{%
+        {{un=0,uniquepart=base,hash=9147b1a8523fee33e02ea8ada6fde536}{%
            family={Li},
            familyi={L\bibinitperiod},
            given={Fei-Fei},
            giveni={F\bibinithyphendelim F\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=90edc587e1d523d4e173b1fe6e733445}{%
            family={Johnson},
            familyi={J\bibinitperiod},
@@ -8177,6 +7688,7 @@
       \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Convolutional Neural Networks}
@@ -8187,62 +7699,6 @@
       \endverb
       \verb{url}
       \verb http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture05.pdf
-      \endverb
-    \endentry
-    \entry{pr_li2016predcrowd}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=92e14a8c19eb5a0c7c199c85db74f106}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yan},
-           giveni={Y\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=621aa097f1e0719c8b7222c3fe35983c}{%
-           family={Rakesh},
-           familyi={R\bibinitperiod},
-           given={Vineeth},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=032468e36a0ab9511f98a11f03bbcea1}{%
-           family={Reddy},
-           familyi={R\bibinitperiod},
-           given={Chandan\bibnamedelima K.},
-           giveni={C\bibinitperiod\bibinitdelim K\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {San Francisco, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{a71fd46be5707627f7ffea030721fc93}
-      \strng{fullhash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{bibnamehash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{authorbibnamehash}{09fad6021b29f981f341d4813de2e15c}
-      \strng{authornamehash}{a71fd46be5707627f7ffea030721fc93}
-      \strng{authorfullhash}{09fad6021b29f981f341d4813de2e15c}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Ninth ACM International Conference on web search and data mining}
-      \field{series}{WSDM '16}
-      \field{title}{Project Success Prediction in Crowdfunding Environments}
-      \field{year}{2016}
-      \field{dateera}{ce}
-      \field{pages}{247\bibrangedash 256}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1145/2835776.2835791
-      \endverb
-      \verb{urlraw}
-      \verb http://dl.acm.org/citation.cfm?id=2835791
-      \endverb
-      \verb{url}
-      \verb http://dl.acm.org/citation.cfm?id=2835791
       \endverb
     \endentry
     \entry{cr_lichtig2015crowdfunding}{article}{}
@@ -8523,6 +7979,49 @@
       \verb https://stackabuse.com/python-for-nlp-movie-sentiment-analysis-using-deep-learning-in-keras/
       \endverb
     \endentry
+    \entry{pr_contreras2021modelwlan}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2d2fb3aed7d4e6d446fde0fda406bbf9}{%
+           family={Martha\bibnamedelima Contreras},
+           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Juan\bibnamedelima Vesga},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c5c7ad588e7327948775785f31b64de}{%
+           family={Vesga},
+           familyi={V\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{fullhash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{bibnamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authorbibnamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authornamehash}{a91cb95106e671c931c609f3d9b78a05}
+      \strng{authorfullhash}{a91cb95106e671c931c609f3d9b78a05}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Investigación e Innovación en Ingenierías}
+      \field{number}{1}
+      \field{title}{Modelo de optimización para la ubicación de Access Point en redes WLAN}
+      \field{volume}{9}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.17081/invinno.9.1.4203
+      \endverb
+      \verb{urlraw}
+      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
+      \endverb
+      \verb{url}
+      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
+      \endverb
+    \endentry
     \entry{gl_mathworks_svm}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2d2b0d998977e6379aad61f1b56ac3c1}{%
@@ -8664,57 +8163,6 @@
       \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
       \endverb
     \endentry
-    \entry{pr_mitra2014phrases}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=4adddece80ffbb8473c9268318a702c9}{%
-           family={Mitra},
-           familyi={M\bibinitperiod},
-           given={Tanushree},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c3163690c9103d2541d6910886053ba6}{%
-           family={Gilbert},
-           familyi={G\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Baltimore, Estados Unidos de América}%
-      }
-      \list{publisher}{1}{%
-        {Association for Computing Machinery (ACM)}%
-      }
-      \strng{namehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{fullhash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{bibnamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authorbibnamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authornamehash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \strng{authorfullhash}{9d8dddc650ff74e30ff88ec23d6745f1}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{17th ACM conference on Computer supported cooperative work \& social computing}
-      \field{series}{CSCW '14}
-      \field{title}{The Language that Gets People to Give: Phrases that Predict Success on Kickstarter}
-      \field{year}{2014}
-      \field{dateera}{ce}
-      \field{pages}{49\bibrangedash 61}
-      \range{pages}{13}
-      \verb{doi}
-      \verb 10.1145/2531602.2531656
-      \endverb
-      \verb{urlraw}
-      \verb http://comp.social.gatech.edu/papers/cscw14.crowdfunding.mitra.pdf
-      \endverb
-      \verb{url}
-      \verb http://comp.social.gatech.edu/papers/cscw14.crowdfunding.mitra.pdf
-      \endverb
-    \endentry
     \entry{gl_molina2017pediatria_curvaroc}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=05200cea61fff6478dcd41cc1a3e7863}{%
@@ -8795,6 +8243,43 @@
       \verb https://www.researchgate.net/publication/236604665_Statistics_Corner_A_guide_to_appropriate_use_of_Correlation_coefficient_in_medical_research
       \endverb
     \endentry
+    \entry{pr_mukti2021placemodelindo}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=baa58c5e4b75ba8d3c7684bb8240d69c}{%
+           family={Mukti},
+           familyi={M\bibinitperiod},
+           given={Fransiska},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{fullhash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{bibnamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authorbibnamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authornamehash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \strng{authorfullhash}{baa58c5e4b75ba8d3c7684bb8240d69c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Computing and Digital Systems}
+      \field{number}{1}
+      \field{title}{Access Point Placement Model for Indoor Environment using Hybrid Empirical Propagation and Simulated Annealing Algorithm}
+      \field{volume}{10}
+      \field{year}{2021}
+      \verb{doi}
+      \verb http://dx.doi.org/10.12785/ijcds/100183
+      \endverb
+      \verb{urlraw}
+      \verb https://journal.uob.edu.bh/handle/123456789/4219
+      \endverb
+      \verb{url}
+      \verb https://journal.uob.edu.bh/handle/123456789/4219
+      \endverb
+    \endentry
     \entry{ot_napit2017ap}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3128b65dbdd8673cec28807c7e37a13}{%
@@ -8824,23 +8309,29 @@
       \endverb
     \endentry
     \entry{pr_nauata2021housegan}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=79ed26621f29b65619a7f8e98b9da6d5}{%
-           family={Nauata},
-           familyi={N\bibinitperiod},
-           given={N.},
-           giveni={N\bibinitperiod},
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=97516bb8b5a98e6f2275aac1bb202986}{%
+           family={Nelson\bibnamedelima Nauata},
+           familyi={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Sepidehsadat\bibnamedelima Hosseini},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0b93f1456eb79c94746135b09f85a1c1}{%
+           family={Chang},
+           familyi={C\bibinitperiod},
+           given={Kai-Hung},
+           giveni={K\bibinithyphendelim H\bibinitperiod},
            givenun=0}}%
       }
       \list{publisher}{1}{%
         {IEEE}%
       }
-      \strng{namehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{fullhash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{bibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authorbibnamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authornamehash}{79ed26621f29b65619a7f8e98b9da6d5}
-      \strng{authorfullhash}{79ed26621f29b65619a7f8e98b9da6d5}
+      \strng{namehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{fullhash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{bibnamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authorbibnamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authornamehash}{a41b1fa450c0697dd47326b6b9aef158}
+      \strng{authorfullhash}{a41b1fa450c0697dd47326b6b9aef158}
       \field{sortinit}{N}
       \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
@@ -8931,6 +8422,48 @@
       \endverb
       \verb{url}
       \verb http://www.nlab.ci.i.u-tokyo.ac.jp/projects/deeplearn-e.html
+      \endverb
+    \endentry
+    \entry{pr_ozerol2023genermass}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2948b4221528286dadaee4d6b4486f6a}{%
+           family={Özerol},
+           familyi={Ö\bibinitperiod},
+           given={Gizem},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c681171aad62fc199c05238609bad76}{%
+           family={Arslan},
+           familyi={A\bibinitperiod},
+           given={Semra},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{fullhash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{bibnamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authorbibnamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authornamehash}{854f1a5e30f1847b57ea493823b71ce9}
+      \strng{authorfullhash}{854f1a5e30f1847b57ea493823b71ce9}
+      \field{sortinit}{Ö}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Architecture and Planning Journal (APJ)}
+      \field{title}{Generating Mass Housing Plans Through Gans - A Case in Toki, Turkey}
+      \field{volume}{28}
+      \field{year}{2023}
+      \verb{doi}
+      \verb https://doi.org/10.54729/2789-8547.1197
+      \endverb
+      \verb{urlraw}
+      \verb https://digitalcommons.bau.edu.lb/apj/vol28/iss3/2/
+      \endverb
+      \verb{url}
+      \verb https://digitalcommons.bau.edu.lb/apj/vol28/iss3/2/
       \endverb
     \endentry
     \entry{tec_scikitlearn}{article}{}
@@ -9319,6 +8852,48 @@
       \field{pages}{140}
       \range{pages}{1}
     \endentry
+    \entry{pr_chen2020intelhome3d}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=18394247aacfe7bb4d2503b74ba5c6bb}{%
+           family={Qi\bibnamedelima Chen},
+           familyi={Q\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Qi\bibnamedelima Wu},
+           giveni={Q\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9808131c304b46a1a1de697001684f1b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{fullhash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{bibnamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authorbibnamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authornamehash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \strng{authorfullhash}{429a550c53e47a41bafcafbb5bd0c24d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv}
+      \field{month}{3}
+      \field{title}{Intelligent Home 3D: Automatic 3D-House Design from Linguistic Descriptions Only}
+      \field{year}{2020}
+      \verb{doi}
+      \verb https://doi.org/10.48550/arXiv.2003.00397
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2003.00397
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2003.00397
+      \endverb
+    \endentry
     \entry{tec_ranjan2019thumbrules}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=138183e14e5a991d939c81f02604e7bb}{%
@@ -9651,56 +9226,6 @@
       \verb https://www.sas.com/es_pe/insights/analytics/deep-learning.html
       \endverb
     \endentry
-    \entry{pr_sawhney2016usingLT}{report}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=928d5f8906d253b915a0a4a24d8585b4}{%
-           family={Sawhney},
-           familyi={S\bibinitperiod},
-           given={Kartik},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4517dc2101cfb9ec22665af171cd8751}{%
-           family={Tran},
-           familyi={T\bibinitperiod},
-           given={Caelin},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d4b337f3c40cd78e358cb70f99126649}{%
-           family={Tuason},
-           familyi={T\bibinitperiod},
-           given={Ramon},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {Universidad Standford}%
-      }
-      \list{location}{1}{%
-        {California, Estados Unidos de América}%
-      }
-      \strng{namehash}{bab1a683e00f7ef93c59748cc576fdb7}
-      \strng{fullhash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{bibnamehash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{authorbibnamehash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \strng{authornamehash}{bab1a683e00f7ef93c59748cc576fdb7}
-      \strng{authorfullhash}{255b3d13534180dcb56fbcc7632cdfe0}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Using Language to Predict Kickstarter Success}
-      \field{type}{Reporte técnico}
-      \field{year}{2016}
-      \verb{urlraw}
-      \verb https://stanford.edu/~kartiks2/kickstarter.pdf
-      \endverb
-      \verb{url}
-      \verb https://stanford.edu/~kartiks2/kickstarter.pdf
-      \endverb
-    \endentry
     \entry{tec_minmaxscaler}{online}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ae928b07781d0af9cd222cc0af04ec88}{%
@@ -9769,30 +9294,21 @@
       \verb http://www.ijisr.issr-journals.org/abstract.php?article=IJISR-14-281-04
       \endverb
     \endentry
-    \entry{pr_shafqat2019topicpredictions}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9baa9a9ee8ca0704dbfcafec1de80f22}{%
-           family={Shafqat},
+    \entry{pr_shen2018localaplognor}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ee2287ad7378c30e72f5ee04b107d777}{%
+           family={Shen},
            familyi={S\bibinitperiod},
-           given={Wafa},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=8acb2b6e48919c3938f69bb7462fb1fe}{%
-           family={Byun},
-           familyi={B\bibinitperiod},
-           given={Yung-Cheol},
-           giveni={Y\bibinithyphendelim C\bibinitperiod},
+           given={Jushang},
+           giveni={J\bibinitperiod},
            givenun=0}}%
       }
-      \list{publisher}{1}{%
-        {MDPI}%
-      }
-      \strng{namehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{fullhash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{bibnamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authorbibnamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authornamehash}{a75d6f72303370a6e9de75efc94e6648}
-      \strng{authorfullhash}{a75d6f72303370a6e9de75efc94e6648}
+      \strng{namehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{fullhash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{bibnamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authorbibnamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authornamehash}{ee2287ad7378c30e72f5ee04b107d777}
+      \strng{authorfullhash}{ee2287ad7378c30e72f5ee04b107d777}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
@@ -9800,22 +9316,17 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Applied Sciences}
-      \field{month}{11}
-      \field{number}{24}
-      \field{title}{Topic Predictions and Optimized Recommendation	Mechanism Based on Integrated Topic Modeling and Deep Neural Networks in Crowdfunding Platforms}
-      \field{volume}{9}
-      \field{year}{2019}
-      \field{pages}{5496}
-      \range{pages}{1}
+      \field{journaltitle}{2018 IEEE Wireless Communications and Networking Conference (WCNC)}
+      \field{title}{Localization of Access Points Based on the Rayleigh Lognormal Model}
+      \field{year}{2018}
       \verb{doi}
-      \verb 10.3390/app9245496
+      \verb https://doi.org/10.1109/WCNC.2018.8377059
       \endverb
       \verb{urlraw}
-      \verb https://www.mdpi.com/2076-3417/9/24/5496/pdf
+      \verb https://ieeexplore.ieee.org/document/8377059
       \endverb
       \verb{url}
-      \verb https://www.mdpi.com/2076-3417/9/24/5496/pdf
+      \verb https://ieeexplore.ieee.org/document/8377059
       \endverb
     \endentry
     \entry{gl_bigdata2019metricas}{misc}{}
@@ -10143,12 +9654,12 @@
     \endentry
     \entry{cr_yu2017kickstarter_course}{report}{}
       \name{author}{1}{}{%
-        {{un=1,uniquepart=given,hash=4b42a6a8c9f54e5b570f803edaea7463}{%
+        {{un=0,uniquepart=base,hash=4b42a6a8c9f54e5b570f803edaea7463}{%
            family={Yu},
            familyi={Y\bibinitperiod},
            given={Angela},
            giveni={A\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{institution}{1}{%
         {Udemy}%
@@ -10163,6 +9674,7 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Complete Crowdfunding Course for Kickstarter \& Indiegogo}
@@ -10171,141 +9683,14 @@
       \field{pages}{1\bibrangedash 85}
       \range{pages}{85}
     \endentry
-    \entry{pr_yu2018deeplearning}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=d3b838ceb6ea0136cecfe19c4b611a0c}{%
-           family={Yu},
-           familyi={Y\bibinitperiod},
-           given={Pi-Fen},
-           giveni={P\bibinithyphendelim F\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=311643315097206f0f8df3337383085a}{%
-           family={Huang},
-           familyi={H\bibinitperiod},
-           given={Fu-Ming},
-           giveni={F\bibinithyphendelim M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=533c82a54eee436a530456ecbf1066b0}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Chuan},
-           giveni={C\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=5fd7574ac4d19e691fa34327326f9f0a}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Yu-Hsin},
-           giveni={Y\bibinithyphendelim H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=daaf76bb6536b00a49907281b8b64b4e}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Zi-Yi},
-           giveni={Z\bibinithyphendelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d3d44cea6f679e20a7f0c4f383ce6ab}{%
-           family={Tsai},
-           familyi={T\bibinitperiod},
-           given={Cheng-Hung},
-           giveni={C\bibinithyphendelim H\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Xi'an, China}%
-      }
-      \list{publisher}{1}{%
-        {IEEE}%
-      }
-      \strng{namehash}{e331cf1c778984835d343940d7f29cc1}
-      \strng{fullhash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{bibnamehash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{authorbibnamehash}{11681b48ddfa53636f79f63b6130e818}
-      \strng{authornamehash}{e331cf1c778984835d343940d7f29cc1}
-      \strng{authorfullhash}{11681b48ddfa53636f79f63b6130e818}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)}
-      \field{series}{ICEBE '18}
-      \field{title}{Prediction of Crowdfunding Project Success with Deep Learning}
-      \field{year}{2018}
-      \field{dateera}{ce}
-      \field{pages}{1\bibrangedash 8}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1109/ICEBE.2018.00012
-      \endverb
-      \verb{urlraw}
-      \verb https://ieeexplore.ieee.org/document/8592623
-      \endverb
-      \verb{url}
-      \verb https://ieeexplore.ieee.org/document/8592623
-      \endverb
-    \endentry
-    \entry{pr_yuan2016textanalytics}{article}{}
-      \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=8f3ed4b2f5fd45048b82c0528592a87c}{%
-           family={Yuan},
-           familyi={Y\bibinitperiod},
-           given={Hui},
-           giveni={H\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=4bc99eef079dcf0abdc0d747d1f2a577}{%
-           family={Lau},
-           familyi={L\bibinitperiod},
-           given={Raymond\bibnamedelima Y.K.},
-           giveni={R\bibinitperiod\bibinitdelim Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b1dd1a9ff59cc6aeba590fc68bcc39cf}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Wei},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier B.V}%
-      }
-      \strng{namehash}{6c1720dd33db78cc0b820d8d46894be8}
-      \strng{fullhash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{bibnamehash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{authorbibnamehash}{eb74a7988f16f9749534097012f4a1aa}
-      \strng{authornamehash}{6c1720dd33db78cc0b820d8d46894be8}
-      \strng{authorfullhash}{eb74a7988f16f9749534097012f4a1aa}
-      \field{sortinit}{Y}
-      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Decision Support Systems}
-      \field{month}{11}
-      \field{title}{The Determinants of Crowdfunding Success: A Semantic Text Analytics Approach}
-      \field{volume}{91}
-      \field{year}{2016}
-      \field{pages}{67\bibrangedash 76}
-      \range{pages}{10}
-      \verb{doi}
-      \verb 10.1016/j.dss.2016.08.001
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0167923616301373
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0167923616301373
-      \endverb
-    \endentry
     \entry{tec_yuan2019lstm}{article}{}
       \name{author}{3}{}{%
-        {{un=1,uniquepart=given,hash=ecb55833597933ca227cfe0f18a0cbcb}{%
+        {{un=0,uniquepart=base,hash=ecb55833597933ca227cfe0f18a0cbcb}{%
            family={Yuan},
            familyi={Y\bibinitperiod},
            given={Xiaofeng},
            giveni={X\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
         {{un=0,uniquepart=base,hash=1df2b6f67a5a1fe41f9bc9df027cdb34}{%
            family={Li},
            familyi={L\bibinitperiod},
@@ -10329,6 +9714,7 @@
       \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{IEEE Transactions on Industrial Informatics}
@@ -10423,77 +9809,6 @@
       \verb https://www.aclweb.org/anthology/I17-1026.pdf
       \endverb
     \endentry
-    \entry{pr_zhou2015projectdesc}{article}{}
-      \name{author}{6}{}{%
-        {{un=1,uniquepart=given,hash=ea82f1187cf74ae3aeeef6f1667648d1}{%
-           family={Zhou},
-           familyi={Z\bibinitperiod},
-           given={Mi},
-           giveni={M\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=2c65dc0155fc0f151c939cd8fa10040e}{%
-           family={Zhang},
-           familyi={Z\bibinitperiod},
-           given={Xuan},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3cbdf99841be904d994f49025761e54c}{%
-           family={Wang},
-           familyi={W\bibinitperiod},
-           given={Alan\bibnamedelima G.},
-           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=153d11ac951f665b3f17562bc7c0f863}{%
-           family={Du},
-           familyi={D\bibinitperiod},
-           given={Qianzhou},
-           giveni={Q\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=da5f97f3f45755126f9902730816d591}{%
-           family={Qiao},
-           familyi={Q\bibinitperiod},
-           given={Zhilei},
-           giveni={Z\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6df18b85690d40933f3d509159a6bcfd}{%
-           family={Fan},
-           familyi={F\bibinitperiod},
-           given={Weiguo},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{location}{1}{%
-        {Puerto Rico}%
-      }
-      \list{publisher}{1}{%
-        {Association for Information Systems}%
-      }
-      \strng{namehash}{a60d2b6a0553b81678215223661371c8}
-      \strng{fullhash}{49968c8277294bc995e4ab547026949b}
-      \strng{bibnamehash}{49968c8277294bc995e4ab547026949b}
-      \strng{authorbibnamehash}{49968c8277294bc995e4ab547026949b}
-      \strng{authornamehash}{a60d2b6a0553b81678215223661371c8}
-      \strng{authorfullhash}{49968c8277294bc995e4ab547026949b}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{12}
-      \field{journaltitle}{Twenty-first Americas Conference on Information Systems, Puerto Rico, 2015}
-      \field{month}{8}
-      \field{series}{AMCIS '15}
-      \field{title}{Money Talks: A Predictive Model on Crowdfunding Success Using Project Description}
-      \field{year}{2015}
-      \field{dateera}{ce}
-      \verb{urlraw}
-      \verb http://aisel.aisnet.org/amcis2015/BizAnalytics/GeneralPresentations/37
-      \endverb
-      \verb{url}
-      \verb http://aisel.aisnet.org/amcis2015/BizAnalytics/GeneralPresentations/37
-      \endverb
-    \endentry
     \entry{tec_zhou2019bow}{online}{}
       \name{author}{1}{}{%
         {{un=1,uniquepart=given,hash=92fbef0a0ce86c0e3aef107ef15821f6}{%
@@ -10516,6 +9831,7 @@
       \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A Simple Explanation of the Bag-of-Words Model}
@@ -10594,7 +9910,24 @@
   \missing{ot_rae_hidra}
   \missing{ot_webrobots2019kickstarter}
   \missing{pr_beckwith2016predcrowd}
+  \missing{pr_chaichi2019nlp_3dprinting}
+  \missing{pr_chen2013kickpredict}
+  \missing{pr_chen2015predcrowd}
+  \missing{pr_chen2019keywords_crowdfunding}
+  \missing{pr_cheng2019deeplearning}
+  \missing{pr_dorofki2012ann}
+  \missing{pr_fernandezblanco2020crowdfunding_empirical}
+  \missing{pr_jin2019dayssuccess}
   \missing{pr_kamath2018suplearn}
+  \missing{pr_kaur2017socmedcrowd}
+  \missing{pr_lee2018contentDL}
+  \missing{pr_li2016predcrowd}
+  \missing{pr_mitra2014phrases}
+  \missing{pr_sawhney2016usingLT}
+  \missing{pr_shafqat2019topicpredictions}
+  \missing{pr_yu2018deeplearning}
+  \missing{pr_yuan2016textanalytics}
+  \missing{pr_zhou2015projectdesc}
 \endrefsection
 \endinput
 

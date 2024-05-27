@@ -1,360 +1,341 @@
-A continuación, en esta sección se presentarán trabajos anteriores de investigación basados en la predicción de éxito o fracaso de campañas en Kickstarter o plataformas similares y el análisis de estas utilizando conjuntos de datos con estructuras similares al del presente trabajo. En cada uno se detalla el problema y su objetivo, la metodología implementada, las técnicas usadas y los resultados obtenidos.
+La predicción del éxito o fracaso de las ubicaciones de puntos de acceso interior en diferentes planos utilizando conjuntos de datos con estructuras similares a la del presente trabajo se abordará a continuación en esta sección. En cada uno se describen el problema y su propósito, la metodología utilizada, las técnicas empleadas y los resultados.
 
-\cite{pr_chen2013kickpredict} realizaron la publicación del reporte técnico \citetitle{pr_chen2013kickpredict} para el Departamento de Ciencias Computacionales y Matemáticas del Instituto de Tecnología de California, el cual traducido al español significa «KickPredict: Predicción del éxito de Kickstarter».
+\cite{pr_contreras2021modelwlan} publicaron el modelo de optimización  \citetitle{pr_contreras2021modelwlan} para el departamento de Investigación e Innovación en Ingenierías de la Universidad Simón Bolívar.
 
-Ante la cantidad considerable de proyectos en Kickstarter que fracasaron en financiarse debido a los datos asignados por sus creadores, los autores desarrollaron un sistema predictivo de estado de financiamiento de un proyecto, el cual captura información en tiempo real y estima su resultado a partir de ello.
+Debido a su movilidad y bajo costo, la demanda de redes inalámbricas, particularmente WLAN, ha aumentado significativamente. Para que estas redes inalámbricas funcionen en hogares, oficinas y escuelas, los puntos de acceso (AP) son necesarios. La ubicación y densidad de los AP tienen un impacto en la cobertura y la calidad de la señal. Para mejorar la eficiencia y la cobertura de la red, este artículo propone un modelo de optimización para la ubicación de AP en interiores que utiliza el modelo de propagación Log-Normal Shadowing Path Loss.
 
-De acuerdo a la metodología seguida por los autores, el primer paso fue la recolección de datos de 20,000 proyectos completados, es decir, cuyo estado de financiamiento fue exitoso o fracasado. De esta cantidad, el 95\% fue destinado al subconjunto de entrenamiento. El siguiente paso fue el desarrollo de un algoritmo clasificador binario estándar para identificar las variables más importantes y generar el modelo de predicción. Para el sistema propuesto, se utilizaron Máquinas de Vectores de Soporte (SVM) entrenadas con cada combinatoria posible de las variables del conjunto de datos. Además de recolectar registros de proyectos, se complementó utilizando data de YouTube (determinar si un proyecto no utiliza videos de este medio en su descripción) y Twitter (número de veces en que el enlace del proyecto fue compartida) para enriquecer la investigación.
+El desarrollo del modelo de optimización incluyó una serie de pasos importantes: se utilizó el modelo de propagación Log-Normal Shadowing Path Loss para estimar el radio de cobertura y la probabilidad de corte de la señal utilizando dimensiones del escenario, frecuencia y condiciones ambientales; se implementó un pseudocódigo para calcular el radio de cobertura y la probabilidad de corte de la señal para las bandas de 2,4 GHz y 5 GHz; y se diseñó una técnica específica para determinar la ubicación óptima de los AP dentro de una construcción, considerando la probabilidad de corte, la sensibilidad de recepción y otros parámetros técnicos.
 
-Las 4 variables más importantes encontradas del algoritmo clasificador fueron el número de proyectos patrocinados por el creador, número de proyectos creados por el creador, si presenta o no video, monto de la meta del proyecto. Evaluando el modelo con la métrica de exactitud, se alcanzó el valor de 0.90 al 40\% de transcurrida la duración de la campaña.
+Los resultados del modelo sugerido demostraron una mejora significativa en la identificación de las áreas de cobertura y la probabilidad de corte. En particular, se descubrió que la banda de 2.4 GHz cubre un mayor área de cobertura en comparación con la banda de 5 GHz, pero también se observó que tiene una mayor probabilidad de interferencia. La técnica permitió el cálculo de los radios de cobertura apropiados y la mejora de la ubicación geográfica de los AP, lo que permitió maximizar la cobertura y reducir las zonas de silencio. Las tablas y los gráficos que muestran la relación entre la distancia y la potencia de la señal describieron los parámetros específicos para cada banda de frecuencia y tipo de entorno.
 
-Finalmente, como último paso se implementó una aplicación en Android para la búsqueda de proyectos en Kickstarter y una extensión en Google Chrome para estimar el éxito y la exactitud de precisión de la predicción en tiempo real, mostrando la evolución de las cantidades patrocinadas en el tiempo transcurrido de la campaña, como se ilustra en la Figura \ref{2:fig111}.
+El modelo de optimización para la ubicación de puntos de acceso en redes WLAN en ambientes interiores demostró ser efectivo para aumentar la cobertura y reducir la probabilidad de corte de señal como se ilustra en la Figura 3. Los algoritmos y metodologías creados ofrecen una herramienta útil para diseñar y desplegar redes WLAN de manera eficiente. Este modelo debería ser utilizado en futuras investigaciones y aplicaciones prácticas para mejorar la calidad y el rendimiento de las redes inalámbricas, especialmente en entornos con alta densidad de usuarios y dispositivos.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.80\textwidth]{2/figures/chen2013.jpg}
-		\caption[Extensión de Google Chrome creada para predecir el estado del proyecto]{Extensión de Google Chrome creada para predecir el estado del proyecto.\\
-			Fuente: \cite{pr_chen2013kickpredict}. \citetitle{pr_chen2013kickpredict}. (p. 4)}
+		\includegraphics[width=0.80\textwidth]{2/figures/contreras2021.png}
+		\caption[Diagrama de cobertura y ubicación de AP]{Diagrama de cobertura y ubicación de AP.\\
+			Fuente: \cite{pr_contreras2021modelwlan}. \citetitle{pr_contreras2021modelwlan}. (p. 14)}
 		\label{2:fig111}
 	\end{center}
 \end{figure}
 
-En el acta de la conferencia «The 17th ACM conference on Computer supported cooperative work \& social computing (CSCW '14)», realizada del 15 al 19 de febrero del 2014 en Baltimore, Estados Unidos, \cite{pr_mitra2014phrases} publicaron el artículo titulado \citetitle{pr_mitra2014phrases}, el cual traducido al español significa «El lenguaje que hace que la gente dé: Frases que predicen el éxito en Kickstarter».
+Según el acta de la conferencia "2019 42nd International Conference on Telecommunications and Signal Processing (TSP)", que tuvo lugar en Budapest, Hungría, del 1 al 3 de julio de 2019, \cite{pr_ahmed2019impactaps} publicaron el artículo conocido como \citetitle{pr_ahmed2019impactaps}, "El impacto de la ubicación de los puntos de acceso en los sistemas de posicionamiento en interiores: un enfoque basado en la probabilidad", según su traducción al español.
 
-Debido a la existencia de poco conocimiento sobre los factores que impulsan a financiar proyectos a pesar del crecimiento en los últimos años de plataformas de financiamiento colectivo como Kickstarter, los autores elaboraron un modelo para predecir el éxito de financiamiento en proyectos crowdfunding a partir de frases textuales.
+La ubicación de los puntos de acceso (AP) en las redes WLAN es crucial para la estimación de la posición de los usuarios en los sistemas de posicionamiento internos. Este paper examina cómo la localización de AP afecta la precisión de las estimaciones de ubicación utilizando un método basado en probabilidades. Para evaluar el impacto de la ubicación de los AP en la probabilidad de una estimación correcta, se presentan tanto expresiones analíticas como resultados numéricos.
 
-De acuerdo a la metodología seguida por los autores, el primer paso fue la recolección de 45,815 proyectos de Kickstarter del 2012. A continuación, se realizó limpieza de datos eliminando campañas inconclusas y con esto se procedió a extraer la información textual (descripción y recompensas del proyecto). El siguiente paso fue la generación del cuerpo de más de 9 millones de frases únicas, de las cuales quedaron 20,391 frases que aparecen al menos 50 veces en todos los proyectos. Finalmente, se creó un modelo de Regresión logística penalizada para proteger contra la colinealidad y escasez que prevalecen en el conjunto de datos de frases, de las cuales se pueda determinar cuáles son aquellas que ayudan que un proyecto sea financiado y cuáles lo contrario.
+El estudio sigue una serie de pasos metodológicos: se crea un modelo de sistema de posicionamiento, se explica el algoritmo de estimación de la probabilidad correcta y se utiliza un enfoque analítico para calcular la probabilidad. Para evaluar el rendimiento, se implementan escenarios de colocación de AP y se realizan experimentos computacionales. Finalmente, se comparan los resultados de la probabilidad de estimación correcta bajo variaciones de ruido y diferentes ubicaciones de AP.
 
-De las 59 variables de control que no son texto, 29 que tenían «valores aceptables» tenían pesos positivos. 15 variables fueron consideradas para proyectos que serán financiados, mientras que 14 para los que no. Se obtuvo un Top 100 de frases que tenían pesos positivos (proyectos que sí serán financiados), así como también para aquellas con pesos negativos (proyectos que no serán financiados) como se ilustra en la Figura \ref{2:fig112}. El ratio de error del modelo propuesto, considerando las variables de control más las frases, fue de 2.24\% frente al 17.03\% solo considerando las variables de control, y 48.47\% de la base comparada.
-
-\begin{figure}[!ht]
-	\centering
-	\small
-	\begin{subfigure}{.5\textwidth}
-		\centering
-		\includegraphics[width=0.90\linewidth]{2/figures/mitra2014_resultadoA.jpg}
-		\caption{Frases para proyectos exitosos}
-	\end{subfigure}%
-	\begin{subfigure}{.5\textwidth}
-		\centering
-		\includegraphics[width=0.90\linewidth]{2/figures/mitra2014_resultadoB.jpg}
-		\caption{Frases para proyectos fracasados}
-	\end{subfigure}
-	\caption[Ejemplos de frases del Top 100 y sus respectivos pesos que señalan si un proyecto será o no financiado]{Ejemplos de frases del Top 100 y sus respectivos pesos que señalan si un proyecto será o no financiado.\\
-		Fuente: \cite{pr_mitra2014phrases}. \textit{The Language that Gets People to Give: Phrases that Predict Success on Kickstarter}. (p. 56)}
-	\label{2:fig112}
-\end{figure}
-
-En el acta de la conferencia «Twenty-first Americas Conference on Information Systems», realizada en Puerto Rico en el año 2015, \cite{pr_zhou2015projectdesc} publicaron el artículo titulado \citetitle{pr_zhou2015projectdesc}, el cual traducido al español significa «Money Talks: un modelo predictivo sobre el éxito del crowdfunding utilizando la descripción del proyecto».
-
-Las investigaciones existentes de crowdfunding se centran principalmente en las variables básicas del proyecto como la categoría y la meta; sin embargo, hay muy pocos estudios basados en el contenido de la información, es decir, en la descripción del mismo. Por ello, el objetivo de los autores fue estudiar la influencia y el impacto del uso de descripciones de proyectos en su éxito de financiación para predecirlo.
-
-De acuerdo a la metodología seguida por los autores, el primer paso fue la operacionalización de los constructos, es decir, cómo se consideraría la información recolectada a partir de los antecedentes en la literatura. A continuación, se recolectó información de más de 154 mil proyectos de Kickstarter entre 2009 y 2014. Luego, se desarrolló un modelo de Regresión Logística usando variables previamente identificadas como la meta del proyecto, duración del proyecto, si el creador presentaba conexión a Facebook, el número de sus amigos en Facebook, si el proyecto incluye una imagen, si el proyecto incluye un video, el número de recompensas, el año de lanzamiento del proyecto, y la categoría del proyecto. A éstas se añadieron el número de palabras en la descripción del proyecto, su legibilidad medido por Índice de niebla Gunning, ratio de positivo y negativo en descripción del proyecto, número de proyectos previamente creados y número de proyectos previamente patrocinados por el autor.
-
-Finalmente, la propuesta se comparó contra otros modelos de la base y convencionales. Todos los modelos fueron evaluados por el valor-F probándose en validaciones cruzadas de 3, 5 y 10 iteraciones. Bajo esta métrica, el mejor modelo fue el propuesto, alcanzando un valor-F de 71.17 con 10 iteraciones. Asimismo, al ser comparado mediante la curva ROC, el modelo de los autores logró mejor performance frente al resto, superando el valor de 0.70 y alcanzando un ratio de verdaderos positivos frente al de falsos positivos como se aprecia en la Figura \ref{2:fig113}.
+Los resultados indican que la ubicación de los AP tiene un impacto significativo en la probabilidad de una estimación precisa de la posición del usuario. La probabilidad máxima de estimación correcta para la mejor configuración de AP fue de alrededor de 0.92 en un escenario con desviación estándar de ruido ($\sigma$) igual a 1.5, mientras que la probabilidad máxima de estimación correcta para la configuración menos óptima fue de 0.64. Este aumento en la probabilidad se debe a que cada AP tiene una mayor área de cobertura en su configuración ideal como se puede observar en la Figura 4.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.65\textwidth]{2/figures/zhou2015.jpg}
-		\caption[Curvas ROC del modelo propuesto, el de base y el convencional]{Curvas ROC del modelo propuesto de los autores, el de base y el convencional.\\
-		Fuente: \cite{pr_zhou2015projectdesc}. \textit{Money Talks: A Predictive Model on Crowdfunding Success Using Project Description}. (p. 5)}
+		\includegraphics[width=0.80\textwidth]{2/figures/ahmed2019.png}
+		\caption[Probabilidad media de estimación correcta en todos los puntos de la cuadrícula frente al desplazamiento de la distancia $\beta$ de los AP para $\sigma$ = {1, 1,5, 2}, expresión aproximada Ec. (12), resultados de la simulación todos los puntos y resultados de la simulación con 8 vecinos.]{Probabilidad media de estimación correcta en todos los puntos de la cuadrícula frente al desplazamiento de la distancia $\beta$ de los AP para $\sigma$ = {1, 1,5, 2}, expresión aproximada Ec. (12), resultados de la simulación todos los puntos y resultados de la simulación con 8 vecinos.\\
+			Fuente: \cite{pr_ahmed2019impactaps}. \citetitle{pr_ahmed2019impactaps}. (p. 7)}
+		\label{2:fig112}
+	\end{center}
+\end{figure}
+
+Según el acta de la conferencia "TInternational Conference on Computational Science and Technology", que se llevó a cabo en 2022, \cite{pr_alathari2023optaps} publicaron el artículo conocido como \citetitle{pr_alathari2023optaps}, "Optimización de la ubicación de puntos de acceso en comunicaciones interiores" en español.
+
+El estudio presenta un modelo de optimización para la ubicación de puntos de acceso (AP) en redes inalámbricas. Utilizando técnicas sofisticadas de algoritmos genéticos y simulaciones de Monte Carlo, el objetivo principal es maximizar la cobertura y minimizar la interferencia. La necesidad creciente de mejorar la eficiencia de las redes inalámbricas en entornos de alta densidad es el tema de esta investigación.
+
+La técnica utilizada consta de numerosos pasos cruciales. Primero, se recopilan datos sobre la distribución del espacio y la cobertura. Después, se utiliza un algoritmo genético para crear las ubicaciones iniciales potenciales de AP. Se utilizan simulaciones de Monte Carlo para evaluar la efectividad de estas ubicaciones en términos de cobertura y minimización de interferencia. Se siguen estos pasos hasta llegar a la configuración de AP ideal.
+
+Comparado con las técnicas convencionales, los resultados muestran una mejora significativa en la cobertura de la red y una reducción en la interferencia que se puede observar en la Figura 5. Se logró aumentar la cobertura en un 25 \% y disminuir la interferencia en un 15 \%. Estos hallazgos se comprobaron en un entorno simulado que emulaba las condiciones de una red inalámbrica de alta densidad real.
+
+\begin{figure}[!ht]
+	\begin{center}
+		\includegraphics[width=0.75\textwidth]{2/figures/alathari2023.png}
+		\caption[Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.]{Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.\\
+		Fuente: \cite{pr_alathari2023optaps}. \citetitle{pr_alathari2023optaps}. (p. 11)}
 		\label{2:fig113}
 	\end{center}
 \end{figure}
 
 \clearpage
-En el acta de la conferencia «Pacific Asia Conference on Information Systems (PACIS) 2015» realizada en New York, Estados Unidos, en el año 2015, \cite{pr_chen2015predcrowd} publicaron el artículo titulado \citetitle{pr_chen2015predcrowd}, el cual traducido al español significa «¿Tu proyecto obtendrá la luz verda? Prediciendo el éxito de campañas de financiamiento colectivo».
+Según el acta de la conferencia "International Journal of Cyber and IT Service Management (IJCITSM)", que se llevó a cabo en Indonesia en 2022, \cite{pr_dudhat2022indoorwir} publicaron el artículo conocido como \citetitle{pr_dudhat2022indoorwir}, "Optimización del área de cobertura de redes inalámbricas de interior" en español.
 
-Desde el surgimiento de campañas de financiamiento colectivo en sitios web así como estudios de estos casos, la mayoría de estos presentan problemas en la predicción de éxito de una campaña por distintas casuísticas ya que suelen enfocarse en aquellos concluídos. Ante la interrogante de la posibilidad de desarrollar una técnica efectiva para predecir si una campaña será exitosa o no en diferentes momentos de tiempo de las campañas de crowdfunding, los autores desarrollaron una técnica efectiva para predecir si una campaña de crowdfunding tendrá éxito o fracasará a través de extracción y posterior uso de características estáticas y dinámicas.
+Debido a las dificultades que presenta la propagación de ondas de radio en espacios cerrados, es crucial optimizar la cobertura de las redes inalámbricas en entornos interiores. Además, se pone de manifiesto que fenómenos como la dispersión, la reflexión y la refracción tienen un impacto en la calidad de las conexiones inalámbricas en interiores, lo que justifica el uso de modelos de propagación para mejorar la cobertura de la red.
 
-De acuerdo a la metodología seguida por los autores, el primer paso fue recolectar más de 4 mil proyectos de Kickstarter obtenido tanto directamente desde el sitio como con ayuda de la página web Kickspy, entre el primer y último día de abril del 2014. Después de realizado el pre-procesamiento, se extrajeron las características para la tarea de predicción de objetivos. Luego, estas características se clasificaron en 5 categorías: características intrínsecas, mecanismo financiero, calidad y sentimiento del contenido, interacción social y efecto de progresión, en donde las 3 primeras + interacción social corresponden a un nuevo grupo asignado como «características estáticas», mientras que la última + interacción social se asignó como «características dinámicas». Ambos nuevos conjuntos agrupados finalmente fueron entrenados en una serie de 8 modelos de Bosques Aleatorios para diferentes etapas (puntos de tiempo) de la campaña desde el día 0 hasta el día 7.
+El estudio utiliza una serie de procedimientos para maximizar el área de cobertura de la red inalámbrica interna. El número de puntos de acceso (APs) se determina utilizando la cobertura máxima de un AP y el área total a cubrir. Además, se utilizan modelos teóricos y empíricos para medir la fuerza de la red inalámbrica y se calcula el diámetro de los AP utilizando la fórmula MAPL (Pérdida Máxima Permitida).
 
-Finalmente, se comparó el modelo propuesto considerando todas sus características contra el mismo alternando versiones que solo usaron algunas y un trabajo previo de otro autor. El resultado final de la evaluación medidos por la exactitud determinó que el modelo propuesto considerando todas sus características logró la mejor performance, con un valor de 0.8467. Asimismo, como se observa en la Figura \ref{2:fig114}, se evaluaron campañas exitosas y fracasadas con la precisión, sensibilidad y puntaje F1 en distintas etapas de tiempo (7 primeros días), en donde se determinó que, a mayor tiempo transcurrido, mejores son sus resultados.
+Los resultados del estudio muestran que la eficiencia del canal y el porcentaje de actividad de los usuarios tienen un impacto significativo en la distribución de APs. Se puede calcular el número de APs necesarios para cubrir un área específica. Por ejemplo como se muestra en la Figura 6, se descubrió que para garantizar una cobertura óptima, se requieren alrededor de siete APs para una capacidad de usuario de 8 Mbps con un 164\% de actividad y una eficiencia del canal del 50%.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/chen2015.jpg}
-		\caption[Evaluación de la performance de los modelos construidos en distintas etapas de tiempo]{Evaluación de la performance de los modelos construidos en distintas etapas de tiempo.\\
-			Fuente: \cite{pr_chen2015predcrowd}. \textit{Will Your Project	Get the Green Light? Predicting the Success of Crowdfunding Campaigns}. (p. 12)}
+		\includegraphics[width=0.5\textwidth]{2/figures/dudhat2022.png}
+		\caption[La fórmula para determinar el número máximo de usuarios activos que puede suministrar un único AP, el número de AP, el ancho de banda de cada usuario para cada AP y el \% de usuarios activos]{La fórmula para determinar el número máximo de usuarios activos que puede suministrar un único AP, el número de AP, el ancho de banda de cada usuario para cada AP y el \% de usuarios activos.\\
+			Fuente: \cite{pr_dudhat2022indoorwir}. \citetitle{pr_dudhat2022indoorwir}. (p. 11)}
 		\label{2:fig114}
 	\end{center}
 \end{figure}
 
 \newpage
-\cite{pr_beckwith2016predcrowd} publicó la investigación de su tesis de grado titulada \citetitle{pr_beckwith2016predcrowd}, traducida al español como «Prediciendo el éxito en el financiamiento colectivo de acciones», para el programa académico «Joseph Wharton Scholars» de la Universidad de Pensilvania en el año 2016.
+\cite{pr_ketkhaw2019deepl}  publicaron la investigación \citetitle{pr_ketkhaw2019deepl}, en español "Predicción de la ubicación de puntos de acceso no autorizados basada en redes neuronales profundas", se publicó en el journal tailandés "Journal of Mobile Multimedia" en 2022.
 
-El financiamiento colectivo o crowdfunding de inversión se vuelve cada vez más popular. Este concepto permite que los emprendedores ofrezcan algún tipo de producto o servicio como compensación por contribuciones financieras una vez que ya se tengan ventas reales o acuerdos comerciales. Los patrocinadores no necesitan contar con un capital muy alto ya que ellos recibirán algo a cambio una vez que el proyecto se realice. Este factor permite su mayor probabilidad de éxito de financiamiento al momento de darse una campaña de este tipo de crowdfunding ya que los patrocinadores pueden invertir en más de un proyecto a la vez. A partir de este punto, surge la interrogante por conocer los motivos de inversión y no inversión en ciertos start-ups ante la similitud de características observables. Por ello, el objetivo del autor fue determinar la relación entre las características de una compañía determinada y su capacidad para recaudar fondos en la plataforma de financiamiento colectivo de capital AngelList.
+El objetivo del estudio es desarrollar un método llamado LPRAP que utiliza redes neuronales profundas para predecir la ubicación de puntos de acceso no autorizados en redes inalámbricas locales. La detección y localización precisa de estos RAPs es esencial para garantizar la seguridad de las redes y proteger la información confidencial de posibles amenazas.
 
-De acuerdo a la metodología seguida por el autor, el primer paso fue la recolección de más de 5 mil compañías de AngelList que solicitaron contribuciones financieras. De esta cantidad, se consideraron aquellas con datos completos (2,603 empresas). Luego del pre-procesamiento del conjunto final de datos, el investigador desarrolló un modelo de Regresión logística usando las siguientes variables: si la empresa previamente había recibido o no financiación, si la compañía cuenta con perfil en Twitter, número de veces que la compañía había sido mencionada en alguna publicación, número de veces que la compañía había sido mencionada en TechCrunch, número de personas listadas como co-fundadoras en el perfil de la compañía AngelList, si AngelList lista entre 11 y 50 empleados como tamaño de la empresa, si la compañía está ubicada en San Francisco, si entre los fundadores de AngelList al menos uno de ellos cuenta con un MBA, si entre los fundadores de AngelList al menos uno de ellos realizó sus estudios en alguna de las mejores 20 universidades de Estados Unidos, y el número de cierre del S\&P 500 el día anterior al lanzamiento de la campaña de crowdfunding de AngelList. La propuesta fue comparada con un Árbol de Decisión CART, un modelo de Naïve Bayes y una Máquina de Vectores de Soporte. Finalmente, se evaluó el modelo propuesto mediante la exactitud, precisión, sensibilidad, puntaje F1, y área bajo la curva (AUC).
+Los dos mecanismos principales del proceso LPRAP son la detección de RAPs y la predicción de su ubicación. Para determinar la intensidad de la señal recibida (RSSI) en cada subárea, se recopila un conjunto de marcos de balizas en la detección de RAP. Posteriormente, se clasifica la ubicación de los RAPs utilizando un espacio de características de 81 dimensiones. En cuanto a la predicción de ubicación, se utiliza la precisión de la predicción de ubicación para evaluar el rendimiento del esquema propuesto comparándolo con otros algoritmos de aprendizaje automático como SVM, KNN, Naive Bayes y MLP.
 
-Bajo las métricas mencionadas, el modelo del autor superó a los otros 3 modelos comparados en cada una de ellas. Sus resultados fueron 0.87 de exactitud, precisión promedio de 0.85, sensibilidad promedio de 0.88, puntaje F1 promedio de 0.86, y área bajo la curva de 0.74, este último como se observa en la Figura \ref{2:fig115}.
+Los resultados del experimento muestran que LPRAP supera a todos los demás algoritmos de aprendizaje automático evaluados. La precisión de la predicción de la ubicación de los RAPs aumenta significativamente con el aumento del número de subáreas. Por ejemplo, LPRAP logra una precisión de predicción del 88,31\% para 3 subáreas, lo que demuestra su capacidad para detectar y encontrar RAPs en entornos de redes inalámbricas como se puede observar en la Figura 7.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.75\textwidth]{2/figures/beckwith2016.jpg}
-		\caption[Curva ROC para cada modelo utilizado por el autor]{Curva ROC para cada modelo utilizado por el autor.\\
-		Fuente: \cite{pr_beckwith2016predcrowd}. \textit{Predicting Success in Equity Crowdfunding}. (p. 28)}
+		\includegraphics[width=0.75\textwidth]{2/figures/ketkha2022.png}
+		\caption[Precisión de la predicción en función del número de subzonas para la predicción de la ubicación de 1 a 4 RAP.]{Precisión de la predicción en función del número de subzonas para la predicción de la ubicación de 1 a 4 RAP.\\
+		Fuente: \cite{pr_ketkhaw2019deepl}. \citetitle{pr_ketkhaw2019deepl}. (p. 13)}
 		\label{2:fig115}
 	\end{center}
 \end{figure}
 
 \clearpage
-En el acta de la conferencia «The Ninth ACM International Conference on Web Search and Data Mining (WSDM’ 16)» realizado en San Francisco, Estados Unidos, en el año 2016, \cite{pr_li2016predcrowd} publicaron el artículo titulado \citetitle{pr_li2016predcrowd}, el cual traducido al español significa «Predicción de éxito de un proyecto en ambientes de financiamiento colectivo».
+En el acta de la conferencia "International Journal of Computing and Digital Systems" de 2021, que tuvo lugar en Bahrain, Indonesia, \cite{pr_mukti2021placemodelindo} publicó el artículo conocido como \citetitle{pr_mukti2021placemodelindo}. El término se traduce al español como "Modelo de colocación de puntos de acceso internos mediante Propagación Empírica Híbrida y Algoritmo Simulado de Recocido".
 
-Durante la última década se han elaborado una serie de modelos de clasificación que permitan pronosticar con cierto nivel de exactitud si algunos proyectos de financiamiento colectivo tendrán éxito o no. Sin embargo, el hecho de estimar si esto ocurrirá durante el plazo dado de la campaña no puede proporcionar una guía adecuada a los patrocinadores que desean invertir en proyectos populares. Es entonces que se cuestiona la posibilidad de predecir el éxito de campañas en sitios web de crowdfunding como Kickstarter considerando características obtenidas durante la operación de la campaña. Para resolver esta interrogante, los autores formularon la predicción del éxito del proyecto como un problema de análisis de supervivencia y aplicar el enfoque de regresión censurada.
+El estudio utiliza un método híbrido que combina modelos de propagación empírica y el algoritmo de Recocido Simulado (SA) para optimizar la ubicación de puntos de acceso (AP) en entornos interiores. El objetivo principal es mejorar la cobertura de la señal de AP, que es esencial para garantizar una conectividad efectiva en entornos inalámbricos.
 
-De acuerdo a la metodología seguida por los autores, el primer paso fue la recolección de más de 27 mil proyectos de Kickstarter entre diciembre del 2013 y junio del 2014 para la data estática, a los cuales se removieron aquellos que fueron cancelados, suspendidos o con menos de 1 patrocinador y monto prometido de \$100. Para la data dinámica se capturaron más de 106 mil tweets de Twitter que contenían el enlace rápido hacia la página de Kickstarter. Una vez obtenidos los conjuntos de datos, se realizó el pre-procesamiento. A continuación, se elaboraron 2 modelos predictivos para evaluar la regresión censurada: 1 modelo de distribución logística y 1 de distribución log-logística. Para poder compararlos, se elaboraron adicionalmente otros métodos para manejar observaciones censuradas, mencionados en la literatura como Cox, Regresión Tobit, estimación Buckley-James e Índice de Concordancia Boosting (BoostCI).
+El artículo proporciona una descripción detallada de la técnica, que incluye una serie de pasos cruciales. Inicialmente, se realiza una medición real de RSS en el campo a través de un estudio de sitio para recopilar información sobre la colocación de AP y los niveles de RSS en función de la distancia. Después, se implementa un modelo de dos dimensiones (2D) utilizando Visual Basic para calcular el área de cobertura utilizando un mapa de radio. Luego, se utiliza el algoritmo de Recocido Simulado para optimizar la ubicación de AP. Se toma en cuenta la función de costo, el esquema de enfriamiento, el mecanismo de inicialización de soluciones y el proceso de iteración.
 
-Finalmente, como resultado de las múltiples pruebas en los modelos, en los cuales se experimentaron distintas combinatorias con la data estática y dinámica, así como agregando y desagregando proyectos fracasados, se concluyó que el modelo de Regresión log-logística evaluado con el área bajo la curva (AUC) presentó mejor performance que el resto en 3 de las 4 combinatorias, alcanzando su mejor nivel en el conjunto de datos que combina data estática, dinámica, de características de proyectos transcurridos los primeros 3 días y con proyectos fracasados, con un puntaje Survival AUC de 0.9030, como se representa en la Figura \ref{2:fig116}.
+Los resultados de la optimización de la ubicación de AP muestran mejoras significativas en la cobertura de área como se observa en la Figura 8. Por ejemplo, la cobertura del primer piso (lobby) aumentó del 66,851\% al 97,815\% después de la optimización. Similarmente, la cobertura en el tercer piso (sala de conferencias) aumentó del 88,368\% al 98,263\% después de aplicar el método propuesto. En todos los sitios de estudio, la cobertura de área aumentó en promedio un 19.202\%.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.95\textwidth]{2/figures/li2016.jpg}
-		\caption[Comparación de resultados de conjuntos de datos de distintas características de proyectos considerando incluir o no proyectos fracasados]{Comparación de resultados de conjuntos de datos de distintas características de proyectos considerando incluir o no proyectos fracasados.\\
-			Fuente: \cite{pr_li2016predcrowd}. \textit{Project Success Prediction in Crowdfunding Environments}. (p. 254)}
+		\includegraphics[width=0.95\textwidth]{2/figures/mukti2021.png}
+		\caption[Colocación de Puntos de Acceso Y Optimización de la Cobertura]{Colocación de Puntos de Acceso Y Optimización de la Cobertura.\\
+			Fuente: \cite{pr_mukti2021placemodelindo}. \citetitle{pr_mukti2021placemodelindo}. (p. 8)}
 		\label{2:fig116}
 	\end{center}
 \end{figure}
 
 \newpage
-\cite{pr_yuan2016textanalytics} publicaron un artículo en la revista «Decision Support Systems», en el año 2016, titulado \citetitle{pr_yuan2016textanalytics}, el cual traducido al español significa «Los determinantes del éxito del financiamiento colectivo: Un enfoque de analítica semántica de texto».
+\cite{pr_nauata2021housegan} ,en la conferencia "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)", que tuvo lugar en Nashville, Tennessee, Estados Unidos en el año 2021, publicaron un artículo titulado \citetitle{pr_nauata2021housegan}, en español se traduce como "House-GAN++: Generative Adversarial Layout Refinement Network hacia un agente computacional inteligente para arquitectos profesionales".
 
-Actualmente existen diversos estudios de éxito de campañas de financiamiento colectivo, la mayoría usando modelos predictivos en proyectos crowdfunding basados en recompensas y análisis de características poco profundas del lenguaje en descripción de los proyectos (por ejemplo, número de palabras, errores ortográficos, etc) así como en la implementación de métodos de Aprendizaje Automático. Como propuesta alterna, los autores construyeron un marco de trabajo basado en análisis de texto que pueda extraer semánticas de descripciones textuales de proyectos para predecir sus resultados de recaudación de fondos.
+Para la generación automatizada de planos de planta, se sugiere una red generativa rival de refinamiento de diseño de planos de planta (House-GAN++). El sistema recibe un diagrama de burbujas que muestra las conexiones funcionales entre las habitaciones y, como salida, crea un plano de planta realista.
 
-De acuerdo a la metodología seguida por los autores, el primer paso consistió en recolectar 500 proyectos de 2 websites chinas sobre crowdfunding. Luego, se construyó el marco de trabajo del análisis textual ilustrado en la Figura \ref{2:fig117}. A continuación, se diseñó un modelo de Bosque Aleatorio para los datos numéricos, y POS Tag Stemming + DC-LDA + características tópicas para los datos textuales con la finalidad de realizar una extracción más efectiva de las características tópicas a partir de las descripciones. Esta arquitectura se comparó con otros modelos en la literatura de la publicación. Luego, se realizó un análisis empírico para identificar características discriminatorias que influye en el éxito de la recaudación de fondos.
+Como se muestra en la Figura 9, la arquitectura sugerida integra una GAN relacional con restricciones de grafo y una GAN condicional. El generador itera el diseño antes de convertirlo en la siguiente restricción de entrada. Cada componente recibe una máscara de segmentación de la verdad fundamental con una probabilidad aleatoria durante el entrenamiento (condicionamiento GT por componente).
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.85\textwidth]{2/figures/yuan2016a.jpg}
-		\caption[Marco de trabajo de analítica textual de los autores]{Marco de trabajo de analítica textual de los autores.\\
-		Fuente: \cite{pr_yuan2016textanalytics}. \textit{The Determinants of Crowdfunding Success: A Semantic Text Analytics Approach}. (p. 74)}
+		\includegraphics[width=0.8\textwidth]{2/figures/nauata2021.png}
+		\caption[La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.]{La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.\\
+		Fuente: \cite{pr_nauata2021housegan}. \citetitle{pr_nauata2021housegan}. (p. 3)}
 		\label{2:fig117}
 	\end{center}
 \end{figure}
 
-Finalmente, se evaluaron ambos conjuntos de datos. Para los datos numéricos, la mejor performance se obtuvo evaluando el modelo con la sensibilidad para el Bosque Aleatorio (0.98 en la segunda data); mientras que para los datos textuales, el modelo DC-LDA (al ser comparado con el LDA normal) obtuvo un puntaje F1 de 0.91 como se observa en la Figura \ref{2:fig118}.
+El sistema sugerido supera ampliamente los enfoques del estado del arte actuales en las tres métricas estándar de realismo, diversidad y compatibilidad. En un estudio de usuarios con arquitectos profesionales, el sistema obtuvo puntajes de realismo de -0.7 para los métodos comparativos y puntajes de 0.5 para el sistema propuesto en la tarea más difícil de generar planos de 8 habitaciones. Como se muestra en la Figura 10, la distancia de edición de gráficos (compatibilidad) aumenta de 11.8 para el estado del arte a 6.5 para el sistema propuesto en planos de 8 habitaciones.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/yuan2016b.jpg}
-		\caption[Performance de ambas bases de datos con distintas métricas]{Performance de ambas bases de datos con distintas métricas.\\
-			Fuente: \cite{pr_yuan2016textanalytics}. \textit{The Determinants of Crowdfunding Success: A Semantic Text Analytics Approach}. (p. 91)}
+		\includegraphics[width=0.8\textwidth]{2/figures/nauata2021_2.png}
+		\caption[Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada]{Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada.\\
+			Fuente: \cite{pr_nauata2021housegan}. \citetitle{pr_nauata2021housegan}. (p. 6)}
 		\label{2:fig118}
 	\end{center}
 \end{figure}
 
 \clearpage
-\cite{pr_sawhney2016usingLT} publicaron el reporte técnico titulado \citetitle{pr_sawhney2016usingLT}, que traducido al español significa «Uso del lenguaje para predecir el éxito de Kickstarter», para el Departamento de Ciencia de la Computación de la Universidad Standford en el 2016.
+\cite{pr_shen2018localaplognor} publicaron el informe técnico conocido como \citetitle{pr_shen2018localaplognor} en la conferencia "2018 IEEE Wireless Communications and Networking Conference (WCNC)" en Barcelona, España, se presentó el tema "Localización de puntos de acceso basados en el modelo lognormal de Rayleigh".
 
-Dada la considerable cantidad de investigaciones y trabajos para lograr la predicción de éxito financiamiento de proyectos basados en la evolución de variables estáticas, los autores decidieron optar por otra alternativa diseñando de un clasificador binario que logre predecir el éxito de una campaña a partir de su contenido, características lingüísticas y metadata.
+Este artículo examina el problema de localización de puntos de acceso WiFi (AP) utilizando el modelo Rayleigh lognormal, que caracteriza los efectos del desvanecimiento a gran escala y a pequeña escala. Se propone un método de filtrado de partículas para estimar secuencialmente el alcance de las ubicaciones potenciales del AP objetivo, así como los parámetros de propagación de las señales inalámbricas emitidas por el AP.
 
-De acuerdo a la metodología seguida por los autores, el primer paso consistió en recoctar más de 160 mil proyectos de Kickstarter, donde los proyectos etiquetados como exitosos se asignaron el valor de 1 y los fracasados como 0. Las variables utilizadas fueron el nombre del proyecto, el resumen breve, la meta de la campaña, su fecha de creación y su fecha de culminación. El conjunto total de datos se distribuyó en 80\% y 20\% para subconjuntos de entrenamiento y prueba respectivamente. A continuación, se recopilaron las características primarias y se realizó un análisis de sentimientos. Luego, asignaron las meta-características para utilizarlos como entradas durante el entrenamiento de los modelos. Para ellos, los autores utilizaron como modelo de base el clasificador de Naive Bayes para las características primarias, una Máquina de Vectores de Soporte (SVM) que considera ocurrencias unigramas basado en la cantidad de patrocinadores alcanza una campaña en su final, y un modelo SVM propuesto con meta-características asignadas luego de la extracción de características primarias obtenidas gracias a un Part-Of-Speech (POS). Finalmente, luego de calibrar los modelos, estos se probaron con el subconjunto de prueba para finalmente ser evaluados.
+El método sugerido se basa en el modelo lognormal de Rayleigh y el filtrado de partículas. El filtrado de partículas reduce gradualmente el alcance de las posibles ubicaciones de un AP objetivo, así como los parámetros de propagación de las señales inalámbricas emitidas por el AP objetivo, cuando un participante que sostiene un smartphone recopila mediciones de intensidad de señal recibida (RSS) de un AP objetivo en posiciones conocidas.
 
-Considerando el modelo solo con las características primarias (base), el nivel de exactitud alcanzó 65\%. Sin embargo, utilizando el clasificador entrenado con el primer SVM, el valor de la exactitud logró llegar hasta 92\%. Adicionalmente, se probó el segundo modelo propuesto SVM y se compararon tanto sus niveles de exactitud en entrenamiento como en prueba, ilustrado en la Figura \ref{2:fig119}. En esta, se observa que en todas las categorías, la exactitud promedio de la prueba fue de 71\% con un rango entre 25\% a 100\%, mientras que para el entrenamiento fue como valor promedio de 88\% con un rango entre 81\% a 100\%.
+Según experimentos extensos realizados en escenarios típicos de interiores y exteriores, el método sugerido supera a las soluciones basadas en el modelo lognormal en un 14,13\% a 70,38\%. Debido a que las rutas en los dos primeros escenarios están más cerca del AP que en el escenario de oficina, como se muestra en la Figura 11, los errores de localización en los escenarios del centro comercial y la residencia de estudiantes son mucho menores que en el escenario de oficina.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.55\textwidth]{2/figures/sawhney2016.png}
-		\caption[Exactitud del modelo SVM para cada categoría]{Exactitud del modelo SVM para cada categoría.\\
-			Fuente: \cite{pr_sawhney2016usingLT}. \citetitle{pr_sawhney2016usingLT}. (p. 6)}
+		\includegraphics[width=0.75\textwidth]{2/figures/shen2018.png}
+		\caption[Comparación de los Errores Medios de Localización en Interiores]{Comparación de los Errores Medios de Localización en Interiores.\\
+			Fuente: \cite{pr_shen2018localaplognor}. \citetitle{pr_shen2018localaplognor}. (p. 6)}
 		\label{2:fig119}
 	\end{center}
 \end{figure}
 
 \newpage
-\cite{pr_kaur2017socmedcrowd} publicaron un artículo titulado \citetitle{pr_kaur2017socmedcrowd}, el cual traducido al español significa «Efecto de conectividad en medios sociales en éxito de campañas de financiamiento colectivo», para la revista científica «Procedia Computer Science» en el año 2017.
+\cite{pr_akhter2023interfacesetup} publicó un artículo que se llamaba \citetitle{pr_akhter2023interfacesetup}, "Método de optimización de la configuración de interfaces mediante un modelo de estimación de rendimiento para puntos de acceso que se comunican simultáneamente en una red de área local inalámbrica", según la revista científica "Sensors" de 2023.
 
-Los proyectos de crowdfunding, así como los proyectos lanzados en sitios dedicados a esto, crecieron exponencialmente en los últimos años. Los medios sociales desempeñan un papel importante en la difusión de palabras sobre una campaña y en la obtención de fondos con éxito. Después de lanzarse una campaña, su éxito se define por la interacción social de los creadores en la plataforma y en las redes sociales. Además, el tamaño de la red social del creador y su presencia en línea motiva a los patrocinadores a participar y financiar el proyecto. Partiendo de esta premisa, se busca conocer el impacto de la conectividad con las redes sociales y las interacciones sociales en el rendimiento del crowdfunding. Para ello, los autores plantearon el desarrollo de un modelo predictivo que comprenda las características de la campaña e información sobre la conectividad con las diversas redes sociales como Facebook y Twitter.
+La ubicación de los puntos de acceso (AP) en las redes WLAN es crucial para la estimación de la posición de los usuarios en los sistemas de posicionamiento internos. Este ensayo examina cómo la localización de AP afecta la precisión de las estimaciones de ubicación utilizando un método basado en probabilidades. Para evaluar el impacto de la ubicación de los AP en la probabilidad de una estimación correcta, se presentan tanto expresiones analíticas como resultados numéricos.
 
-De acuerdo a la metodología seguida por los autores, el primer paso consistió en recolectar 2 tipos de conjuntos de datos: el primero obtenido desde Kickstarter en el mes de Abril del 2014, con más de 4 mil campañas; mientras que el segundo a través del perfil del creador vinculado a redes sociales. El primer conjunto comprendió las variables de categoría, tipo de divisa, monto de la meta, monto prometido, número de recompensas, duración de la campaña en días, y el estado final de financiamiento (exitoso o fracasado). Por el lado del segundo conjunto, además de obtener marcas de hacia qué redes sociales el creador se conecta, mediante el enlace se extrajeron más de 19 mil tweets en el que se promocionaron las campañas gracias a la API de Twitter. Luego de armar los conjuntos de datos, se creó un modelo de Regresión Logística. Este usó las variables de categoría, meta de la campaña, número de recompensas, número de tweets publicados por stakeholders como patrocinadores, comunicadores, promotores y alguna compañía, si un proyecto es escogido como “Proyecto del día”, conexión a Facebook por parte del creador, número de cuentas creadas para la campaña tanto en Facebook como en Twitter, y sitios webs adicionales del creador. Las anteriores variables se determinaron luego de evaluarse todas en una matriz de correlación de Pearson. El conjunto final de datos fue fraccionado en 66\% para entrenamiento y 34\% para prueba. Por último, se comparó con las bases de referencia usando como métrica principal la exactitud.
+El artículo describe una técnica para optimizar las interfaces de AP que sigue una serie de pasos importantes. Primero, se enumeran todas las combinaciones posibles de canales CB/no-CB y potencia de transmisión para los AP. Después de elegir una combinación, se estima la RSS requerida, se convierte la RSS estimada en mW y se calculan el SIR individual y el SIR promedio. El proceso se repite hasta encontrar la combinación que proporciona el mayor SIR promedio, lo que determina los canales y potencias de transmisión óptimos para los AP.
 
-El modelo de Regresión Logística alcanzó una exactitud de 76.7\%. Este fue comparado con algunos modelos mencionados en sus antecedentes como Naïve Bayes, J48 y Bosques Aleatorios. Bajo otras métricas, como se observa en la Figura \ref{2:fig120}, alcanzó los mayores niveles promedio en el Área bajo la curva ROC (AUC-ROC) y Área bajo la curva Precisión-Sensibilidad (AUC-PRC) con 84.7\% y 84.6\% respectivamente.
+Los resultados experimentales muestran que la estimación de SIR puede encontrar la combinación ideal de potencia y tipo de canal que brinda el mayor rendimiento total. Por ejemplo, en la topología 1 con alta interferencia, se observa que la combinación de dos canales CB con potencias de transmisión H y L ofrece el rendimiento total más alto. Por otro lado, en la topología 5 con baja interferencia, la combinación de dos canales CB y un canal no CB con potencias L, L y H proporciona el rendimiento más alto en conjunto. Como se puede ver en la Figura 12, estos resultados se respaldan con valores numéricos que demuestran la eficacia del método sugerido para optimizar la configuración de las interfaces de AP para mejorar el rendimiento de la red WLAN.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/kaur2017.jpg}
+		\includegraphics[width=0.75\textwidth]{2/figures/akhter2023.png}
 		\caption[Performance estadística del modelo predictivo de los autores]{Performance estadística del modelo predictivo de los autores.\\
-		Fuente: \cite{pr_kaur2017socmedcrowd}. \textit{Effect of Social Media Connectivity on Success of Crowdfunding Campaigns}. (p. 772)}
+		Fuente: \cite{pr_akhter2023interfacesetup}. \citetitle{pr_akhter2023interfacesetup}. (p. 10)}
 		\label{2:fig120}
 	\end{center}
 \end{figure}
 
 \clearpage
-\cite{pr_kamath2018suplearn} publicaron un artículo titulado \citetitle{pr_kamath2018suplearn}, el cual traducido al español significa «Modelo de aprendizaje supervisado para campañas de Kickstarter con R Mining», para la revista científica «International Journal of Information Technology, Modeling and Computing» en el año 2018.
+\cite{pr_cai2023precisewifi} publicaron un artículo que se llamaba \citetitle{pr_cai2023precisewifi}, el término se traduce al español como "Posicionamiento WiFi preciso en el interior mediante algoritmos de aprendizaje profundo" para la revista científica "ArXiv:2307.02011v" publicada en 2023.
 
-A pesar de que Kickstarter es la plataforma web de crowdfunding más grande existente, no todas las campañas que se encuentran son exitosas. Algunos trabajos previos citados en este artículo, incluyendo los anteriormente mencionados \cite{pr_chen2013kickpredict} y \cite{pr_mitra2014phrases}, citan que el lenguaje usado en las campañas alcanza el poder predictivo de 58.86\%, es decir, la descripción semántica de un proyecto ayuda considerablemente en la predicción de éxito debido a que muchos patrocinadores se fijan en la calidad presente en una campaña antes de invertir.  Sin embargo, es dejada de lado en muchos trabajos de investigación destinados a la predicción de éxito de financiamiento, así como también las interacciones de un proyecto en redes sociales. Para el tiempo en que este artículo fue publicado, el nivel de exactitud de los modelos predictivos ya existentes bordeaba por el 68\% como el descrito anteriormente. Ante esto, los autores desarrollaron un sistema con técnicas de Aprendizaje Automático usando el entorno R aplicadas a un conjunto de datos de campañas en Kickstarter para alcanzar su objetivo de clasificar proyectos entrenando diferentes clasificadores y predecir con un alto nivel de exactitud.
+Este artículo presenta una nueva estrategia para el posicionamiento en interiores que emplea tecnología WiFi. Para mejorar la precisión del posicionamiento en comparación con el enfoque tradicional basado únicamente en RSSI, se recomienda utilizar una combinación de mediciones de la Intensidad de la Señal Recibida (RSSI) y el Ángulo de Llegada (AoA).
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se analizó y definió el problema de la investigación. A continuación, se recolectaron 120 proyectos de Kickstarter a través de su URL. Luego, las variables categóricas fueron transformadas en numéricas como parte del pre-procesamiento. Esto permitió realizar extracción y exploración del conjunto final mediante estadísticas descriptivas con paquetes de R. Luego, se implementaron 5 modelos clasificadores para la investigación: un Árbol de decisión, un Bosque Aleatorio, una Red Neuronal Artificial, el algoritmo del Vecino K más cercano, y el modelo Naïve Bayes. Se consideraron como variables para estos modelos al nombre del proyecto, URL del proyecto, descripción del proyecto, categoría, sub-categoría, número de patrocinadores, monto total patrocinado, meta de financiación, fecha de lanzamiento del proyecto, duración del proyecto, número de actualizaciones, número de recompensas, si el proyecto cuenta con video, localización del proyecto, y creador del proyecto.
+La metodología se compone de tres pasos principales: 1) Usando puntos de referencia, crear modelos de posicionamiento basados en RSSI y el método híbrido RSSI-AoA; 2) Entrenar los modelos utilizando varios algoritmos de aprendizaje profundo, como BPNN, RBF y CNN; 3) Probar el rendimiento de los modelos y calcular los errores en tres entornos de prueba diferentes: un salón de clases grande, un salón de clases pequeño y un salón de clases pasillo.
 
-Por último, con la matriz de confusión, se escogió la métrica de exactitud para evaluar los modelos, en donde el mejor de ellos fue la Red Neuronal, con un valor de 0.94. En la Figura \ref{2:fig121}, se representa en un gráfico de dispersión cada modelo (con excepción del algoritmo del vecino K más cercano) escalado según el valor de su exactitud.
+Independientemente del algoritmo de aprendizaje profundo utilizado y del entorno de prueba, los resultados muestran que el método híbrido RSSI-AoA tiene un error medio absoluto (MAE) más pequeño que el método basado únicamente en RSSI. Por ejemplo, el MAE del método híbrido con CNN es inferior a 300 mm en un salón de clases grande, mientras que el MAE del método basado en RSSI con CNN es inferior a 400 mm. Como se muestra en la Figura 13, el algoritmo CNN supera a BPNN y RBF en ambos modelos de posicionamiento.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.90\textwidth]{2/figures/kamath2018.jpg}
-		\caption[Gráfico de dispersión de cada modelo evaluado según su exactitud]{Gráfico de dispersión de cada modelo evaluado según su exactitud.\\
-			Fuente: \cite{pr_kamath2018suplearn}. \textit{Supervised Learning Model For Kickstarter Campaigns
-				With R Mining}. (p. 26)}
+		\includegraphics[width=0.90\textwidth]{2/figures/cai2023.png}
+		\caption[Los MAE del modelo híbrido de posicionamiento]{Los MAE del modelo híbrido de posicionamiento.\\
+			Fuente: \cite{pr_cai2023precisewifi}. \citetitle{pr_cai2023precisewifi}. (p. 26)}
 		\label{2:fig121}
 	\end{center}
 \end{figure}
 
-En el acta de la conferencia «2018 IEEE 15th International Conference on e-Business Engineering (ICEBE)» realizado en Xi'an, China, del 12 al 14 de octubre del 2018, \cite{pr_yu2018deeplearning} publicaron el artículo titulado \citetitle{pr_yu2018deeplearning}, el cual traducido al español significa «Predicción del éxito de proyecto de financiamiento colectivo con Aprendizaje Profundo».
+En el acta de la revista "IPTEK The Journal of Technology and Science", que se llevó a cabo en 2022, se indica que \cite{pr_ainun2022optikmeans} publicaron el artículo conocido como \citetitle{pr_ainun2022optikmeans}, "Optimización de la ubicación de puntos de acceso en redes Wi-Fi utilizando el método de agrupación K-Means", según su traducción al español.
 
-Debido al aumento dramático de la actividad de financiamiento colectivo en los últimos años, en el cual tanto creadores como patrocinadores participan, son más las campañas que buscan alcanzar su objetivo. Sin embargo, según el análisis empírico, solo la tercera parte lo logra. La incógnita que rodea a esta situación es la posibilidad de elaborar un modelo predictivo de éxito en proyectos de Kickstarter utilizando distintas técnicas al Aprendizaje Automático. Basándose en investigaciones previas que incluyeron a los ya mencionados \cite{pr_chen2013kickpredict}, \cite{pr_li2016predcrowd}, \cite{pr_sawhney2016usingLT} y \cite{pr_kamath2018suplearn}, los autores plantean como objetivo el desarrollo de un modelo que prediga el éxito del proyecto de crowdfunding con Aprendizaje Profundo usando registros históricos de campañas en Kickstarter.
+El artículo analiza el uso del algoritmo de agrupamiento K-Means para analizar la fuerza de la señal de cuatro puntos de acceso Wi-Fi en un edificio de dos pisos.
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se recolectaron más de 378 mil campañas de Kickstarter entre Mayo 2009 y Marzo 2018, recopilados retrospectivamente desde Kaggle. A continuación, realizaron análisis exploratorio de los datos para entender la data y seleccionar variables. Estas últimas fueron el nombre del proyecto, categoría del proyecto, subcategoría, divisa en que se encuentra la meta de la campaña, fecha de lanzamiento, fecha de culminación, meta de la campaña, monto prometido alcanzado, número de patrocinadores, país del proyecto, monto prometido alcanzado en dólares y meta de la campaña en dólares. Los autores elaboraron un modelo Perceptrón Multicapa (MLP), alimentado por 6 variables visibles de la campaña (metadata), entrenado con 100 épocas con tamaño de lote de 30, como se observa en la Figura \ref{2:fig122}.
+Primero, se realizó un preprocesamiento de datos, que incluyó la eliminación de valores faltantes, eliminación de duplicados y normalización de los datos mediante la normalización Min-Max.  Luego se utilizó el método del codo para encontrar el número ideal de grupos; esto resultó en 4 para el conjunto de datos general y entre 4 y 5 para cada punto de acceso individual.  Posteriormente, con el número de grupos determinado, se utilizó el algoritmo K-Means, lo que resultó en una precisión de entre el 81,5\% y el 83,7\% en la comparación de los valores de BSS y TSS.
 
-Finalmente, el modelo propuesto se comparó con los de la literatura, entre ellos Bosques aleatorios, AdaBoost, Máquina de vectores de soporte, Árboles de decisión, Regresión logística y Naïve Bayes.
-Se tomaron en cuenta como métricas la exactitud y el área bajo la curva ROC (AUC). De acuerdo a ellas, para ambos escenarios se lograron mejor performance, con una exactitud de 0.9320 y un área bajo la curva de 0.9323 frente al mejor modelo de los antecedentes, Bosques Aleatorios, que obtuvo como resultados 0.9293 y 0.9272 para las mismas métricas respectivamente.
+Los resultados indican que el grupo con la señal más fuerte para el punto de acceso A tiene una RSSI media de 10,0, mientras que el grupo con la señal más fuerte para el punto de acceso B tiene una RSSI media de 10,5.  Como se muestra en la Figura 14, estos hallazgos podrían ser útiles para maximizar la cobertura de la red Wi-Fi del edificio.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/yu2018.jpg}
-		\caption[Gráfico de historial de entrenamiento para subconjuntos de entrenamiento y validación]{Gráfico de historial de entrenamiento para subconjuntos de entrenamiento y validación.\\
-			Fuente: \cite{pr_yu2018deeplearning}. \textit{Prediction of
-				Crowdfunding Project Success with Deep Learning}. (p. 6)}
+		\includegraphics[width=0.65\textwidth]{2/figures/ainun2022.png}
+		\caption[Resultados de la aplicación]{Resultados de la aplicación.\\
+			Fuente: \cite{pr_ainun2022optikmeans}. \citetitle{pr_ainun2022optikmeans}. (p. 11)}
 		\label{2:fig122}
 	\end{center}
 \end{figure}
 
 \clearpage
-En el acta de la conferencia «Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing», realizada  del 3 al 7 de noviembre del 2018 en Jersey City, Estados Unidos, \cite{pr_lee2018contentDL} publicaron el artículo titulado \citetitle{pr_lee2018contentDL}, el cual traducido al español significa «Predicción de éxito basada en contenido de campañas de crowdfunding: un enfoque de Aprendizaje Profundo».
+En el año 2023, la revista "Automation in Construction" publicó \cite{pr_hosseini2023NSGAIIap} publicaron el artículo conocido como \citetitle{pr_hosseini2023NSGAIIap}, "Ubicación óptima de puntos de acceso Wi-Fi basada en NSGA-II para posicionamiento interior: una predicción RSS basada en BIM", según su traducción al español.
 
-Debido a que el ratio promedio de éxito de financiamiento colectivo ha ido decreciendo en los últimos años a pesar del éxito de plataformas basadas en este tipo, así como la llegada de desafíos como descubrir las razones de su éxito y lograr predecirlo, los autores plantearon utilizar solo el contenido textual de los proyectos (descripción de campaña, actualizaciones, comentarios y palabras obtenidas del video principal) para predecir el estado de financiamiento de proyectos de Tecnología (la categoría con ratio más bajo de éxito de financiamiento y a la vez, con los mayores montos financiados en la plataforma) a través de la creación de una Red Neuronal Profunda.
+Este artículo presenta un método para optimizar la colocación de puntos de acceso Wi-Fi (AP) en interiores utilizando un modelo de propagación de señal calibrado y un algoritmo genético multiobjetivo (NSGA-II).
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se recolectaron 216,136 proyectos de crowdfunding en Kickstarter, lanzados entre abril del 2009 y agosto del 2017. De este grupo, conformado por 15 categorías, se filtraron aquellos de la categoría Tecnología (22,982 registros) para luego separar el conjunto de datos final en 0.80 (entrenamiento), 0.10 (validación) y 0.1 (prueba). Luego, se diseñaron 2 modelos de NLP: 1 Modelo de Secuencia a Secuencia (Seq2seq) con atención a nivel de oración y 1 Modelo de Atención Jerárquica (HAN).
+La técnica consta de varias etapas: 1) Voxelización del modelo BIM del edificio, 2) Muestreo de intensidad de señal recibida (RSS) en puntos de control y verificación, 3) Calibrar el modelo de propagación de señal mediante el método de cuadrados mínimos, 4) Creación de huellas digitales virtuales 3D y 5) Uso de NSGA-II para optimizar la ubicación de los AP Wi-Fi. 
 
-Finalmente, luego de ser entrenados, los modelos fueron evaluados bajo la métrica de exactitud, bajo enfoques de distintos experimentos que alternaban la presencia de las variables. De todos ellos, basado en aquellos que utilizaron todas en conjunto, el modelo de Seq2seq + atención logró una exactitud de 0.80, mientras que el modelo HAN alcanzó el valor de 0.60, como se aprecia en la Figura \ref{2:fig123}.
+Los resultados demuestran que el método sugerido puede reducir significativamente el número de AP Wi-Fi necesarios sin sacrificar la precisión de la ubicación. La mejor solución encontrada tenía 4 APs y 13 APs, respectivamente, con una mejora en la precisión del posicionamiento del 35.54\% y 44.82\% en comparación con la distribución actual de 6 APs, como se muestra en la Figura 15.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.75\textwidth]{2/figures/lee2018.jpg}
-		\caption[Promedio estimado de la exactitud de predicción vs tiempo estimado en días]{Promedio estimado de la exactitud de predicción vs tiempo estimado en días.\\
-		Fuente: \cite{pr_lee2018contentDL}. \textit{Content-based Success Prediction of Crowdfunding
-			Campaigns: A Deep Learning Approach}. (p. 196)}
+		\includegraphics[width=0.75\textwidth]{2/figures/hosseini2023.png}
+		\caption[Los resultados de la evaluación de la convergencia del NSGA-II]{Los resultados de la evaluación de la convergencia del NSGA-II.\\
+		Fuente: \cite{pr_hosseini2023NSGAIIap}. \citetitle{pr_hosseini2023NSGAIIap}. (p. 16)}
 		\label{2:fig123}
 	\end{center}
 \end{figure}
 
 \newpage
-En el acta de la conferencia «The 33rd AAAI Conference on Artificial Intelligence (AAAI'2019)», realizada del 27 de enero al 1 de febrero del 2019 en Honolulu, Hawái, \cite{pr_jin2019dayssuccess} publicaron un artículo titulado \citetitle{pr_jin2019dayssuccess}, el cual traducido al español significa «Estimación de días de éxito de campañas en financiamiento colectivo: Una perspectiva de supervivencia profunda».
+En noviembre del 2015, en la publicación "Computers, Environment and Urban Systems", \cite{pr_lee2015coverage3d} publicaron un artículo que se llamaba \citetitle{pr_lee2015coverage3d}, "Modelización 3D de la ubicación de puntos de acceso Wi-Fi en interiores" en español.
 
-Dado el incremento de actividad en campañas de crowdfunding en sitios como Kickstarter o Indiegogo, los estudios sobre este tema también han ido de la mano. Sin embargo, la mayoría de investigaciones se enfocan en predecir el ratio de éxito de financiamiento en una campaña. El reto de predecir el tiempo de duración es más complicado porque se ve afectada por la variabilidad de la metadata y los comentarios del proyecto, resultando un alto nivel de fracaso (60\%) en la financiación de proyectos. Por ello, los autores plantean la predicción de la fecha exacta de finalización de una campaña, así como controlar la distribución de patrocinios conforme a la evolución del tiempo.
+Este documento presenta un modelo de optimización para la ubicación de puntos de acceso (AP) Wi-Fi en un entorno interior de múltiples pisos con el objetivo de maximizar la cobertura de la señal. El modelo utiliza el modelo de sombra log-normal para considerar la atenuación de la señal en tres dimensiones. Esto permite una representación más precisa de la cobertura de la señal en comparación con los métodos tradicionales en dos dimensiones.
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se recolectaron más de 14 mil proyectos de Indiegogo con información estática (descripción de campaña, descripción de las recompensas, categoría de la campaña, tipo del creador, duración declarada de financiación, meta declarada prometida, número de recompensas, precio máximo/mínimo/promedio de recompensas, plazo máximo/mínimo/promedio de entrega) y dinámica (comentarios). Luego se definirse el problema estudiado, se introdujo los detalles técnicos de SMP, la arquitectura que se usó. A continuación, el conjunto de datos de entrada fue pre-procesado, se elaboró un modelo Seq2seq (encoder + decoder) con previos multifacéticos (SMP) para la distribución de patrocinios y el tiempo de éxito, así como también un modelo evolutivo lineal para mantener el cambio de las distribuciones de patrocinios, ilustrado en la Figura \ref{2:fig124}. Después se designó el método de entrenamiento para el modelo.
+El artículo aborda los siguientes puntos importantes: Para estimar la atenuación de la señal en 3D, se define un modelo de propagación de señal log-normal en sombra. El problema de ubicación de AP se identificó como un problema de cobertura de señal máxima (MSCLP), Resolver el MSCLP utilizando un algoritmo de optimización para encontrar las ubicaciones de AP ideales, y finalmente, utilizando esferas que representan la fuerza de la señal en los puntos de demanda para visualizar la cobertura 3D resultante.
 
-Finalmente, los modelos fueron evaluados por 3 métricas: Divergencia de Kullback-Leibler (KL), la Raíz del Error Cuadrático Medio (RMSE) y el Error Absoluto Medio (MAE). Respecto a la predicción de distribución de patrocinios, y evaluando mejor con RMSE, los modelos propuestos de SMP fueron los más efectivos (para 70\% de ratio de partición, se obtuvo 0.135 con el previo evolutivo y 0.137 sin el previo evolutivo, frente a 0.142 del Perceptrón Multicapa y 0.144 de la Regresión Logística Multinomial) para el Encoder.
-Respecto a la predicción del tiempo de éxito, los modelos propuestos de SMP (para 50\% de ratio de partición, se obtuvieron 0.960, 0.930 y 0.729) fueron mejores que modelos de referencia (para 50\% de ratio de partición, el mejor de los 8 modelos de referencia fue el BoostCOX con 0.776) para el Decoder.
+El modelo sugerido indica que las ubicaciones de AP ideales se encuentran en varios pisos, con el 70\% de las ubicaciones en los pisos centrales tercero y cuarto. Se logra una cobertura del 98.81\% de los puntos de demanda para una solución con 10 AP sin restricción de capacidad. A medida que se agregan más AP, la fuerza de señal promedio aumenta, pero la tasa de aumento disminuye. La solución propuesta con el mismo número de AP cubre significativamente más puntos de demanda que la solución actual de 117 AP en el edificio de prueba (77.61\% en comparación con 54.63\%). Según el modelo, solo se necesitarían 21 AP sin restricción de capacidad para una cobertura completa, como se muestra en la Figura 16.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/jin2019.jpg}
-		\caption[Arquitectura SMP de los autores]{Arquitectura SMP de los autores.\\
-		Fuente: \cite{pr_jin2019dayssuccess}. \textit{Estimating the Days to Success of Campaigns
-			in Crowdfunding: A Deep Survival Perspective}. (p. 3)}
+		\includegraphics[width=1\textwidth]{2/figures/lee2015.png}
+		\caption[Colocación óptima de AP capacitados con demandas ponderadas (p = 117)]{Colocación óptima de AP capacitados con demandas ponderadas (p = 117).\\
+		Fuente: \cite{pr_lee2015coverage3d}. \citetitle{pr_lee2015coverage3d}. (p. 9)}
 		\label{2:fig124}
 	\end{center}
 \end{figure}
 
 \newpage
-En el acta de la conferencia «The Twenty-Eighth International Joint Conference on Artificial Intelligence (IJCAI-19)», realizada del 10 al 16 de agosto del 2019 en Macao, China, \cite{pr_cheng2019deeplearning} publicaron el artículo titulado \citetitle{pr_cheng2019deeplearning}, el cual traducido al español significa «Predicción del éxito en financiamiento colectivo con Aprendizaje Profundo Multimodal».
+En marzo de 2023, en la revista científica "Architecture and Planning Journal (APJ)", \cite{pr_ozerol2023genermass} publicaron el artículo conocido como \citetitle{pr_ozerol2023genermass}, en español, esto se traduce como "Creación de planes de vivienda colectiva a través de Gans - Un caso en Tokio, Turquía".
 
-La mayoría de los enfoques de predicción existentes aprovechan solo la modalidad dominada por el texto a pesar de existir más información en los perfiles de los proyectos, como por ejemplo, metadatos e imágenes. A estos últimos se han realizado poco trabajo para evaluar sus efectos hacia la predicción del éxito. Además, la metainformación ha sido explotada en muchos enfoques existentes para mejorar la precisión de la predicción. Sin embargo, esta generalmente se limita a la dinámica después de la publicación de los proyectos, haciendo que tanto los creadores del proyecto como las plataformas no puedan predecir el resultado de manera oportuna. Se carecen estudios basados en distintas modalidades más allá de la metainformación. El objetivo de los autores es construir esquemas avanzados de redes neuronales que combinan información de diferentes modalidades para predecir el estado de financiamiento del proyecto usando solo información pre-publicación.
+El estudio investigó la capacidad de Generative Adversarial Neural Networks (GAN) para crear dibujos arquitectónicos de proyectos de vivienda masiva de TOKI utilizando conjuntos de datos. El objetivo principal fue capacitar al algoritmo HouseGAN para crear tipologías de planos de TOKI actuales y diagramas de burbujas.
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se recolectaron más de 20 mil campañas finalizadas (exitosas o fracasadas) en Kickstarter gracias a un algoritmo creado para capturar datos en la página por 2 semanas. Se descartaron aquellos proyectos previos al 2015, quedando proyectos entre este año y el 2018. Asimismo, entre el contenido obtenido se registraron perfil textual (título, resumen, descripción del financiamiento, y riesgos/retos), imágenes (en formato jpg), categorías, meta de financiamiento, fecha de inicio y de finalización de campaña. Luego, se realizó pre-procesamiento a los subconjuntos de datos y se dividieron en 3 subconjuntos: entrenamiento (proyectos del 2015 y 2016), validación (2017) y prueba (2018). A continuación, se configuró la arquitectura del marco de trabajo del modelo Aprendizaje Profundo Multimodal y finalmente se realizaron distintos experimentos elaborando combinatorias de distintas modalidades para compararlas entre sí mediante las métricas de sensibilidad, precisión, puntaje F1 y área bajo la curva (AUC). Debido a que los autores construyeron un modelo apilado de 3 modelos para cada modalidad, ilustrada en la Figura \ref{2:fig125}, cada una se distribuyó de la siguiente manera: un modelo de Máquina de Vectores de Soporte (SVM) para la metainformación; la Red Neuronal Convolucional (CNN) pre-entrenada de 16 capas VGG16, trabajando junto con la Bolsa de Palabras Visuales (BoVW) para las imágenes; y la Bolsa de Palabras (BoW) trabajando junto con la Frecuencia de Términos - Frecuencia Inversa de Documentos (TF-IDF) e incrustaciones de palabras GloVe de 300 dimensiones.
+En el artículo se explica cómo se multiplicaron planos correlacionados espacialmente con la configuración RGB de 21 tipologías de planos para obtener 157 conjuntos de datos de planos. Estos datos se utilizaron para entrenar al algoritmo de deep learning HouseGAN, que generó imágenes de fondo realistas como salidas del proceso de entrenamiento. El estudio siguió los siguientes pasos: Los diseños arquitectónicos de los proyectos de vivienda masiva de TOKI se utilizaron como conjuntos de datos. Después, se multiplicaron los planos para obtener 157 conjuntos de datos de planos, que se correlacionaron espacialmente con la configuración RGB de 21 tipologías de planos. Posteriormente, se empleó el conjunto de datos generado para entrenar a HouseGAN. Finalmente, los resultados del entrenamiento se convirtieron en imágenes de fondo realistas.
 
-Finalmente, para evaluar los resultados, se comparó el modelo propuesto (MDL-TIM) por los autores contra la base de referencia de un modelo SVM con texto, imágenes y metadata (SVM-TIM). Así, se observó que bajo todas las métricas, con excepción de la precisión, el marco de trabajo Multimodal obtuvo mejores resultados, con 0.7505 en sensibilidad, 0.7534 en puntaje F1 y 0.8326 en área bajo la curva, frente a 0.7411, 0.7483 y 0.7411 respectivamente.
+La investigación reveló que la planificación del diseño espacial del algoritmo HouseGAN proporciona diagramas de burbujas y tipologías de planos de TOKI actuales. Como se muestra en la Figura 17, este método permitió crear planos arquitectónicos útiles y realistas para el desarrollo de proyectos de vivienda masiva.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/cheng2019.jpg}
-		\caption[Arquitectura de modelo de Aprendizaje Profundo Multimodal de los autores]{Arquitectura de modelo de Aprendizaje Profundo Multimodal de los autores.\\
-		Fuente: \cite{pr_cheng2019deeplearning}. \textit{Success Prediction on Crowdfunding with Multimodal Deep Learning}. (p. 2161)}
+		\includegraphics[width=1\textwidth]{2/figures/ozerol2023.png}
+		\caption[HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores]{HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores.\\
+		Fuente: \cite{pr_ozerol2023genermass}. \citetitle{pr_ozerol2023genermass}. (p. 10)}
 		\label{2:fig125}
 	\end{center}
 \end{figure}
 
-En el acta de la conferencia «2019 IEEE 6th International Conference on Industrial Engineering and Applications (ICIEA)», realizada del 12 al 15 de abril del 2019 en Tokyo, Japón, \cite{pr_chen2019keywords_crowdfunding} publicaron el artículo titulado \citetitle{pr_chen2019keywords_crowdfunding}, el cual traducida al español significa «Encontrar las palabras clave que influyen en el éxito de los proyectos de financiación colectiva».
+En marzo del 2023, en la revista "ArXiv", \cite{pr_tang2023graphtransfor} publicaron el artículo conocido como \citetitle{pr_tang2023graphtransfor}, "Transformadores de grafos GAN para la generación de casas con restricciones gráficas" en español.
 
-A la fecha de esta publicación, existían pocas investigaciones basadas en el impacto de la descripción y palabras para predecir el ratio de éxito de financiamiento de un proyecto crowdfunding. Ante esta situación, los autores tuvieron como objetivo analizar el impacto del contenido textual en un proyecto de Kickstarter a partir del análisis de sus palabras clave que determinen el ratio de éxito de su financiamiento.
+Los autores de este artículo sugieren una técnica basada en redes generativas adversarias (GAN) con transformadores para crear diseños de casas limitados por un grafo de adyacencia de habitaciones. Mientras que el discriminador clasifica las habitaciones para mantener sus características semánticas, el generador captura las relaciones entre las habitaciones locales y globales utilizando una arquitectura de transformador. Además, se utiliza una pérdida de consistencia cíclica basada en grafos para mantener las relaciones espaciales relativas entre los grafos generados y los reales.
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se recolectaron las descripciones de proyectos de Kickstarter de la categoría “Juegos”, desde el 1 de julio hasta el 30 de agosto del 2018, de los cuales la distribución quedó en 50 proyectos que alcanzaron el 100\% de su meta y otros 50 proyectos que no alcanzaron por lo menos el 75\%. A continuación, se pre-procesó la data eliminando caracteres especiales, términos distintos al idioma inglés y palabras de parada en inglés para poder armar una matriz de Término-Documento que usará los pesos TF-IDF. Los autores propusieron 2 modelos de Máquinas de Vectores de Soporte con Eliminación de Características Recursivas (SVM-RFE), usando las herramientas “Weka 3.8” y “libSVM”, los cuales fueron comparados. Luego, se seleccionaron las características realizando experimentos de validación cruzada antes de la construcción del modelo predictivo. 
+Los siguientes son los pasos principales de la metodología: 1) Representación de entrada: se crea un grafo en el que cada nodo representa una habitación y cada arista representa la proximidad espacial. 2. Red neuronal convolucional de paso de mensaje (Conv-MPN): utiliza transformadores para actualizar los volúmenes de características de las habitaciones y capturar relaciones entre habitaciones conectadas y no conectadas. 3) Discriminador basado en clasificación de nodos: mantiene características semánticas discriminativas importantes para varios elementos de la casa. 4) La pérdida de consistencia cíclica basada en grafos: mantiene las relaciones espaciales relativas entre los grafos generados y los reales.
 
-Finalmente, se evaluaron los resultados con la métrica de exactitud.
-Se realizó hasta dos experimentos manipulando los conjuntos de datos para el SVM-RFE y el mejor resultado fue una exactitud de 78.90\% para predecir el ratio de éxito de un proyecto crowdfunding a partir de 50 palabras claves importantes que se encuentren dentro de su contenido, las cuales se detallan en la Figura \ref{2:fig126}.
+Los hallazgos demuestran que el enfoque sugerido supera ampliamente a los métodos actuales para generar diseños de casas. En la generación de diseños de techos, GTGAN mejora a los métodos PQ-Net, HouseGAN y RoofGAN con un FID de 9.6 y una distancia mínima de emparejamiento (RMMD) de 7.2 para 4 primitivas. En el subconjunto "10-12" de habitaciones, GTGAN obtiene un puntaje de realismo de 0.25, una distancia FID de 7.5 y una distancia de edición de grafo de 2.63, superando a HouseGAN, HouseGAN++ y otros métodos.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.85\textwidth]{2/figures/chen2019.jpg}
-		\caption[Palabras clave seleccionadas que afectan el ratio de éxito según modelo SVM-RFE]{Palabras clave seleccionadas que afectan el ratio de éxito según modelo SVM-RFE.\\
-		Fuente: \cite{pr_chen2019keywords_crowdfunding}. \textit{Finding the Keywords Affecting the Success of Crowdfunding Projects}. (p. 571)}
+		\includegraphics[width=0.65\textwidth]{2/figures/tang2023.png}
+		\caption[Resultados cuantitativos de la generación de tejados de casas en el conjunto de datos de geometría de tejados de estilo CAD]{Resultados cuantitativos de la generación de tejados de casas en el conjunto de datos de geometría de tejados de estilo CAD.\\
+		Fuente: \cite{pr_tang2023graphtransfor}. \citetitle{pr_tang2023graphtransfor}. (p. 8)}
 		\label{2:fig126}
 	\end{center}
 \end{figure}
 
 \newpage
-En el acta de la conferencia «2019 Portland International Conference on Management of Engineering and Technology (PICMET)», realizada del 25 al 29 de agosto del 2019 en Portland, Estados Unidos, \cite{pr_chaichi2019nlp_3dprinting} publicaron el artículo titulado \citetitle{pr_chaichi2019nlp_3dprinting}, el cual traducido al español significa «Implementación del procesamiento del lenguaje natural para extraer características clave del producto de las campañas de crowdfunding: el caso de las tecnologías de impresión 3D en Kickstarter».
+En abril del 2021, en la revista científica "arXiv", \cite{pr_chang2021buildinggan} publicaron el artículo conocido como \citetitle{pr_chang2021buildinggan}, el título "Building-GAN: generación de diseños arquitectónicos volumétricos condicionados por grafos" se traduce al español.
 
-Debido a la dificultad para predecir éxito de campañas en Kickstarter a partir de información textual (data no estructurada), los autores propusieron predecir éxito de campañas de proyectos de impresión 3D en Kickstarter a partir de la extracción de características de producto a partir de información textual como título, resumen y descripción.
+Para mejorar la eficiencia en el diseño volumétrico de edificios en la industria de la arquitectura y la construcción, este artículo presenta un enfoque innovador llamado Building-GAN. Para visualizar los diseños arquitectónicos, se introduce un grafo de voxels tridimensional, así como un generador que incorpora un módulo de punteros cruzados para conectar el grafo de programas y el grafo de voxels.
 
-De acuerdo a la metodología seguida por los autores, en primer lugar se extrajo el contenido textual (incluyendo título, resumen y descripción de campaña) de 528 proyectos de tecnología que contenían las palabras «3d printer» (impresora 3D) recopilados en Septiembre del 2017 usando la herramienta Selenium, de los cuales al eliminar aquellos que no contenían estas 3 variables textuales y algunos duplicados, quedaron finalmente 246 proyectos. El siguiente paso consistió en pre-procesar la data con algunas librerías de Python, incluyendo el paquete de R UDPipe, para armar el corpus final. UDPipe permitió generar segmentación de oraciones, tokenización, etiquetado POS (Part Of Speech), lematización, árboles de análisis de dependencia y colocaciones (palabras que continúan a otra). A continuación, se usó el algoritmo basado en grafos TextRank para extraer palabras claves, así como la técnica no supervisada RAKE (Extracción automática rápida de palabras clave) para extraer frases clave. Se probaron, además, otras tres técnicas más.
-Finalmente, los resultados de las 6 técnicas para extraer frases claves fueron comparados y se llegaron a conclusiones basadas en las similitudes entre estas.
+El artículo detalla los pasos que se deben seguir para crear el modelo Building-GAN. Comienza con la recopilación de datos, que produce un conjunto de datos sintéticos que incluye 120,000 diseños volumétricos de edificios comerciales. Luego se implementa un Grafo Neural Generativo (GNN) de voxels y se crea un grafo de programas jerárquico. Un módulo cruzado basado en punteros también se agrega para conectar los grafos de programas y los voxels.
 
-Finalmente, se encontraron palabras con mayor frecuencia según cada una de las 6 técnicas de extracción de palabras clave (que incluyen frecuencia de términos por \textit{n} gramas según cada algoritmo mencionado anteriormente), ilustradas en nubes de palabras, como por ejemplo relacionadas a disponibilidad, buenas características y precios cómodos de impresoras 3D. En la Figura \ref{2:fig127} se representa la nube de palabras de las palabras clave de 3 y 4 gramas usando el algoritmo TextRank. También se observaron 2 problemas: no todas las palabras con mayor frecuencia son características del producto, y ambigüedad de algunas palabras.
+Los resultados muestran que el modelo propuesto supera significativamente al método anterior, House-GAN, en un estudio de usuarios con 20 arquitectos profesionales, con una puntuación promedio de 0.85 y 0.92, respectivamente. Además, el modelo propuesto obtiene una puntuación promedio de 0.37 en comparación con el modelo Ground Truth, lo que indica que los arquitectos a menudo no pueden distinguir claramente entre el modelo Ground Truth y el modelo propuesto, como se muestra en la Figura 19.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.55\textwidth]{2/figures/chaichi2019.jpg}
-		\caption[Nube de palabras clave de 3 y 4 gramas usando el algoritmo TextRank]{Nube de palabras clave de 3 y 4 gramas usando el algoritmo TextRank.\\
-		Fuente: \cite{pr_chaichi2019nlp_3dprinting}. \textit{Deploying Natural Language Processing to Extract Key Product Features of Crowdfunding Campaigns: The Case of 3D Printing Technologies on Kickstarter}. (p. 6)}
+		\includegraphics[width=0.7\textwidth]{2/figures/chang2021.png}
+		\caption[Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN]{Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN.\\
+		Fuente: \cite{pr_chang2021buildinggan}. \citetitle{pr_chang2021buildinggan}. (p. 7)}
 		\label{2:fig127}
 	\end{center}
 \end{figure}
 
 \newpage
-\cite{pr_shafqat2019topicpredictions} publicaron un artículo titulado \citetitle{pr_shafqat2019topicpredictions}, el cual traducido al español significa «Predicciones de temas y mecanismo de recomendación optimizado basado en modelos integrados de temas y redes neuronales profundas en plataformas de financiación colectiva», para la revista científica «Applied Sciences» en el año 2019.
+\cite{pr_chen2020intelhome3d} publicaron un artículo que se llamaba \citetitle{pr_chen2020intelhome3d}, en español, se ha traducido como "Inteligente Casa 3D: Diseño automático de casas en 3D solo a partir de descripciones lingüísticas" para la revista científica "arXiv" en 2020.
 
-Los comentarios de los usuarios al momento de evaluar algún producto de su interés en el comercio electrónico pasan desapercibidos. Estas reseñas suelen ser importantes en las plataformas de financiamiento colectivo dado que influye en otros usuarios en patrocinar un proyecto. Ante ello, los autores plantearon fusionar técnicas de modelado de lenguaje con redes neuronales para identificar patrones de discusión ocultos en los comentarios.
+Este artículo presenta un modelo generativo que utiliza descripciones lingüísticas para diseñar automáticamente planos de casas en tres dimensiones. Dos tareas principales componen el proceso: generar el plano de la planta y la síntesis de las texturas internas.
 
-De acuerdo a la metodología seguida por los autores, el primer paso fue elaborar un flujo para la creación del conjunto final de datos, excluyendo potenciales proyectos fraudulentos en Kickstarter según distintas fuentes en la web, análisis de contenido y otros criterios para la lista restante de enlaces de campañas, y finalmente almacenando los comentarios en archivos.
+Los siguientes son los pasos que componen la metodología: representar las descripciones lingüísticas en un grafo estructural utilizando un analizador de escenas de Stanford, utilizando una red neuronal condicional de grafos (GC-LPN) para crear un diseño de planta grueso. Refinar el diseño grueso para crear un plano que incluya puertas y ventanas, Usando una red generativa adversaria condicional a lenguaje (LCT-GAN), se pueden sintetizar las texturas interiores de cada habitación. crear y mostrar la escena 3D completa a partir del plano con texturas.
 
-Como resultado, se obtuvieron inicialmente más de 645 mil comentarios provenientes de 600 proyectos. Sin embargo, estos se redujeron a 504,184 comentarios (841 en promedio por proyecto) cuyo contenido era visible públicamente. El 70\% fue destinado al subconjunto de entrenamiento, mientras que el resto, al de prueba. A continuación, se elaboró la arquitectura del modelo híbrido, ilustrado en la Figura \ref{2:fig128}, la cual comienza recibiendo de entrada a los comentarios para crear los vectores de palabras en el tiempo \textit{t} de una campaña. El híbrido está basado en una red LSTM, alimentados con la distribución de temas latentes aprendidos del modelo pre-entrenado LDA. Además, se utilizó el algoritmo Optimización por Enjambre de Partículas (PSO) para optimizar las recomendaciones. Como resultado del proceso LDA, estos generan vectores latentes de temas, que alimentan al modelo LSTM con el fin de que logre predecir la clase del tema de la siguiente palabra en el documento. Con estas salidas, el módulo de recomendación sugiere proyectos basados en los temas descubiertos por el patrocinador.
-
-Finalmente, tanto el modelo propuesto (LSTM-LDA) como los modelos de referencia fueron evaluados con la métrica de exactitud para 300 épocas de entrenamiento. El modelo de los autores RNN-LDA logró la mejor performance, alcanzando una exactitud de aproximadamente 0.96, frente al 0.94 de una red NN-LDA y 0.92 de una red NN.
+Los hallazgos indican que el 39,41\% de los diseños creados por el modelo no se distinguían de los creados por humanos en un estudio en el que participaron 20 personas. Además, en evaluaciones cuantitativas, el modelo obtuvo un puntaje de IoU de 0,4765 para la generación de planos y un FID de 27,32 para la síntesis de texturas.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.73\textwidth]{2/figures/shafqat2019.jpg}
-		\caption[Arquitectura del sistema propuesto para predicción de temas y recomendaciones optimizadas]{Arquitectura del sistema propuesto para predicción de temas y recomendaciones optimizadas.\\
-		Fuente: \cite{pr_shafqat2019topicpredictions}. \textit{Topic Predictions and Optimized Recommendation Mechanism Based on Integrated Topic Modeling and Deep Neural Networks in Crowdfunding Platforms}. (p. 8)}
+		\includegraphics[width=0.73\textwidth]{2/figures/chen2020.png}
+		\caption[Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)]{Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos).\\
+		Fuente: \cite{pr_chen2020intelhome3d}. \citetitle{pr_chen2020intelhome3d}. (p. 8)}
 		\label{2:fig128}
 	\end{center}
 \end{figure}
 
 \newpage
-\cite{pr_fernandezblanco2020crowdfunding_empirical} publicaron un artículo titulado \citetitle{pr_fernandezblanco2020crowdfunding_empirical}, el cual traducido al español significa «Factores clave para el éxito del crowdfunding en proyectos: un estudio empírico», para la revista internacional académica «Sustainability» en el año 2020.
+\cite{pr_dou2023researchwir} publicaron un artículo que se llamaba \citetitle{pr_dou2023researchwir}, "Investigación sobre cobertura de red inalámbrica para la transformación y actualización de la gestión expositiva con tecnología de inteligencia artificial", según la revista académica internacional "Matemáticas aplicadas y ciencias no lineales" en junio de 2023.
 
-Desde sus inicios, el crowdfunding ha servido como respuesta al problema de financiamiento para proyectos innovadores. Sin embargo, la repentina popularidad del crowdfunding atribuida al impacto de los proyectos más exitosos ha llevado a generalizar esta mecánica a cualquier proyecto nuevo con riesgo de desajuste. Por ello, la mayor incertidumbre para un creador de proyectos es desconocer la garantía de financiamiento hacia el suyo. El objetivo de los autores fue identificar los factores clave y atributos que caracterizan a un proyecto, agrupados en clústers por su similitud, que influyen en el éxito o fracaso de un proyecto y definir estereotipos de comportamiento que pueden estar asociados a nuevos proyectos para ayudar a orientar la campaña hacia el logro de su objetivo.
+El rápido crecimiento de la inteligencia artificial y la tecnología de comunicación moderna ofrece una oportunidad poderosa para transformar, actualizar y desarrollar una gestión de exposiciones de alta calidad. Sin embargo, es necesario abordar el problema de la cobertura ideal de la red inalámbrica en el área de exposición. Se ha introducido un nuevo algoritmo de inteligencia artificial basado en la optimización de Harris Hawk (HHO) para abordar este problema.
 
-Los autores escogieron la metodología CRISP-DM debido a su flexibilidad y su suficiencia para lograr la conversión de datos en conocimiento de forma organizada. De acuerdo a la metodología seguida, el primer paso realizado fue el entendimiento del problema, en donde se formularon las necesidades y objetivos del estudio. A continuación, se recolectaron más de 45 mil proyectos entre Marzo del 2009 y Enero del 2012, distribuidos en 12 categorías. De esta cantidad, solamente se trabajó con 23,941 proyectos concluidos, es decir, cuyo estado de financiamiento fue exitoso o fracasado. Luego se seleccionaron 13 variables numéricas, de las cuales según su atributo se agruparon en 3 tipos: variables asignadas antes de la campaña (meta, mes, niveles, duración, contribución mínima, contribución máxima, diferencia entre contribución máxima y mínima), variables que son modificadas en el transcurso de la campaña (número de comentarios de patrocinadores, número de actualizaciones en el proyecto, número de patrocinadores), y variables que dependen del anterior tipo (monto contribuido, porcentaje de financiamiento de la meta, monto promedio contribuido por patrocinador). Luego, a través del análisis de correlaciones entre ellas, se corroboró las hipótesis de trabajos previos respecto a la correlación entre las variables \textit{backers} (número de patrocinadores), \textit{pledged} (monto contribuido) y \textit{comments} (número de comentarios). Para determinar los factores clave, se generaron 6 clústers a partir de los datos utilizando el algoritmo \textit{K-means}. Este método de Minería de Datos permitió identificar qué zonas dentro del mapa generado de los grupos se asociaban más a proyectos exitosos o fracasados como se ilustra en la Figura \ref{2:fig129}. Cada uno de los grupos fue distribuido según el ratio de éxito y bajo qué variable fue estudiada.
+El artículo resuelve el problema de cobertura de la red inalámbrica utilizando un método de optimización multiobjetivo. Primero, el problema de la cobertura se plantea como una función de objetivo que busca maximizar la cobertura y minimizar la redundancia. Como se muestra en la Figura 21, se resuelve este problema utilizando el algoritmo de optimización de Harris Hawk mejorado (IHHO). El IHHO permite una búsqueda eficiente del espacio de soluciones al simular el comportamiento de los halcones de Harris al cazar presas. Además, para inicializar la población, se utiliza un muestreo de hipercubo latino, lo que mejora la diversidad de la población inicial y reduce la probabilidad de convergencia prematura.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.70\textwidth]{2/figures/fernandez2020_metodologia.jpg}
-		\caption[Mapas de proyecciones de región de éxito o fracaso generado por K-means]{Mapas de proyecciones de región de éxito o fracaso generado por K-means.\\
-		Fuente: \cite{pr_fernandezblanco2020crowdfunding_empirical}. \textit{Key Factors for Project Crowdfunding Success: An Empirical Study}. (p. 9)}
+		\includegraphics[width=0.70\textwidth]{2/figures/dou2023.png}
+		\caption[Estructura de HHO]{Estructura de HHO.\\
+		Fuente: \cite{pr_dou2023researchwir}. \citetitle{pr_dou2023researchwir}. (p. 5)}
 		\label{2:fig129}
 	\end{center}
 \end{figure}
 
 \newpage
-De esta manera, finalmente, se logró crear 6 clústers con características definidas cada uno y asignándose un nombre asociado a ellas. Siguiendo el orden ascendente, estos fueron nombrados respectivamente «Agujero ancho», «Colecciones principales», «Patrocinadores comprometidos», «Advertencia», «Agujero profundo» y «Meta épica», donde el tercero fue el mejor del grupo, como se observa en la Figura \ref{2:fig130}.
+Como se muestra en la Figura 22, los resultados de la simulación muestran que el algoritmo de optimización tiene un índice de evaluación integral del 98,03\%, que es superior al del optimizador de enjambre de partículas (PSO) y al algoritmo HHO estándar. Esto demuestra que el algoritmo IHHO sugerido es efectivo para resolver los problemas de cobertura de la red inalámbrica y mejora la cobertura de los nodos más que los métodos de optimización convencionales.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=1\textwidth]{2/figures/fernandez2020_clusters_categoria.jpg}
-		\caption[Distribución de clústers según ratio de éxito por categoría]{Distribución de clústers según ratio de éxito por categoría.\\
-			Fuente: \cite{pr_fernandezblanco2020crowdfunding_empirical}. \textit{Key Factors for Project Crowdfunding Success: An Empirical Study}. (p. 11)}
+		\includegraphics[width=1\textwidth]{2/figures/dou2023_2.png}
+		\caption[Comparaciones entre los métodos]{Comparaciones entre los métodos.\\
+			Fuente: \cite{pr_dou2023researchwir}. \citetitle{pr_dou2023researchwir}. (p. 11)}
 		\label{2:fig130}
 	\end{center}
 \end{figure}
