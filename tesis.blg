@@ -1,42 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'tesis.blg'
-[145] biber-MSWIN64:340> INFO - === 
-[210] Biber.pm:419> INFO - Reading 'tesis.bcf'
-[678] Biber.pm:979> INFO - Found 153 citekeys in bib section 0
-[706] Biber.pm:4419> INFO - Processing section 0
-[722] Biber.pm:4610> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
-[860] bibtex.pm:1713> INFO - LaTeX decoding ...
-[1032] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
-[1845] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1845] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1845] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[2131] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2131] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2131] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[2275] bbl.pm:660> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
-[2458] bbl.pm:763> INFO - Output to tesis.bbl
-[2458] Biber.pm:131> WARN - Duplicate entry key: 'pr_lee2015coverage3d' in file 'biblio/references.bib', skipping ...
-[2459] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_dorofki2012ann' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_fernandezblanco2020crowdfunding_empirical' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_kamath2018suplearn' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_jin2019dayssuccess' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_cheng2019deeplearning' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_chen2013kickpredict' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_mitra2014phrases' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_zhou2015projectdesc' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_chen2015predcrowd' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_beckwith2016predcrowd' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_li2016predcrowd' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_yuan2016textanalytics' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_sawhney2016usingLT' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_kaur2017socmedcrowd' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_yu2018deeplearning' (section 0)
-[2459] Biber.pm:131> WARN - I didn't find a database entry for 'pr_lee2018contentDL' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'pr_chen2019keywords_crowdfunding' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'pr_chaichi2019nlp_3dprinting' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'pr_shafqat2019topicpredictions' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'ot_googlecloud_freetrial' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'ot_webrobots2019kickstarter' (section 0)
-[2460] Biber.pm:131> WARN - I didn't find a database entry for 'ot_rae_hidra' (section 0)
-[2460] Biber.pm:133> INFO - WARNINGS: 24
+[157] biber-MSWIN64:340> INFO - === 
+[222] Biber.pm:419> INFO - Reading 'tesis.bcf'
+[407] Biber.pm:979> INFO - Found 49 citekeys in bib section 0
+[431] Biber.pm:4419> INFO - Processing section 0
+[445] Biber.pm:4610> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
+[604] bibtex.pm:1713> INFO - LaTeX decoding ...
+[723] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
+[1084] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1084] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1084] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1197] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1197] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1197] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1259] bbl.pm:660> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1327] bbl.pm:763> INFO - Output to tesis.bbl
+[1328] Biber.pm:131> WARN - Duplicate entry key: 'tec_cook2018deeplearning' in file 'biblio/references.bib', skipping ...
+[1328] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'
+[1328] Biber.pm:133> INFO - WARNINGS: 2

@@ -1,79 +1,44 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{Resumen}{1}{chapter*.6}%
 \contentsline {chapter}{Introducción}{3}{chapter*.8}%
-\contentsline {chapter}{\numberline {I}Planteamiento del Problema}{5}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Descripción de la Realidad Problemática}{5}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Formulación del Problema}{8}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}Problema General}{8}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}Problemas Específicos}{8}{subsection.1.2.2}%
-\contentsline {section}{\numberline {1.3}Objetivos de la Investigación}{8}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{8}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{8}{subsection.1.3.2}%
-\contentsline {section}{\numberline {1.4}Hipótesis}{9}{section.1.4}%
-\contentsline {subsection}{\numberline {1.4.1}Hipótesis General}{9}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.4.2}Hipótesis Específicas}{9}{subsection.1.4.2}%
-\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{10}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Teórica}{10}{subsection.1.5.1}%
-\contentsline {subsection}{\numberline {1.5.2}Práctica}{10}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Metodológica}{11}{subsection.1.5.3}%
-\contentsline {section}{\numberline {1.6}Delimitación del Estudio}{11}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Espacial}{11}{subsection.1.6.1}%
-\contentsline {subsection}{\numberline {1.6.2}Temporal}{11}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}Conceptual}{11}{subsection.1.6.3}%
-\contentsline {chapter}{\numberline {II}Marco Teórico}{12}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{12}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Bases Teóricas}{40}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Inteligencia Artificial}{40}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Inteligencia Artificial Generativa}{43}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{48}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Deep Learning}{49}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Modelos de Predicción}{53}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Procesamiento de Datos}{53}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{54}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{58}{subsection.2.2.8}%
-\contentsline {subsection}{\numberline {2.2.9}Casos de estudio}{78}{subsection.2.2.9}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{90}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{90}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{92}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Infraestructura de Redes}{93}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Predicción de Ubicaciones APs}{93}{subsection.2.3.4}%
-\contentsline {chapter}{\numberline {III}Metodología de la Investigación}{96}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Diseño de la investigación}{96}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Tipo de la investigación}{96}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Enfoque de la investigación}{96}{subsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.1.3}Población}{96}{subsection.3.1.3}%
-\contentsline {subsection}{\numberline {3.1.4}Muestra}{96}{subsection.3.1.4}%
-\contentsline {subsection}{\numberline {3.1.5}Operacionalización de Variables}{97}{subsection.3.1.5}%
-\contentsline {section}{\numberline {3.2}Técnicas de recolección de datos}{98}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Técnicas para el procesamiento y análisis de la información}{99}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Metodología de implementación de la solución}{99}{subsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.1}Comprensión del negocio}{104}{subsubsection.3.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.3.1.2}Comprensión de los datos}{105}{subsubsection.3.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.3.1.3}Preparación de los datos}{109}{subsubsection.3.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.3.1.4}Modelamiento}{113}{subsubsection.3.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.3.1.5}Evaluación}{119}{subsubsection.3.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.3.1.6}Despliegue}{121}{subsubsection.3.3.1.6}%
-\contentsline {subsection}{\numberline {3.3.2}Metodología para la medición de resultados}{123}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Cronograma de actividades y presupuesto}{129}{section.3.4}%
-\contentsline {chapter}{\numberline {IV}Desarrollo del Experimento}{131}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Comprensión del negocio}{131}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Comprensión de los datos}{132}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Preparación de los datos}{150}{section.4.3}%
-\contentsline {chapter}{\numberline {V}Análisis y Discusión de Resultados}{156}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Modelamiento}{156}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Evaluación}{164}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Despliegue}{175}{section.5.3}%
-\contentsline {chapter}{\numberline {VI}Conclusiones y Recomendaciones}{179}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Conclusiones}{179}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Recomendaciones}{181}{section.6.2}%
-\contentsline {chapter}{Referencias}{183}{chapter*.192}%
-\contentsline {chapter}{Anexos}{193}{section*.193}%
-\contentsline {section}{\numberline {A}Árbol de Problemas}{194}{section.Alph0.1}%
-\contentsline {section}{\numberline {B}Árbol de Objetivos}{195}{section.Alph0.2}%
-\contentsline {section}{\numberline {C}Matriz de Consistencia}{196}{section.Alph0.3}%
-\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{200}{section.Alph0.4}%
-\contentsline {section}{\numberline {E}Comparación de objetivos específicos de antecedentes}{204}{section.Alph0.5}%
-\contentsline {section}{\numberline {F}Parámetros para modelo predictivo de Metainformación}{211}{section.Alph0.6}%
-\contentsline {section}{\numberline {G}Parámetros para modelo predictivo de Descripción}{212}{section.Alph0.7}%
-\contentsline {section}{\numberline {H}Parámetros para modelo predictivo de Comentarios}{213}{section.Alph0.8}%
-\contentsline {section}{\numberline {I}Parámetros para modelo de Aprendizaje Profundo Multimodal}{214}{section.Alph0.9}%
+\contentsline {chapter}{\numberline {I}Planteamiento del Problema}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Descripción de la Realidad Problemática}{4}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Formulación del Problema}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Problema General}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Problemas Específicos}{7}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Objetivos de la Investigación}{7}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{7}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{7}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Hipótesis}{8}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Hipótesis General}{8}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Hipótesis Específicas}{8}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{9}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Teórica}{9}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Práctica}{9}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Metodológica}{10}{subsection.1.5.3}%
+\contentsline {section}{\numberline {1.6}Delimitación del Estudio}{10}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Espacial}{10}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Temporal}{10}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Conceptual}{10}{subsection.1.6.3}%
+\contentsline {chapter}{\numberline {II}Marco Teórico}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Bases Teóricas}{27}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Inteligencia Artificial}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Aprendizaje Automático}{28}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{31}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo Multimodal}{32}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{34}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Modelos de Predicción}{36}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{37}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{38}{subsection.2.2.8}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{44}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{44}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{45}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Diferentes parámetros que deben enviarse para las comunicaciones de extremo a extremo a través de redes inalámbricas }{46}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Access Points}{48}{subsection.2.3.4}%
+\contentsline {chapter}{Referencias}{50}{chapter*.41}%
+\contentsline {chapter}{Anexos}{54}{section*.42}%
+\contentsline {section}{\numberline {A}Árbol de Problemas}{55}{section.Alph0.1}%
+\contentsline {section}{\numberline {B}Árbol de Objetivos}{56}{section.Alph0.2}%
+\contentsline {section}{\numberline {C}Matriz de Consistencia}{57}{section.Alph0.3}%
+\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{61}{section.Alph0.4}%
