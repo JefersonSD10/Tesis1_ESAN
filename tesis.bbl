@@ -1862,37 +1862,6 @@
       \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
       \endverb
     \endentry
-    \entry{tec_zimovnov2018text_preprocessing}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=373068bb9a8bfbcc290add8272392d18}{%
-           family={Zimovnov},
-           familyi={Z\bibinitperiod},
-           given={Andrey},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{fullhash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{bibnamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authorbibnamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authornamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authorfullhash}{373068bb9a8bfbcc290add8272392d18}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{\textit{NLP - Text Preprocessing and Text Classification (using Python)} [Archivo de video]}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://youtu.be/nxhCyeRR75Q
-      \endverb
-      \verb{url}
-      \verb https://youtu.be/nxhCyeRR75Q
-      \endverb
-    \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
     \entry{pr_alathari2023optaps}{article}{}
@@ -3736,37 +3705,6 @@
       \endverb
       \verb{url}
       \verb https://www.abiresearch.com/market-research/insight/7781240-as-the-6-ghz-spectrum-battleground-heats-u/
-      \endverb
-    \endentry
-    \entry{tec_zimovnov2018text_preprocessing}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=373068bb9a8bfbcc290add8272392d18}{%
-           family={Zimovnov},
-           familyi={Z\bibinitperiod},
-           given={Andrey},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{fullhash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{bibnamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authorbibnamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authornamehash}{373068bb9a8bfbcc290add8272392d18}
-      \strng{authorfullhash}{373068bb9a8bfbcc290add8272392d18}
-      \field{sortinit}{Z}
-      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{\textit{NLP - Text Preprocessing and Text Classification (using Python)} [Archivo de video]}
-      \field{year}{2018}
-      \verb{urlraw}
-      \verb https://youtu.be/nxhCyeRR75Q
-      \endverb
-      \verb{url}
-      \verb https://youtu.be/nxhCyeRR75Q
       \endverb
     \endentry
   \enddatalist

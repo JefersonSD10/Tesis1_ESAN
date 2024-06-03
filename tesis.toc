@@ -27,18 +27,18 @@
 \contentsline {subsection}{\numberline {2.2.2}Aprendizaje Automático}{28}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{31}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo Multimodal}{32}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{34}{subsection.2.2.5}%
-\contentsline {subsection}{\numberline {2.2.6}Modelos de Predicción}{36}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{37}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{33}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Modelos de Predicción}{35}{subsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{36}{subsection.2.2.7}%
 \contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{38}{subsection.2.2.8}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{44}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{44}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{45}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Diferentes parámetros que deben enviarse para las comunicaciones de extremo a extremo a través de redes inalámbricas }{46}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Access Points}{48}{subsection.2.3.4}%
-\contentsline {chapter}{Referencias}{50}{chapter*.41}%
-\contentsline {chapter}{Anexos}{54}{section*.42}%
-\contentsline {section}{\numberline {A}Árbol de Problemas}{55}{section.Alph0.1}%
-\contentsline {section}{\numberline {B}Árbol de Objetivos}{56}{section.Alph0.2}%
-\contentsline {section}{\numberline {C}Matriz de Consistencia}{57}{section.Alph0.3}%
-\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{61}{section.Alph0.4}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{43}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{43}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{44}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Diferentes parámetros que deben enviarse para las comunicaciones de extremo a extremo a través de redes inalámbricas }{45}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Access Points}{47}{subsection.2.3.4}%
+\contentsline {chapter}{Referencias}{49}{chapter*.41}%
+\contentsline {chapter}{Anexos}{53}{section*.42}%
+\contentsline {section}{\numberline {A}Árbol de Problemas}{54}{section.Alph0.1}%
+\contentsline {section}{\numberline {B}Árbol de Objetivos}{55}{section.Alph0.2}%
+\contentsline {section}{\numberline {C}Matriz de Consistencia}{56}{section.Alph0.3}%
+\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{60}{section.Alph0.4}%
