@@ -736,34 +736,6 @@
       \field{title}{IEEE P802.11s Task Group IEEE Unapproved Draft Standard P802.11s/D4.0}
       \field{year}{2010}
     \endentry
-    \entry{ot_inei2022estati}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4d7bf55010a4bce3e53bfcf6615cccdb}{%
-           family={{INEI}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{fullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{bibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authorbibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authornamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authorfullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Estadísiticas de las Tecnologías de Información y Comunicación en los hogares}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
-      \endverb
-    \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=1cfc30479d29622a456cfefbcbdf6fa3}{%
@@ -2616,34 +2588,6 @@
       \field{labeltitlesource}{title}
       \field{title}{IEEE P802.11s Task Group IEEE Unapproved Draft Standard P802.11s/D4.0}
       \field{year}{2010}
-    \endentry
-    \entry{ot_inei2022estati}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4d7bf55010a4bce3e53bfcf6615cccdb}{%
-           family={{INEI}},
-           familyi={I\bibinitperiod}}}%
-      }
-      \strng{namehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{fullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{bibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authorbibnamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authornamehash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \strng{authorfullhash}{4d7bf55010a4bce3e53bfcf6615cccdb}
-      \field{sortinit}{I}
-      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Estadísiticas de las Tecnologías de Información y Comunicación en los hogares}
-      \field{year}{2022}
-      \verb{urlraw}
-      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
-      \endverb
-      \verb{url}
-      \verb https://www.inei.gob.pe/media/MenuRecursivo/boletines/02-informe-tecnico-tic-i-trimestre-2022.pdf
-      \endverb
     \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
