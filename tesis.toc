@@ -3,7 +3,7 @@
 \contentsline {chapter}{Introducción}{3}{chapter*.8}%
 \contentsline {chapter}{\numberline {I}Planteamiento del Problema}{4}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Descripción de la Realidad Problemática}{4}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Formulación del Problema}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.2}Formulación del Problema}{6}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Problema General}{7}{subsection.1.2.1}%
 \contentsline {subsection}{\numberline {1.2.2}Problemas Específicos}{7}{subsection.1.2.2}%
 \contentsline {section}{\numberline {1.3}Objetivos de la Investigación}{7}{section.1.3}%
@@ -12,10 +12,10 @@
 \contentsline {section}{\numberline {1.4}Hipótesis}{8}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}Hipótesis General}{8}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}Hipótesis Específicas}{8}{subsection.1.4.2}%
-\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{9}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Teórica}{9}{subsection.1.5.1}%
+\contentsline {section}{\numberline {1.5}Justificación de la Investigación}{8}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Teórica}{8}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}Práctica}{9}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}Metodológica}{10}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}Metodológica}{9}{subsection.1.5.3}%
 \contentsline {section}{\numberline {1.6}Delimitación del Estudio}{10}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}Espacial}{10}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Temporal}{10}{subsection.1.6.2}%
@@ -24,37 +24,37 @@
 \contentsline {section}{\numberline {2.1}Antecedentes de la investigación}{11}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}\blx@tocontentsinit {0}\citetitle {pr_contreras2021modelwlan}}{11}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}\blx@tocontentsinit {0}\citetitle {pr_alathari2023optaps}}{12}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}\blx@tocontentsinit {0}\citetitle {pr_ketkhaw2019deepl}}{13}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.3}\blx@tocontentsinit {0}\citetitle {pr_ketkhaw2019deepl}}{14}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}\blx@tocontentsinit {0}\citetitle {pr_nauata2021housegan}}{14}{subsection.2.1.4}%
 \contentsline {subsection}{\numberline {2.1.5}\blx@tocontentsinit {0}\citetitle {pr_cai2023precisewifi}}{16}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}\blx@tocontentsinit {0}\citetitle {pr_hosseini2023NSGAIIap}}{17}{subsection.2.1.6}%
 \contentsline {subsection}{\numberline {2.1.7}\blx@tocontentsinit {0}\citetitle {pr_lee2015coverage3d}}{19}{subsection.2.1.7}%
-\contentsline {subsection}{\numberline {2.1.8}\blx@tocontentsinit {0}\citetitle {pr_ozerol2023genermass}}{21}{subsection.2.1.8}%
+\contentsline {subsection}{\numberline {2.1.8}\blx@tocontentsinit {0}\citetitle {pr_ozerol2023genermass}}{20}{subsection.2.1.8}%
 \contentsline {subsection}{\numberline {2.1.9}\blx@tocontentsinit {0}\citetitle {pr_chang2021buildinggan}}{21}{subsection.2.1.9}%
-\contentsline {subsection}{\numberline {2.1.10}\blx@tocontentsinit {0}\citetitle {pr_chen2020intelhome3d}}{24}{subsection.2.1.10}%
-\contentsline {subsection}{\numberline {2.1.11}\blx@tocontentsinit {0}\citetitle {pr_dou2023researchwir}}{25}{subsection.2.1.11}%
+\contentsline {subsection}{\numberline {2.1.10}\blx@tocontentsinit {0}\citetitle {pr_chen2020intelhome3d}}{23}{subsection.2.1.10}%
+\contentsline {subsection}{\numberline {2.1.11}\blx@tocontentsinit {0}\citetitle {pr_dou2023researchwir}}{24}{subsection.2.1.11}%
 \contentsline {section}{\numberline {2.2}Bases Teóricas}{27}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Inteligencia Artificial}{27}{subsection.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.2}Aprendizaje Automático}{28}{subsection.2.2.2}%
-\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{31}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo Multimodal}{32}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.2}Aprendizaje Automático}{27}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{30}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo Multimodal}{31}{subsection.2.2.4}%
 \contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{33}{subsection.2.2.5}%
 \contentsline {subsection}{\numberline {2.2.6}Modelos de Predicción}{35}{subsection.2.2.6}%
-\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{36}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{38}{subsection.2.2.8}%
-\contentsline {subsection}{\numberline {2.2.9}Redes Generativas Antagónicas}{42}{subsection.2.2.9}%
-\contentsline {subsubsection}{\numberline {2.2.9.1}Arquitectura de las GAN}{43}{subsubsection.2.2.9.1}%
-\contentsline {subsubsection}{\numberline {2.2.9.2}Entrenamiento de las GAN}{44}{subsubsection.2.2.9.2}%
-\contentsline {subsubsection}{\numberline {2.2.9.3}Dificultades del entrenamiento de las GAN}{45}{subsubsection.2.2.9.3}%
-\contentsline {subsection}{\numberline {2.2.10}Generación de Imágenes}{45}{subsection.2.2.10}%
-\contentsline {section}{\numberline {2.3}Marco Conceptual}{47}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{47}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{48}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Diferentes parámetros que deben enviarse para las comunicaciones de extremo a extremo a través de redes inalámbricas }{49}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Access Points}{51}{subsection.2.3.4}%
-\contentsline {chapter}{Referencias}{53}{chapter*.45}%
-\contentsline {chapter}{Anexos}{57}{section*.46}%
-\contentsline {section}{\numberline {A}Árbol de Problemas}{58}{section.Alph0.1}%
-\contentsline {section}{\numberline {B}Árbol de Objetivos}{59}{section.Alph0.2}%
-\contentsline {section}{\numberline {C}Matriz de Consistencia}{60}{section.Alph0.3}%
-\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{64}{section.Alph0.4}%
+\contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{35}{subsection.2.2.7}%
+\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{36}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.9}Redes Generativas Antagónicas}{41}{subsection.2.2.9}%
+\contentsline {subsubsection}{\numberline {2.2.9.1}Arquitectura de las GAN}{42}{subsubsection.2.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.2.9.2}Entrenamiento de las GAN}{43}{subsubsection.2.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.2.9.3}Dificultades del entrenamiento de las GAN}{44}{subsubsection.2.2.9.3}%
+\contentsline {subsection}{\numberline {2.2.10}Generación de Imágenes}{44}{subsection.2.2.10}%
+\contentsline {section}{\numberline {2.3}Marco Conceptual}{46}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{46}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Calidad de Servicio (QoS)}{47}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Diferentes parámetros que deben enviarse para las comunicaciones de extremo a extremo a través de redes inalámbricas }{48}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Access Points}{49}{subsection.2.3.4}%
+\contentsline {chapter}{Referencias}{52}{chapter*.45}%
+\contentsline {chapter}{Anexos}{56}{section*.46}%
+\contentsline {section}{\numberline {A}Árbol de Problemas}{57}{section.Alph0.1}%
+\contentsline {section}{\numberline {B}Árbol de Objetivos}{58}{section.Alph0.2}%
+\contentsline {section}{\numberline {C}Matriz de Consistencia}{59}{section.Alph0.3}%
+\contentsline {section}{\numberline {D}Comparación de metodologías de antecedentes}{63}{section.Alph0.4}%

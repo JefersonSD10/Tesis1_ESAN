@@ -1429,44 +1429,6 @@
       \verb 10.1109/TMC.2010.151
       \endverb
     \endentry
-    \entry{tec_poole1998machinelearning}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=9ad5efb8d461b040f7b5ea00c198fb43}{%
-           family={Poole},
-           familyi={P\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b3278e21d4ff382e7f0d1041e09839dd}{%
-           family={Mackworth},
-           familyi={M\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67d0e7c2f3249b72cf5c5efc1a6c8fbd}{%
-           family={Goebel},
-           familyi={G\bibinitperiod},
-           given={Randy},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a5e8fba4b8b33410fda7a0e64fde0d33}
-      \strng{fullhash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{bibnamehash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{authorbibnamehash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{authornamehash}{a5e8fba4b8b33410fda7a0e64fde0d33}
-      \strng{authorfullhash}{ddd134ec65a50edc2468c90d842d4f80}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Oxford University Press}
-      \field{title}{Computational Intelligence: A Logical Approach}
-      \field{year}{1998}
-    \endentry
     \entry{tec_pundalik2023anwirnet}{article}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=ec512b07f1206d247ac295a6485b9023}{%
@@ -3430,44 +3392,6 @@
       \verb{doi}
       \verb 10.1109/TMC.2010.151
       \endverb
-    \endentry
-    \entry{tec_poole1998machinelearning}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=9ad5efb8d461b040f7b5ea00c198fb43}{%
-           family={Poole},
-           familyi={P\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b3278e21d4ff382e7f0d1041e09839dd}{%
-           family={Mackworth},
-           familyi={M\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=67d0e7c2f3249b72cf5c5efc1a6c8fbd}{%
-           family={Goebel},
-           familyi={G\bibinitperiod},
-           given={Randy},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a5e8fba4b8b33410fda7a0e64fde0d33}
-      \strng{fullhash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{bibnamehash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{authorbibnamehash}{ddd134ec65a50edc2468c90d842d4f80}
-      \strng{authornamehash}{a5e8fba4b8b33410fda7a0e64fde0d33}
-      \strng{authorfullhash}{ddd134ec65a50edc2468c90d842d4f80}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Oxford University Press}
-      \field{title}{Computational Intelligence: A Logical Approach}
-      \field{year}{1998}
     \endentry
     \entry{tec_pundalik2023anwirnet}{article}{}
       \name{author}{6}{}{%
