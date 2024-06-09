@@ -513,6 +513,90 @@
       \verb https://www.gartner.com/it-glossary/predictive-modeling/
       \endverb
     \endentry
+    \entry{bk_geron2019machilear}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e54e6c9ce5d233c7046a00f7b3faa6c0}{%
+           family={Géron},
+           familyi={G\bibinitperiod},
+           given={Aurélien},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{fullhash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{bibnamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authorbibnamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authornamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authorfullhash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow}
+      \field{year}{2019}
+    \endentry
+    \entry{tec_goodfellow2014gan}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9065df87f119d90d95d857dd67df5ad0}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=894d54b162716acedb56a3fca6cdec31}{%
+           family={Pouget-Abadie},
+           familyi={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=69767ef463c93a67989ae0a47642deec}{%
+           family={Mirza},
+           familyi={M\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=02aa60b52defac8624a7c0ac76815e06}{%
+           family={Xu},
+           familyi={X\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=62a9be8cd228ffa0a42b1f584d04deef}{%
+           family={Warde-Farley},
+           familyi={W\bibinithyphendelim F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=895e0491853df2d0a9720017130aeb09}{%
+           family={Ozair},
+           familyi={O\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b466ee9eb701c5a6a885359ddf930f18}{%
+           family={Courville},
+           familyi={C\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f428044f9ba9d68b58d744c2aaed4a2c}{%
+           family={Bengio},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{153b02604ab9cd559ffdec0ba2374aac}
+      \strng{fullhash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{bibnamehash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{authorbibnamehash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{authornamehash}{153b02604ab9cd559ffdec0ba2374aac}
+      \strng{authorfullhash}{053f87b8b21997034ab8eb50dd1babec}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10495258}
+      \field{title}{Generative Adversarial Networks}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1001/jamainternmed.2016.8245
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1406.2661
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1406.2661
+      \endverb
+    \endentry
     \entry{bk_haining2003spdat}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1052967a4fd9a0ac41cee317001d82b1}{%
@@ -842,6 +926,79 @@
       \verb https://www.aclweb.org/anthology/D14-1181.pdf
       \endverb
       \warn{\item Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'}
+    \endentry
+    \entry{tec_kingma2013bayes}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aab26b3869b9f3aed279f9de0637985d}{%
+           family={Kingma},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cd116c6457c7927dcdb6a263e9239c54}{%
+           family={Welling},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{fullhash}{000c598d120d77a0b311826497cd1fce}
+      \strng{bibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorbibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authornamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorfullhash}{000c598d120d77a0b311826497cd1fce}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{Auto-Encoding Variational Bayes}
+      \field{year}{2013}
+      \verb{eprint}
+      \verb 1312.6114
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1312.6114
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1312.6114
+      \endverb
+    \endentry
+    \entry{tec_kingma2019variat}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aab26b3869b9f3aed279f9de0637985d}{%
+           family={Kingma},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cd116c6457c7927dcdb6a263e9239c54}{%
+           family={Welling},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{fullhash}{000c598d120d77a0b311826497cd1fce}
+      \strng{bibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorbibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authornamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorfullhash}{000c598d120d77a0b311826497cd1fce}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Foundations and Trends in Machine Learning}
+      \field{title}{An Introduction to Variational Autoencoders}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1906.02691
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1906.02691
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1906.02691
+      \endverb
     \endentry
     \entry{tec_kostadinov2019seq2seq}{online}{}
       \name{author}{1}{}{%
@@ -2358,6 +2515,90 @@
       \verb https://www.gartner.com/it-glossary/predictive-modeling/
       \endverb
     \endentry
+    \entry{bk_geron2019machilear}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e54e6c9ce5d233c7046a00f7b3faa6c0}{%
+           family={Géron},
+           familyi={G\bibinitperiod},
+           given={Aurélien},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{fullhash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{bibnamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authorbibnamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authornamehash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \strng{authorfullhash}{e54e6c9ce5d233c7046a00f7b3faa6c0}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{title}{Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow}
+      \field{year}{2019}
+    \endentry
+    \entry{tec_goodfellow2014gan}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9065df87f119d90d95d857dd67df5ad0}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=894d54b162716acedb56a3fca6cdec31}{%
+           family={Pouget-Abadie},
+           familyi={P\bibinithyphendelim A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=69767ef463c93a67989ae0a47642deec}{%
+           family={Mirza},
+           familyi={M\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=02aa60b52defac8624a7c0ac76815e06}{%
+           family={Xu},
+           familyi={X\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=62a9be8cd228ffa0a42b1f584d04deef}{%
+           family={Warde-Farley},
+           familyi={W\bibinithyphendelim F\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=895e0491853df2d0a9720017130aeb09}{%
+           family={Ozair},
+           familyi={O\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b466ee9eb701c5a6a885359ddf930f18}{%
+           family={Courville},
+           familyi={C\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f428044f9ba9d68b58d744c2aaed4a2c}{%
+           family={Bengio},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{153b02604ab9cd559ffdec0ba2374aac}
+      \strng{fullhash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{bibnamehash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{authorbibnamehash}{053f87b8b21997034ab8eb50dd1babec}
+      \strng{authornamehash}{153b02604ab9cd559ffdec0ba2374aac}
+      \strng{authorfullhash}{053f87b8b21997034ab8eb50dd1babec}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{10495258}
+      \field{title}{Generative Adversarial Networks}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 9}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1001/jamainternmed.2016.8245
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1406.2661
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1406.2661
+      \endverb
+    \endentry
     \entry{bk_haining2003spdat}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1052967a4fd9a0ac41cee317001d82b1}{%
@@ -2687,6 +2928,79 @@
       \verb https://www.aclweb.org/anthology/D14-1181.pdf
       \endverb
       \warn{\item Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'}
+    \endentry
+    \entry{tec_kingma2013bayes}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aab26b3869b9f3aed279f9de0637985d}{%
+           family={Kingma},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cd116c6457c7927dcdb6a263e9239c54}{%
+           family={Welling},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{fullhash}{000c598d120d77a0b311826497cd1fce}
+      \strng{bibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorbibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authornamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorfullhash}{000c598d120d77a0b311826497cd1fce}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{title}{Auto-Encoding Variational Bayes}
+      \field{year}{2013}
+      \verb{eprint}
+      \verb 1312.6114
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1312.6114
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1312.6114
+      \endverb
+    \endentry
+    \entry{tec_kingma2019variat}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aab26b3869b9f3aed279f9de0637985d}{%
+           family={Kingma},
+           familyi={K\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=cd116c6457c7927dcdb6a263e9239c54}{%
+           family={Welling},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{fullhash}{000c598d120d77a0b311826497cd1fce}
+      \strng{bibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorbibnamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authornamehash}{000c598d120d77a0b311826497cd1fce}
+      \strng{authorfullhash}{000c598d120d77a0b311826497cd1fce}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Foundations and Trends in Machine Learning}
+      \field{title}{An Introduction to Variational Autoencoders}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb 1906.02691
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/1906.02691
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/1906.02691
+      \endverb
     \endentry
     \entry{tec_kostadinov2019seq2seq}{online}{}
       \name{author}{1}{}{%

@@ -265,4 +265,82 @@ Los modelos anteriores requieren un preprocesamiento del contenido textual. No s
 
 Suprimir contenido como signos de puntuación, caracteres especiales, palabras de parada, enlaces web, entre otros, ayuda a reducir la cantidad de vectores innecesarios para representaciones de palabras que se utilizan en la fase de entrenamiento. Para lograrlo, la secuencia de entrada debe dividirse en "tokens", que pueden ser una palabra, una oración o un párrafo.
 
+\subsection{Redes Generativas Antagónicas}
+
+Las redes generadoras y discriminadoras son las dos redes que compiten entre sí en las Generative Adversarial Networks (GAN). El discriminador determina si los datos son reales o generados por el generador, mientras que la función del generador es producir nuevos datos que se asemejen al conjunto de datos de entrenamiento. \parencite{tec_goodfellow2014gan}
+
+En este juego de suma cero, quien gana pierde. El generador tiene un alto error si el discriminador clasifica correctamente los datos generados, y viceversa. Debido a que dos tipos de redes trabajan juntos, el proceso de entrenamiento es esencial. \parencite{tec_goodfellow2014gan}
+
+Las GAN se utilizan principalmente para producir datos que se asemejan a los de entrada. Esto puede ser simplemente para generar nuevos datos o para aumentar el tamaño de un conjunto de datos existente para entrenar otra red neuronal. \parencite{tec_goodfellow2014gan}
+
+\subsubsection{Arquitectura de las GAN}
+
+La Figura 30 muestra la relación entre el generador y el discriminador en una GAN. El discriminador debe determinar la procedencia de cada imagen que recibe, que puede provenir de un generador o de un conjunto de datos. Mientras tanto, los valores aleatorios se convierten en imágenes que el discriminador reconoce como pertenecientes al conjunto de datos a través del generador. \parencite{tec_goodfellow2014gan}
+
+\begin{figure}[!ht]
+	\begin{center}
+		\includegraphics[width=0.75\textwidth]{2/figures/redgan.jpg}
+		\caption[Red Generativa Antagónica de Imágenes]{Red Generativa Antagónica de Imágenes.\\
+		Fuente: \cite{tec_goodfellow2014gan}. \citetitle{tec_goodfellow2014gan}.}
+		\label{2:fig47}
+	\end{center}
+\end{figure}
+
+El uso de GANs es amplia y no se limita a un tipo de datos específico. La Figura 31 muestra una GAN con un generador y un discriminador de dos capas. En el generador, cada capa es gradualmente más grande, mientras que en el discriminador, cada capa se vuelve más pequeña hasta que se encuentra una neurona en la última capa. \parencite{tec_goodfellow2014gan}
+
+\begin{figure}[!ht]
+	\begin{center}
+		\includegraphics[width=0.75\textwidth]{2/figures/redgan2.jpg}
+		\caption[Red Generativa Antagónica de Imágenes]{Red Generativa Antagónica de Imágenes.\\
+		Fuente: \cite{tec_goodfellow2014gan}. \citetitle{tec_goodfellow2014gan}.}
+		\label{2:fig48}
+	\end{center}
+\end{figure}
+
+Como se muestra en la Figura 32 con imágenes en blanco y negro, la entrada del generador es una distribución aleatoria gaussiana. Su salida es comparable a la del conjunto de datos, y la capa de salida debe tener suficientes neuronas dispuestas de manera adecuada para producir datos con la misma estructura que el conjunto de datos original, ya sea imágenes, audio o cualquier otro tipo de datos. Por ejemplo, si se quieren imágenes de 20 x 20 píxeles, el generador debe producir 400 neuronas. Cada capa del generador es más grande que la anterior y generalmente utiliza la activación Selu, excepto la capa final, que utiliza Sigmoide. \parencite{tec_goodfellow2014gan}
+
+\begin{figure}[!ht]
+	\begin{center}
+		\includegraphics[width=0.75\textwidth]{2/figures/redgan3.jpg}
+		\caption[Imágenes de Ruido Gaussiano]{Imágenes de Ruido Gaussiano.\\
+		Fuente: \cite{tec_goodfellow2014gan}. \citetitle{tec_goodfellow2014gan}.}
+		\label{2:fig49}
+	\end{center}
+\end{figure}
+
+Los datos del conjunto de datos o los creados por el generador son la entrada del discriminador. Su salida consiste en una neurona con un solo valor numérico que intenta determinar si la entrada proviene del generador o del conjunto de datos. Por lo general, cada capa del discriminador contiene menos neuronas hasta que solo queda una neurona en la capa más alta. \parencite{tec_goodfellow2014gan}
+
+\subsubsection{Entrenamiento de las GAN}
+
+En el primer paso del proceso, el discriminador recibe capacitación para diferenciar entre imágenes reales y imágenes creadas por el generador. El generador se entrena para crear imágenes en el segundo paso, pero los pesos del discriminador no se actualizan en este caso. Las imágenes generadas se etiquetan como reales y el generador ajusta sus pesos para que el discriminador piense que son reales. Esto mejora su capacidad para generar imágenes más parecidas al conjunto de datos original mediante la retropropagación del gradiente. \parencite{bk_geron2019machilear}
+
+Hasta que el generador produzca resultados satisfactorios, estos pasos se repiten. El discriminador se entrena con las imágenes recién generadas y luego se enseña al generador con lo que el discriminador ha aprendido. \parencite{bk_geron2019machilear}
+
+\subsubsection{Dificultades del entrenamiento de las GAN}
+
+El juego de suma cero en las GAN significa que cuanto menor sea el error de uno de los elementos, mayor será el error del otro. Cuando ninguna de las dos redes cambia su estrategia, se alcanza un estado de equilibrio de Nash. Este equilibrio se alcanza cuando el generador crea imágenes perfectamente realistas y el discriminador intenta clasificarlas con una probabilidad del 50\% como generadas o del conjunto de datos. Es necesario aplicar la técnica de prueba y error durante el entrenamiento de una GAN porque no se puede garantizar que se llegue a este equilibrio. \parencite{bk_geron2019machilear}
+
+Cuando el conjunto de datos incluye varias clases, como diferentes tipos de mascotas (gatos, perros y conejos), el entrenamiento de una GAN se vuelve más difícil. Aunque el objetivo del discriminador sigue siendo distinguir entre imágenes reales y generadas, puede haber una clase en la que el generador produzca más imágenes que el discriminador clasifique como reales, mientras que en otras clases puede haber deficiencias. Por ejemplo, el generador puede ser muy hábil en la creación de imágenes de perros, pero no lo es en otras categorías. Esto puede llevar al generador a producir más imágenes de perros y olvidarse de cómo producir imágenes de otras clases. Al recibir principalmente imágenes de perros, el discriminador puede fallar en clasificar correctamente las imágenes de otras clases. \parencite{bk_geron2019machilear}
+
+\subsection{Generación de Imágenes}
+
+En los últimos años, ha habido una notable evolución en la generación de imágenes a través de la inteligencia artificial, impulsada por dos modelos generativos importantes: los autocodificadores variacionales y las redes generativas antagónicas, particularmente las que utilizan capas convolucionales. Aunque existen otras técnicas para generar imágenes no relacionadas con la IA, como las utilizadas en cine o videojuegos, se utiliza el término "imágenes generadas por ordenador" o CGI en inglés para estos fines. A pesar de que este término incluye una variedad de técnicas, en su mayoría implica modelar objetos en tres dimensiones, aplicar texturas y renderizarlos en dos dimensiones. \parencite{tec_kingma2019variat}
+
+DCGAN, o GAN con capas convolucionales, es una herramienta común para la generación de imágenes. Como las GAN convencionales, tiene un generador y un discriminador. La Figura 33 muestra la estructura típica de una DCGAN, que utiliza una capa inicial de tres neuronas, seguida de tres capas de normalización y convolución transpuesta, produciendo una imagen a color. El discriminador, por otro lado, utiliza dos capas de convolución, dos capas de reducción y dos capas totalmente conectadas. \parencite{tec_kingma2019variat}
+
+\begin{figure}[!ht]
+	\begin{center}
+		\includegraphics[width=1\textwidth]{2/figures/genimagenes.jpg}
+		\caption[Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)]{Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN).\\
+		Fuente: \cite{tec_kingma2019variat}. \citetitle{tec_kingma2019variat}.}
+		\label{2:fig50}
+	\end{center}
+\end{figure}
+
+La entrada de ruido del generador se procesa a través de capas de normalización y convolución transpuesta para crear la imagen deseada. La entrada del discriminador conecta la salida del generador, que clasifica las imágenes como generadas o reales. El discriminador generalmente se compone de capas convolucionales y redes neuronales, con una sola neurona de salida con activación Sigmoide. \parencite{tec_kingma2019variat}
+
+Los autocodificadores variacionales (VAE), que tienen similitudes con las GAN, son otra técnica común para generar imágenes. Los VAE consisten en un codificador y un decodificador y tienen como objetivo reconstruir las entradas de la red. El codificador reduce gradualmente la dimensionalidad de los datos hasta obtener una representación latente, que el decodificador reconstruye posteriormente. Los VAE pueden producir datos similares a los de entrenamiento y aplicar aleatoriedad para generar nuevas muestras. \parencite{tec_kingma2013bayes}
+
+La interpolación de datos es otra aplicación de los autocodificadores y los VAE; en este caso, la representación latente de dos datos se combina ponderadamente para generar nuevas muestras. Interpolar entre dos muestras ya existentes permite la creación de nuevas instancias de datos. \parencite{tec_kingma2013bayes}
+
 \newpage

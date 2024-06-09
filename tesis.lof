@@ -2,17 +2,17 @@
 \contentsline {figure}{\numberline {1}{\ignorespaces Quejas de Clientes en el foro de Cisco}}{6}{figure.caption.9}%
 \contentsline {figure}{\numberline {2}{\ignorespaces Problemas de uso de Access Points}}{6}{figure.caption.10}%
 \contentsline {figure}{\numberline {3}{\ignorespaces Diagrama de cobertura y ubicación de AP}}{12}{figure.caption.11}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.}}{13}{figure.caption.12}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.}}{14}{figure.caption.12}%
 \contentsline {figure}{\numberline {5}{\ignorespaces Precisión de la predicción en función del número de subzonas para la predicción de la ubicación de 1 a 4 RAP.}}{15}{figure.caption.13}%
-\contentsline {figure}{\numberline {6}{\ignorespaces La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.}}{15}{figure.caption.14}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada}}{16}{figure.caption.15}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Los MAE del modelo híbrido de posicionamiento}}{17}{figure.caption.16}%
+\contentsline {figure}{\numberline {6}{\ignorespaces La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.}}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Los MAE del modelo híbrido de posicionamiento}}{18}{figure.caption.16}%
 \contentsline {figure}{\numberline {9}{\ignorespaces Los resultados de la evaluación de la convergencia del NSGA-II}}{19}{figure.caption.17}%
 \contentsline {figure}{\numberline {10}{\ignorespaces Colocación óptima de AP capacitados con demandas ponderadas (p = 117)}}{20}{figure.caption.18}%
-\contentsline {figure}{\numberline {11}{\ignorespaces HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores}}{21}{figure.caption.19}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN}}{22}{figure.caption.20}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)}}{23}{figure.caption.21}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Estructura de HHO}}{25}{figure.caption.22}%
+\contentsline {figure}{\numberline {11}{\ignorespaces HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores}}{22}{figure.caption.19}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN}}{23}{figure.caption.20}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)}}{24}{figure.caption.21}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Estructura de HHO}}{26}{figure.caption.22}%
 \contentsline {figure}{\numberline {15}{\ignorespaces Comparaciones entre los métodos}}{26}{figure.caption.23}%
 \contentsline {figure}{\numberline {16}{\ignorespaces Funcionamiento del algoritmo de K medias}}{29}{figure.caption.24}%
 \contentsline {figure}{\numberline {17}{\ignorespaces Componentes del Aprendizaje por Refuerzo}}{31}{figure.caption.25}%
@@ -28,6 +28,10 @@
 \contentsline {figure}{\numberline {27}{\ignorespaces Arquitectura de un modelo CNN}}{40}{figure.caption.35}%
 \contentsline {figure}{\numberline {28}{\ignorespaces Diferentes dimensiones de convoluciones}}{41}{figure.caption.36}%
 \contentsline {figure}{\numberline {29}{\ignorespaces Arquitectura de un modelo Seq2seq}}{42}{figure.caption.37}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{44}{figure.caption.38}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Access Points}}{47}{figure.caption.39}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Funcionamiento de un AP}}{48}{figure.caption.40}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Red Generativa Antagónica de Imágenes}}{43}{figure.caption.38}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Red Generativa Antagónica de Imágenes}}{44}{figure.caption.39}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Imágenes de Ruido Gaussiano}}{44}{figure.caption.40}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{46}{figure.caption.41}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{48}{figure.caption.42}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Access Points}}{51}{figure.caption.43}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Funcionamiento de un AP}}{52}{figure.caption.44}%
