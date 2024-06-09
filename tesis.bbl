@@ -1143,32 +1143,6 @@
       \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
       \endverb
     \endentry
-    \entry{tec_missinglink_conv1d}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a38e72761346eff03ee0dd26e5911e4}{%
-           family={{MissingLink.ai}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{fullhash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{bibnamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authorbibnamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authornamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authorfullhash}{4a38e72761346eff03ee0dd26e5911e4}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Keras Conv1D: Working with 1D Convolutional Neural Networks in Keras}
-      \verb{urlraw}
-      \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
-      \endverb
-      \verb{url}
-      \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
-      \endverb
-    \endentry
     \entry{ot_napit2017ap}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b3128b65dbdd8673cec28807c7e37a13}{%
@@ -3048,32 +3022,6 @@
       \endverb
       \verb{url}
       \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
-      \endverb
-    \endentry
-    \entry{tec_missinglink_conv1d}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4a38e72761346eff03ee0dd26e5911e4}{%
-           family={{MissingLink.ai}},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{fullhash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{bibnamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authorbibnamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authornamehash}{4a38e72761346eff03ee0dd26e5911e4}
-      \strng{authorfullhash}{4a38e72761346eff03ee0dd26e5911e4}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{labeldatesource}{nodate}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Keras Conv1D: Working with 1D Convolutional Neural Networks in Keras}
-      \verb{urlraw}
-      \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
-      \endverb
-      \verb{url}
-      \verb https://missinglink.ai/guides/keras/keras-conv1d-working-1d-convolutional-neural-networks-keras/
       \endverb
     \endentry
     \entry{ot_napit2017ap}{misc}{}

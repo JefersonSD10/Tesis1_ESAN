@@ -1,20 +1,20 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
-[1] Config.pm:310> INFO - Logfile is 'tesis.blg'
-[152] biber-MSWIN64:340> INFO - === 
-[227] Biber.pm:419> INFO - Reading 'tesis.bcf'
-[464] Biber.pm:979> INFO - Found 50 citekeys in bib section 0
-[489] Biber.pm:4419> INFO - Processing section 0
-[505] Biber.pm:4610> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
-[684] bibtex.pm:1713> INFO - LaTeX decoding ...
-[888] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
-[1295] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1295] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1295] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1392] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[1392] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[1392] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[1453] bbl.pm:660> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
-[1518] bbl.pm:763> INFO - Output to tesis.bbl
-[1519] Biber.pm:131> WARN - Duplicate entry key: 'tec_cook2018deeplearning' in file 'biblio/references.bib', skipping ...
-[1519] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'
-[1519] Biber.pm:133> INFO - WARNINGS: 2
+[0] Config.pm:310> INFO - Logfile is 'tesis.blg'
+[132] biber-MSWIN64:340> INFO - === 
+[196] Biber.pm:419> INFO - Reading 'tesis.bcf'
+[593] Biber.pm:979> INFO - Found 49 citekeys in bib section 0
+[651] Biber.pm:4419> INFO - Processing section 0
+[683] Biber.pm:4610> INFO - Looking for bibtex file 'biblio/references.bib' for section 0
+[851] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1024] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio/references.bib'
+[1478] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1478] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1478] Biber.pm:4239> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1577] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1577] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1577] Biber.pm:4239> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[1638] bbl.pm:660> INFO - Writing 'tesis.bbl' with encoding 'UTF-8'
+[1703] bbl.pm:763> INFO - Output to tesis.bbl
+[1704] Biber.pm:131> WARN - Duplicate entry key: 'tec_cook2018deeplearning' in file 'biblio/references.bib', skipping ...
+[1704] Biber.pm:131> WARN - Overwriting field 'month' with month value from field 'date' for entry 'tec_kim2014convolutional'
+[1704] Biber.pm:133> INFO - WARNINGS: 2

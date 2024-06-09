@@ -14,24 +14,23 @@
 \contentsline {figure}{\numberline {13}{\ignorespaces Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)}}{24}{figure.caption.21}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Estructura de HHO}}{25}{figure.caption.22}%
 \contentsline {figure}{\numberline {15}{\ignorespaces Comparaciones entre los métodos}}{26}{figure.caption.23}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Funcionamiento del algoritmo de K medias}}{29}{figure.caption.24}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Componentes del Aprendizaje por Refuerzo}}{30}{figure.caption.25}%
+\contentsline {figure}{\numberline {16}{\ignorespaces El algoritmo de K medias}}{29}{figure.caption.24}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Características del Aprendizaje por Refuerzo}}{30}{figure.caption.25}%
 \contentsline {figure}{\numberline {18}{\ignorespaces Relación entre IA, ML y DL}}{31}{figure.caption.26}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Ilustración de un modelo de aprendizaje profundo}}{32}{figure.caption.27}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Un modelo multimodal que combina imágenes y texto}}{32}{figure.caption.28}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Un modelo multimodal para las señales de electroencefalografía y de ojo}}{33}{figure.caption.29}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Modelo de aprendizaje profundo}}{32}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Modelo que combina imágenes y texto}}{32}{figure.caption.28}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Un modelo multimodal para las señales de la vista}}{33}{figure.caption.29}%
 \contentsline {figure}{\numberline {22}{\ignorespaces Modelos de difusión}}{34}{figure.caption.30}%
 \contentsline {figure}{\numberline {23}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.31}%
 \contentsline {figure}{\numberline {24}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{36}{figure.caption.32}%
 \contentsline {figure}{\numberline {25}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{37}{figure.caption.33}%
 \contentsline {figure}{\numberline {26}{\ignorespaces Regresión Logística}}{38}{figure.caption.34}%
 \contentsline {figure}{\numberline {27}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.35}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Diferentes dimensiones de convoluciones}}{40}{figure.caption.36}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Arquitectura de un modelo Seq2seq}}{41}{figure.caption.37}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Modelo Seq2seq}}{40}{figure.caption.36}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Red Generativa Antagónica de Imágenes}}{41}{figure.caption.37}%
 \contentsline {figure}{\numberline {30}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.38}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.39}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Imágenes de Ruido Gaussiano}}{43}{figure.caption.40}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{45}{figure.caption.41}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{47}{figure.caption.42}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Access Points}}{50}{figure.caption.43}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Funcionamiento de un AP}}{51}{figure.caption.44}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Imágenes de Ruido Gaussiano}}{42}{figure.caption.39}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{44}{figure.caption.40}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{46}{figure.caption.41}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Access Points}}{49}{figure.caption.42}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Funcionamiento de un AP}}{50}{figure.caption.43}%
