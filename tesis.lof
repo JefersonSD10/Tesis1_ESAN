@@ -22,14 +22,14 @@
 \contentsline {figure}{\numberline {21}{\ignorespaces Un modelo multimodal para las señales de electroencefalografía y de ojo}}{33}{figure.caption.29}%
 \contentsline {figure}{\numberline {22}{\ignorespaces Modelos de difusión}}{34}{figure.caption.30}%
 \contentsline {figure}{\numberline {23}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.31}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{37}{figure.caption.32}%
-\contentsline {figure}{\numberline {25}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{38}{figure.caption.33}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Regresión Logística}}{39}{figure.caption.34}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Arquitectura de un modelo CNN}}{40}{figure.caption.35}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{36}{figure.caption.32}%
+\contentsline {figure}{\numberline {25}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{37}{figure.caption.33}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Regresión Logística}}{38}{figure.caption.34}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.35}%
 \contentsline {figure}{\numberline {28}{\ignorespaces Diferentes dimensiones de convoluciones}}{40}{figure.caption.36}%
 \contentsline {figure}{\numberline {29}{\ignorespaces Arquitectura de un modelo Seq2seq}}{41}{figure.caption.37}%
 \contentsline {figure}{\numberline {30}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.38}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Red Generativa Antagónica de Imágenes}}{43}{figure.caption.39}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.39}%
 \contentsline {figure}{\numberline {32}{\ignorespaces Imágenes de Ruido Gaussiano}}{43}{figure.caption.40}%
 \contentsline {figure}{\numberline {33}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{45}{figure.caption.41}%
 \contentsline {figure}{\numberline {34}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{47}{figure.caption.42}%

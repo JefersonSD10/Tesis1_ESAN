@@ -6,10 +6,8 @@ Dos investigadores en neurociencia crearon el primer modelo de IA basado en neur
 
 La IA comenzó a entrar en la industria en los años 80, especialmente en grandes empresas de países desarrollados, a través de la investigación en sistemas expertos y el desarrollo de computadoras más poderosas.
 
-Hoy en día, la inteligencia artificial tiene una amplia gama de aplicaciones, incluida la minería de datos, el procesamiento de lenguaje natural, la robótica y los videojuegos, junto con subdominios como el aprendizaje automático y la visión computacional.
-
 \subsection{Aprendizaje Automático}
-El aprendizaje automático es una rama de la inteligencia artificial que se centra en técnicas que permiten a las computadoras aprender mediante algoritmos y heurísticas, transformando muestras de datos en programas sin necesidad de programación explícita. \parencite{bk_russell2009intart} describen el aprendizaje automático como una rama de la inteligencia artificial. Estos algoritmos utilizan tecnologías como el procesamiento del lenguaje natural, el aprendizaje profundo y las redes neuronales. Ambos tipos de aprendizaje, supervisado y no supervisado, se basan en lecciones derivadas de datos. El desarrollo de algoritmos que puedan recibir datos de entrada y utilizar análisis estadístico para predecir una salida, que cambia a medida que se adquieren nuevos datos, es la base del aprendizaje automático. \parencite{bk_alpaydin2014ml}
+El aprendizaje automático es una rama de la inteligencia artificial que se centra en técnicas que permiten a las computadoras aprender mediante algoritmos, transformando muestras de datos en programas sin necesidad de programación explícita. \parencite{bk_russell2009intart} describen el aprendizaje automático como una rama de la inteligencia artificial. Estos algoritmos utilizan tecnologías como el procesamiento del lenguaje natural, el aprendizaje profundo y las redes neuronales. Ambos tipos de aprendizaje, supervisado y no supervisado, se basan en lecciones derivadas de datos. El desarrollo de algoritmos que puedan recibir datos de entrada y utilizar análisis estadístico para predecir una salida, que cambia a medida que se adquieren nuevos datos, es la base del aprendizaje automático. \parencite{bk_alpaydin2014ml}
 
 Se puede clasificar en cuatro tipos principales de la siguiente manera según el objetivo que se desea alcanzar mediante el uso de ML:
 \begin{itemize}
@@ -91,7 +89,7 @@ El aprendizaje profundo no solo permite representar datos de la manera correcta,
 
 
 \subsection{Aprendizaje Profundo Multimodal}
-Como se muestra en la Figura \ref{2}, el fundamento del aprendizaje profundo multimodal es la integración de diversas modalidades (como audio, imágenes, texto, videos, etc.) o múltiples tareas (como predicción, clasificación, series de tiempo, etc.) a través del uso de representaciones latentes en redes neuronales profundas. \parencite{bk_deng2018deeplearningnlp}.
+Como se muestra en la Figura 19, el fundamento del aprendizaje profundo multimodal es la integración de diversas modalidades o múltiples tareas (como predicción, clasificación, series de tiempo, etc.) a través del uso de representaciones latentes en redes neuronales profundas. \parencite{bk_deng2018deeplearningnlp}.
 
 \begin{figure}[!ht]
 	\begin{center}
@@ -101,8 +99,6 @@ Como se muestra en la Figura \ref{2}, el fundamento del aprendizaje profundo mul
 		\label{2:fig7}
 	\end{center}
 \end{figure}
-
-Este tipo de modelos pueden realizar inferencias más robustas porque las señales de diferentes modalidades proporcionan información complementaria sobre distintos aspectos de un objeto, evento o actividad. Las técnicas multimodales, como la fusión temprana y tardía, la fusión de modelos, el ensamblaje de modelos y las redes neuronales profundas, se utilizan actualmente. Los "enfoques aditivos" facilitan la realización de predicciones al combinar características para la toma de decisiones y la recopilación de información útil, según \parencite{tec_liu2018multideeplearning}.
 
 \cite{tec_baheti2020introduction_mdl} afirman que el uso de modelos multimodales mejora el rendimiento de las redes neuronales y permite una extracción más efectiva de características de todas las fuentes, lo que favorece predicciones a mayor escala. Uno de los principales beneficios es que los datos de diferentes fuentes ofrecen información complementaria que revela patrones ocultos que no se pueden ver cuando las modalidades se analizan individualmente, mejorando así la precisión de las predicciones.
 
@@ -243,7 +239,7 @@ Los modelos mencionados anteriormente incluyen las Redes Neuronales Convoluciona
 
  	La ID genérica es la creación de los vectores de los códigos Mots para la matriz de entidad genérica, que es la misma que los unidimensionales para los mapas de características genéricos de la siguiente entrada. Para generar vectores nuevos y consistentes después de cada resultado, se reagrupan según la función de los criterios utilizados (por ejemplo, máximo, mínimo, mes, etc.) y luego se vinculan al valor.
 
-	\item \textbf{Redes Neuronales Recurrentes}: los tipos de redes neuronales más conocidos también hablaron brevemente sobre este tipo de redes. Incluso en series de tiempo, las RNN son muy utilizadas porque los datos son secuencias, es decir, una colección ordenada de elementos. En el lenguaje humano, donde los fonemas son secuencias de palabras, se puede usar un elemento dependiente para predecir la siguiente palabra en una oración dada. En este ejemplo, las palabras previas \parencite{bk_rao2019nlp_pytorch}. Los motores de búsqueda en navegadores o sitios web, traductores, entre otros, son ejemplos de estos casos de uso más comunes.
+	\item \textbf{Redes Neuronales Recurrentes}: los tipos de redes neuronales más conocidos también hablaron brevemente sobre este tipo de redes. Incluso en series de tiempo, las RNN son muy utilizadas porque los datos son secuencias, es decir, una colección ordenada de elementos. En el lenguaje humano, donde los fonemas son secuencias de palabras, se puede usar un elemento dependiente para predecir la siguiente palabra en una oración dada. \parencite{bk_rao2019nlp_pytorch}
 	
 	\item \textbf{Modelo Secuencia a Secuencia}: una técnica común en la traducción es la generación de lenguaje natural (NLG), que se basa en dos capas LSTM. La primera capa transforma la oración de entrada en un "vector de pensamiento", mientras que la segunda capa decodifica la respuesta, como se ve en la Figura \ref{2:fig46}. Según \parencite{bk_deng2018deeplearningnlp}.
 	

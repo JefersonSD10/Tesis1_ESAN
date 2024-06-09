@@ -381,12 +381,12 @@
            given={Li},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=621013bf54d3546375ad71f17f020b5b}{%
+        {{un=0,uniquepart=base,hash=621013bf54d3546375ad71f17f020b5b}{%
            family={Liu},
            familyi={L\bibinitperiod},
            given={Yang},
            giveni={Y\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{location}{1}{%
         {Singapur}%
@@ -1068,63 +1068,6 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
-      \endverb
-    \endentry
-    \entry{tec_liu2018multideeplearning}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=66c456e57b9efe69ef419c28e6d9e128}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Kuan},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=43df58aac5f93ffb4baf5ea2024abeb7}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yanen},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d37b8eddbfa29411e3973fce2cd7773}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Ning},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b6c68ced71af9c98eac31a228222a7ca}{%
-           family={Natarajan},
-           familyi={N\bibinitperiod},
-           given={Prem},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ddbff085facc5a772c934d28522df0e6}
-      \strng{fullhash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{bibnamehash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{authorbibnamehash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{authornamehash}{ddbff085facc5a772c934d28522df0e6}
-      \strng{authorfullhash}{905b2baf997fb1af2e5b64976b49387d}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eid}{arXiv:1805.11730}
-      \field{eprintclass}{stat.ML}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{arXiv e-prints}
-      \field{month}{5}
-      \field{title}{Learn to Combine Modalities in Multimodal Deep Learning}
-      \field{year}{2018}
-      \verb{eprint}
-      \verb 1805.11730
-      \endverb
-      \verb{urlraw}
-      \verb https://arxiv.org/pdf/1805.11730.pdf
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/pdf/1805.11730.pdf
       \endverb
     \endentry
     \entry{tec_marks2001standieee}{article}{}
@@ -2345,12 +2288,12 @@
            given={Li},
            giveni={L\bibinitperiod},
            givenun=0}}%
-        {{un=1,uniquepart=given,hash=621013bf54d3546375ad71f17f020b5b}{%
+        {{un=0,uniquepart=base,hash=621013bf54d3546375ad71f17f020b5b}{%
            family={Liu},
            familyi={L\bibinitperiod},
            given={Yang},
            giveni={Y\bibinitperiod},
-           givenun=1}}%
+           givenun=0}}%
       }
       \list{location}{1}{%
         {Singapur}%
@@ -3032,63 +2975,6 @@
       \endverb
       \verb{url}
       \verb https://www.sciencedirect.com/science/article/abs/pii/S0198971515000551?via%3Dihub
-      \endverb
-    \endentry
-    \entry{tec_liu2018multideeplearning}{article}{}
-      \name{author}{4}{}{%
-        {{un=1,uniquepart=given,hash=66c456e57b9efe69ef419c28e6d9e128}{%
-           family={Liu},
-           familyi={L\bibinitperiod},
-           given={Kuan},
-           giveni={K\bibinitperiod},
-           givenun=1}}%
-        {{un=0,uniquepart=base,hash=43df58aac5f93ffb4baf5ea2024abeb7}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Yanen},
-           giveni={Y\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7d37b8eddbfa29411e3973fce2cd7773}{%
-           family={Xu},
-           familyi={X\bibinitperiod},
-           given={Ning},
-           giveni={N\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b6c68ced71af9c98eac31a228222a7ca}{%
-           family={Natarajan},
-           familyi={N\bibinitperiod},
-           given={Prem},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{ddbff085facc5a772c934d28522df0e6}
-      \strng{fullhash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{bibnamehash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{authorbibnamehash}{905b2baf997fb1af2e5b64976b49387d}
-      \strng{authornamehash}{ddbff085facc5a772c934d28522df0e6}
-      \strng{authorfullhash}{905b2baf997fb1af2e5b64976b49387d}
-      \field{sortinit}{L}
-      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{eid}{arXiv:1805.11730}
-      \field{eprintclass}{stat.ML}
-      \field{eprinttype}{arXiv}
-      \field{journaltitle}{arXiv e-prints}
-      \field{month}{5}
-      \field{title}{Learn to Combine Modalities in Multimodal Deep Learning}
-      \field{year}{2018}
-      \verb{eprint}
-      \verb 1805.11730
-      \endverb
-      \verb{urlraw}
-      \verb https://arxiv.org/pdf/1805.11730.pdf
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/pdf/1805.11730.pdf
       \endverb
     \endentry
     \entry{tec_marks2001standieee}{article}{}

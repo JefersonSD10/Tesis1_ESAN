@@ -38,14 +38,14 @@
 \contentsline {subsection}{\numberline {2.2.2}Aprendizaje Automático}{27}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}Aprendizaje Profundo}{30}{subsection.2.2.3}%
 \contentsline {subsection}{\numberline {2.2.4}Aprendizaje Profundo Multimodal}{31}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{33}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.5}Inteligencia Artificial Generativa}{31}{subsection.2.2.5}%
 \contentsline {subsection}{\numberline {2.2.6}Modelos de Predicción}{35}{subsection.2.2.6}%
 \contentsline {subsection}{\numberline {2.2.7}Análisis de Datos Espaciales}{35}{subsection.2.2.7}%
-\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{36}{subsection.2.2.8}%
+\contentsline {subsection}{\numberline {2.2.8}Procesamiento del Lenguaje Natural}{37}{subsection.2.2.8}%
 \contentsline {subsection}{\numberline {2.2.9}Redes Generativas Antagónicas}{41}{subsection.2.2.9}%
-\contentsline {subsubsection}{\numberline {2.2.9.1}Arquitectura de las GAN}{42}{subsubsection.2.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.2.9.1}Arquitectura de las GAN}{41}{subsubsection.2.2.9.1}%
 \contentsline {subsubsection}{\numberline {2.2.9.2}Entrenamiento de las GAN}{43}{subsubsection.2.2.9.2}%
-\contentsline {subsubsection}{\numberline {2.2.9.3}Dificultades del entrenamiento de las GAN}{44}{subsubsection.2.2.9.3}%
+\contentsline {subsubsection}{\numberline {2.2.9.3}Dificultades del entrenamiento de las GAN}{43}{subsubsection.2.2.9.3}%
 \contentsline {subsection}{\numberline {2.2.10}Generación de Imágenes}{44}{subsection.2.2.10}%
 \contentsline {section}{\numberline {2.3}Marco Conceptual}{46}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Redes Inalámbricas}{46}{subsection.2.3.1}%
