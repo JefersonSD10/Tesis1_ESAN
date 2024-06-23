@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.6)  22 JUN 2024 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.6)  22 JUN 2024 23:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2190,27 +2190,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [50 <./2/figures/funcionap.png>]
 Cap\'{\i }tulo III.
 
-Overfull \hbox (10.41402pt too wide) in paragraph at lines 26--26
+Overfull \hbox (10.41402pt too wide) in paragraph at lines 25--25
 []|\OT1/ptm/m/n/12 DIMENSI[]ON|  
  []
 
 
-Overfull \hbox (10.414pt too wide) in paragraph at lines 26--26
+Overfull \hbox (10.414pt too wide) in paragraph at lines 25--25
 []|\OT1/ptm/m/n/12 INDICADOR|  
  []
 
 
-Overfull \hbox (7.7499pt too wide) in paragraph at lines 32--32
+Overfull \hbox (7.7499pt too wide) in paragraph at lines 31--31
 []|\OT1/ptm/m/n/12 Comparaci[]on 
  []
 
 
-Overfull \hbox (2.43365pt too wide) in paragraph at lines 34--34
+Overfull \hbox (2.43365pt too wide) in paragraph at lines 33--33
 []|\OT1/ptm/m/n/12 Sensibilidad|  
  []
 
 
-Overfull \hbox (31.59665pt too wide) in alignment at lines 22--40
+Overfull \hbox (31.59665pt too wide) in alignment at lines 21--39
  [] [] [] [] [] [] 
  []
 
@@ -2232,10 +2232,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [52]
-<3/figures/plano2d.jpg, id=1040, 1003.75pt x 565.11125pt>
+<3/figures/plano2d.jpg, id=1041, 1003.75pt x 565.11125pt>
 File: 3/figures/plano2d.jpg Graphic file (type jpg)
 <use 3/figures/plano2d.jpg>
-Package pdftex.def Info: 3/figures/plano2d.jpg  used on input line 53.
+Package pdftex.def Info: 3/figures/plano2d.jpg  used on input line 52.
 (pdftex.def)             Requested size: 339.7262pt x 191.26436pt.
 
 
@@ -2246,13 +2246,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [53 <./3/figures/plano2d.jpg>]
-<3/figures/metodologia.jpg, id=1047, 755.82375pt x 362.5545pt>
+<3/figures/metodologia.jpg, id=1048, 755.82375pt x 362.5545pt>
 File: 3/figures/metodologia.jpg Graphic file (type jpg)
 <use 3/figures/metodologia.jpg>
-Package pdftex.def Info: 3/figures/metodologia.jpg  used on input line 78.
+Package pdftex.def Info: 3/figures/metodologia.jpg  used on input line 77.
 (pdftex.def)             Requested size: 498.26784pt x 239.0101pt.
 
-Overfull \hbox (45.29958pt too wide) in paragraph at lines 78--80
+Overfull \hbox (45.29958pt too wide) in paragraph at lines 77--79
  [] 
  []
 
@@ -2283,72 +2283,72 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [56]
-Overfull \hbox (11.42303pt too wide) in alignment at lines 141--147
+Overfull \hbox (11.42303pt too wide) in alignment at lines 139--145
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 147--152
+Overfull \hbox (11.42303pt too wide) in alignment at lines 145--150
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 152--155
+Overfull \hbox (11.42303pt too wide) in alignment at lines 150--153
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 155--158
+Overfull \hbox (11.42303pt too wide) in alignment at lines 153--156
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 160--160
+Underfull \hbox (badness 1107) in paragraph at lines 158--158
 []|\OT1/ptm/m/n/12 Filtraci[]on de las
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 160--160
+Underfull \hbox (badness 1412) in paragraph at lines 158--158
 \OT1/ptm/m/n/12 im[]age-nes de los
  []
 
 
-Underfull \hbox (badness 3746) in paragraph at lines 160--160
+Underfull \hbox (badness 3746) in paragraph at lines 158--158
 \OT1/ptm/m/n/12 no est[]andar pa-
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 160--160
+Underfull \hbox (badness 2617) in paragraph at lines 158--158
 \OT1/ptm/m/n/12 la fia-bi-li-dad del
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 160--160
+Underfull \hbox (badness 2626) in paragraph at lines 158--158
 \OT1/ptm/m/n/12 con-jun-to de da-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []|\OT1/ptm/m/n/12 Representaci[]on
  []
 
 
-Underfull \hbox (badness 1762) in paragraph at lines 173--173
+Underfull \hbox (badness 1762) in paragraph at lines 171--171
 \OT1/ptm/m/n/12 de las im[]age-nes
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 \OT1/ptm/m/n/12 de los pla-nos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []|\OT1/ptm/m/n/12 Representaci[]on
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 158--183
+Overfull \hbox (11.42303pt too wide) in alignment at lines 156--181
  [] [] [] 
  []
 
@@ -2363,7 +2363,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/Representacion_planos.jpg, id=1070, 347.49825pt x 410.13225pt>
 File: 3/figures/Representacion_planos.jpg Graphic file (type jpg)
 <use 3/figures/Representacion_planos.jpg>
-Package pdftex.def Info: 3/figures/Representacion_planos.jpg  used on input line 208.
+Package pdftex.def Info: 3/figures/Representacion_planos.jpg  used on input line 206.
 (pdftex.def)             Requested size: 226.48413pt x 267.31499pt.
 
 
@@ -2377,32 +2377,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [58]
-Overfull \hbox (39.87578pt too wide) in alignment at lines 221--227
+Overfull \hbox (39.87578pt too wide) in alignment at lines 219--225
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 227--234
+Overfull \hbox (39.87578pt too wide) in alignment at lines 225--232
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 234--238
+Overfull \hbox (39.87578pt too wide) in alignment at lines 232--236
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 238--241
+Overfull \hbox (39.87578pt too wide) in alignment at lines 236--239
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 245--246
+Underfull \hbox (badness 3128) in paragraph at lines 243--244
 []\OT1/ptm/m/n/12 Selecci[]on del ti-po de red
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 241--252
+Overfull \hbox (39.87578pt too wide) in alignment at lines 239--250
  [] [] [] 
  []
 
@@ -2417,7 +2417,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/CNN_redneuro.jpg, id=1080, 244.5135pt x 502.87875pt>
 File: 3/figures/CNN_redneuro.jpg Graphic file (type jpg)
 <use 3/figures/CNN_redneuro.jpg>
-Package pdftex.def Info: 3/figures/CNN_redneuro.jpg  used on input line 271.
+Package pdftex.def Info: 3/figures/CNN_redneuro.jpg  used on input line 269.
 (pdftex.def)             Requested size: 135.89185pt x 279.49234pt.
 
 
@@ -2431,7 +2431,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/gans_capas.jpg, id=1085, 251.13824pt x 428.802pt>
 File: 3/figures/gans_capas.jpg Graphic file (type jpg)
 <use 3/figures/gans_capas.jpg>
-Package pdftex.def Info: 3/figures/gans_capas.jpg  used on input line 281.
+Package pdftex.def Info: 3/figures/gans_capas.jpg  used on input line 279.
 (pdftex.def)             Requested size: 181.18454pt x 309.37187pt.
 
 
@@ -2445,7 +2445,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/discrimGAN.jpg, id=1090, 253.54726pt x 507.0945pt>
 File: 3/figures/discrimGAN.jpg Graphic file (type jpg)
 <use 3/figures/discrimGAN.jpg>
-Package pdftex.def Info: 3/figures/discrimGAN.jpg  used on input line 290.
+Package pdftex.def Info: 3/figures/discrimGAN.jpg  used on input line 288.
 (pdftex.def)             Requested size: 181.18454pt x 362.38411pt.
 
 
@@ -2459,7 +2459,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/pseudocodigo.jpg, id=1095, 458.9145pt x 476.982pt>
 File: 3/figures/pseudocodigo.jpg Graphic file (type jpg)
 <use 3/figures/pseudocodigo.jpg>
-Package pdftex.def Info: 3/figures/pseudocodigo.jpg  used on input line 299.
+Package pdftex.def Info: 3/figures/pseudocodigo.jpg  used on input line 297.
 (pdftex.def)             Requested size: 452.96826pt x 470.80894pt.
 
 
@@ -2470,42 +2470,42 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [63 <./3/figures/discrimGAN.jpg>]
-Overfull \hbox (39.87578pt too wide) in alignment at lines 312--318
+Overfull \hbox (39.87578pt too wide) in alignment at lines 310--316
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 318--325
+Overfull \hbox (39.87578pt too wide) in alignment at lines 316--323
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 325--329
+Overfull \hbox (39.87578pt too wide) in alignment at lines 323--327
  [] [] [] 
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 329--332
+Overfull \hbox (39.87578pt too wide) in alignment at lines 327--330
  [] [] [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--334
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
 []|\OT1/ptm/m/n/12 Entrenamiento Su-per-
  []
 
 
-Underfull \hbox (badness 5893) in paragraph at lines 336--337
+Underfull \hbox (badness 5893) in paragraph at lines 334--335
 []\OT1/ptm/m/n/12 Entrenamiento del mo-de-lo
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 341--341
+Underfull \hbox (badness 4872) in paragraph at lines 339--339
 []|\OT1/ptm/m/n/12 Optimizaci[]on de Co-
  []
 
 
-Overfull \hbox (39.87578pt too wide) in alignment at lines 332--349
+Overfull \hbox (39.87578pt too wide) in alignment at lines 330--347
  [] [] [] 
  []
 
@@ -2520,7 +2520,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/pseudo_train.jpg, id=1105, 443.85825pt x 479.391pt>
 File: 3/figures/pseudo_train.jpg Graphic file (type jpg)
 <use 3/figures/pseudo_train.jpg>
-Package pdftex.def Info: 3/figures/pseudo_train.jpg  used on input line 359.
+Package pdftex.def Info: 3/figures/pseudo_train.jpg  used on input line 357.
 (pdftex.def)             Requested size: 452.96826pt x 489.24301pt.
 
 
@@ -2534,7 +2534,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <3/figures/pseudo_cobert.jpg, id=1110, 392.06474pt x 489.027pt>
 File: 3/figures/pseudo_cobert.jpg Graphic file (type jpg)
 <use 3/figures/pseudo_cobert.jpg>
-Package pdftex.def Info: 3/figures/pseudo_cobert.jpg  used on input line 374.
+Package pdftex.def Info: 3/figures/pseudo_cobert.jpg  used on input line 372.
 (pdftex.def)             Requested size: 452.96826pt x 564.98834pt.
 
 
@@ -2553,27 +2553,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [67 <./3/figures/pseudo_cobert.jpg>]
-Overfull \hbox (11.42303pt too wide) in alignment at lines 387--393
+Overfull \hbox (11.42303pt too wide) in alignment at lines 385--391
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 393--398
+Overfull \hbox (11.42303pt too wide) in alignment at lines 391--396
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 398--401
+Overfull \hbox (11.42303pt too wide) in alignment at lines 396--399
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 401--404
+Overfull \hbox (11.42303pt too wide) in alignment at lines 399--402
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 404--424
+Overfull \hbox (11.42303pt too wide) in alignment at lines 402--422
  [] [] [] 
  []
 
@@ -2585,27 +2585,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [68]
-Overfull \hbox (11.42303pt too wide) in alignment at lines 457--463
+Overfull \hbox (11.42303pt too wide) in alignment at lines 455--461
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 463--468
+Overfull \hbox (11.42303pt too wide) in alignment at lines 461--466
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 468--471
+Overfull \hbox (11.42303pt too wide) in alignment at lines 466--469
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 471--474
+Overfull \hbox (11.42303pt too wide) in alignment at lines 469--472
  [] [] [] 
  []
 
 
-Overfull \hbox (11.42303pt too wide) in alignment at lines 474--490
+Overfull \hbox (11.42303pt too wide) in alignment at lines 472--488
  [] [] [] 
  []
 
@@ -2625,10 +2625,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [70]
-<3/figures/matriz_confusion.png, id=1134, 598.235pt x 290.08376pt>
+<3/figures/matriz_confusion.png, id=1133, 598.235pt x 290.08376pt>
 File: 3/figures/matriz_confusion.png Graphic file (type png)
 <use 3/figures/matriz_confusion.png>
-Package pdftex.def Info: 3/figures/matriz_confusion.png  used on input line 519.
+Package pdftex.def Info: 3/figures/matriz_confusion.png  used on input line 517.
 (pdftex.def)             Requested size: 339.7262pt x 164.73419pt.
 
 
@@ -2639,7 +2639,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [71 <./3/figures/matriz_confusion.png>]
-Overfull \hbox (9.35493pt too wide) in paragraph at lines 532--533
+Overfull \hbox (9.35493pt too wide) in paragraph at lines 530--531
 []\OT1/ptm/m/n/12 Despu[]es de ex-pli-car los con-cep-tos pre-vios, se ob-tie-nen las si-guien-tes m[]etri-cas com[]unmen-
  []
 
@@ -2659,22 +2659,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [73]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
-[74]
-<3/figures/gantt.jpg, id=1179, 617.30624pt x 457.71pt>
+<3/figures/gantt.jpg, id=1168, 617.30624pt x 457.71pt>
 File: 3/figures/gantt.jpg Graphic file (type jpg)
 <use 3/figures/gantt.jpg>
-Package pdftex.def Info: 3/figures/gantt.jpg  used on input line 601.
+Package pdftex.def Info: 3/figures/gantt.jpg  used on input line 598.
 (pdftex.def)             Requested size: 611.5099pt x 453.4486pt.
 
 
-LaTeX Warning: Float too large for page by 71.47528pt on input line 606.
+LaTeX Warning: Float too large for page by 71.47528pt on input line 603.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2683,7 +2675,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[75
+[74
 
 ]
 
@@ -2693,15 +2685,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[76 <./3/figures/gantt.jpg>]
+[75 <./3/figures/gantt.jpg>]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 617.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 614.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 617.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 614.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 617.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 614.
 
-Overfull \hbox (41.36104pt too wide) in paragraph at lines 617--648
+Overfull \hbox (41.7551pt too wide) in paragraph at lines 614--637
  [][] 
  []
 
@@ -2713,7 +2705,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[77
+[76
 
 ]
 Overfull \hbox (13.84326pt too wide) in paragraph at lines 390--390
@@ -2727,7 +2719,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[78
+[77
 
 ]
 
@@ -2737,7 +2729,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[79]
+[78]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -2745,7 +2737,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[80]
+[79]
 Overfull \hbox (4.86754pt too wide) in paragraph at lines 390--390
 \OT1/ptm/m/it/12 Lear-ning: An In-tro-duc-tion \OT1/ptm/m/n/12 (2$[]$ ed., p. 48). MIT Press. Re-cu-pe-ra-do de [][]$http : / / incompleteideas .
  []
@@ -2757,7 +2749,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[81]
+[80]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -2765,11 +2757,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[82
+[81
 
 
 ] (anexos/anexo.tex
-<anexos/arbol_problemas.png, id=1290, 678.1335pt x 395.67825pt>
+<anexos/arbol_problemas.png, id=1279, 678.1335pt x 395.67825pt>
 File: anexos/arbol_problemas.png Graphic file (type png)
 <use anexos/arbol_problemas.png>
 Package pdftex.def Info: anexos/arbol_problemas.png  used on input line 16.
@@ -2786,10 +2778,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[83
+[82
 
  <./anexos/arbol_problemas.png>]
-<anexos/arbol_objetivos.png, id=1297, 654.64575pt x 385.44pt>
+<anexos/arbol_objetivos.png, id=1286, 654.64575pt x 385.44pt>
 File: anexos/arbol_objetivos.png Graphic file (type png)
 <use anexos/arbol_objetivos.png>
 Package pdftex.def Info: anexos/arbol_objetivos.png  used on input line 29.
@@ -2806,7 +2798,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[84
+[83
 
  <./anexos/arbol_objetivos.png>]
 Underfull \hbox (badness 2799) in paragraph at lines 47--47
@@ -3258,10 +3250,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[85
+[84
 
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 19.61925pt, for example:
+(fancyhdr)                \setlength{\headheight}{19.61925pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
+
+[85]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 19.61925pt, for example:
@@ -3278,14 +3278,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
 [87]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 19.61925pt, for example:
-(fancyhdr)                \setlength{\headheight}{19.61925pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
-
-[88]
 Overfull \hbox (36.04941pt too wide) in alignment at lines 126--270
  [] [] [] [] 
  []
@@ -3297,7 +3289,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[89
+[88
 
 
 ]
@@ -3308,7 +3300,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-7.61925pt}.
 
-[90])
+[89])
 
 Package caption Warning: Unused \captionsetup[subfigure] on input line 71.
 See the caption package documentation for explanation.
@@ -3336,17 +3328,17 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34565 strings out of 474485
- 667827 string characters out of 5743735
+ 34559 strings out of 474485
+ 667762 string characters out of 5743735
  1971542 words of memory out of 5000000
- 55984 multiletter control sequences out of 15000+600000
- 596598 words of font info for 118 fonts, out of 8000000 for 9000
+ 55978 multiletter control sequences out of 15000+600000
+ 597705 words of font info for 119 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,117p,2988b,3194s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (100 pages, 6381763 bytes).
+Output written on tesis.pdf (99 pages, 6378379 bytes).
 PDF statistics:
- 1435 PDF objects out of 1440 (max. 8388607)
- 312 named destinations out of 1000 (max. 500000)
+ 1424 PDF objects out of 1440 (max. 8388607)
+ 311 named destinations out of 1000 (max. 500000)
  862 words of extra memory for PDF output out of 10000 (max. 10000000)
 

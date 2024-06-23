@@ -3303,19 +3303,14 @@
     <bcf:citekey order="253" intorder="1">art_wu2019interior</bcf:citekey>
     <bcf:citekey order="254" intorder="1">art_wu2019interior</bcf:citekey>
     <bcf:citekey order="255" intorder="1">gl_kohavi1998ml_glossary</bcf:citekey>
-    <bcf:citekey order="256" intorder="1">gl_bigdata2019metricas</bcf:citekey>
+    <bcf:citekey order="256" intorder="1">gl_izco2018bdc</bcf:citekey>
     <bcf:citekey order="257" intorder="1">gl_izco2018bdc</bcf:citekey>
     <bcf:citekey order="258" intorder="1">gl_izco2018bdc</bcf:citekey>
-    <bcf:citekey order="259" intorder="1">gl_izco2018bdc</bcf:citekey>
+    <bcf:citekey order="259" intorder="1">gl_kohavi1998ml_glossary</bcf:citekey>
     <bcf:citekey order="260" intorder="1">gl_google2018machinelearning</bcf:citekey>
-    <bcf:citekey order="261" intorder="1">gl_google2018machinelearning</bcf:citekey>
-    <bcf:citekey order="262" intorder="1">gl_google2018machinelearning</bcf:citekey>
-    <bcf:citekey order="263" intorder="1">gl_google2018machinelearning</bcf:citekey>
-    <bcf:citekey order="264" intorder="1">gl_kohavi1998ml_glossary</bcf:citekey>
-    <bcf:citekey order="265" intorder="1">gl_google2018machinelearning</bcf:citekey>
-    <bcf:citekey order="266" intorder="1">gl_gonzalez2019auc</bcf:citekey>
-    <bcf:citekey order="267" intorder="1">gl_bigdata2019metricas</bcf:citekey>
-    <bcf:citekey order="268" intorder="1">gl_bigdata2019metricas</bcf:citekey>
+    <bcf:citekey order="261" intorder="1">gl_gonzalez2019auc</bcf:citekey>
+    <bcf:citekey order="262" intorder="1">gl_bigdata2019metricas</bcf:citekey>
+    <bcf:citekey order="263" intorder="1">gl_bigdata2019metricas</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
