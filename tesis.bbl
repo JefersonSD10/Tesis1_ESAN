@@ -542,6 +542,37 @@
       \field{title}{Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow}
       \field{year}{2019}
     \endentry
+    \entry{gl_gonzalez2019auc}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77097be61ee0735f8c0a1f03fbdfeb4a}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Ligdi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{fullhash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{bibnamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authorbibnamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authornamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authorfullhash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curvas ROC y Área bajo la curva (AUC)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
+      \endverb
+      \verb{url}
+      \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
+      \endverb
+    \endentry
     \entry{tec_goodfellow2014gan}{article}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=9065df87f119d90d95d857dd67df5ad0}{%
@@ -597,6 +628,34 @@
       \verb http://arxiv.org/abs/1406.2661
       \endverb
     \endentry
+    \entry{gl_google2018machinelearning}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6bc28252c14133d21331dc54856c1797}{%
+           family={{Google Developers}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{fullhash}{6bc28252c14133d21331dc54856c1797}
+      \strng{bibnamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authorbibnamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authornamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authorfullhash}{6bc28252c14133d21331dc54856c1797}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Glosario sobre aprendizaje automático}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://developers.google.com/machine-learning/glossary/?hl=es-419
+      \endverb
+      \verb{url}
+      \verb https://developers.google.com/machine-learning/glossary/?hl=es-419
+      \endverb
+    \endentry
     \entry{bk_haining2003spdat}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1052967a4fd9a0ac41cee317001d82b1}{%
@@ -627,6 +686,67 @@
       \field{year}{2003}
       \field{pages}{1\bibrangedash 454}
       \range{pages}{454}
+    \endentry
+    \entry{bk_hernandez2014metodologia}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=82531f0c5173ef965e84d101f98cbf0a}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cda946b44fb9851bceae7fa35c71abde}{%
+           family={Fernández\bibnamedelima Collado},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e441489e7f536d4f82d39bf61aa6b76}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d5214b09070be8ba4dd4b092d74a6a64}{%
+           family={Hirst},
+           familyi={H\bibinitperiod},
+           given={Graeme},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ciudad de México}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Education}%
+      }
+      \strng{namehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{fullhash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{bibnamehash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{authorbibnamehash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{authornamehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{authorfullhash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{editorbibnamehash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \strng{editornamehash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \strng{editorfullhash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{isbn}{978-1-4562-2396-0}
+      \field{title}{Metodología de la Investigación}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://academia.utp.edu.co/grupobasicoclinicayaplicadas/files/2013/06/Metodolog%C3%ADa-de-la-Investigaci%C3%B3n.pdf
+      \endverb
+      \verb{url}
+      \verb https://academia.utp.edu.co/grupobasicoclinicayaplicadas/files/2013/06/Metodolog%C3%ADa-de-la-Investigaci%C3%B3n.pdf
+      \endverb
     \endentry
     \entry{pr_hosseini2023NSGAIIap}{article}{}
       \name{author}{3}{}{%
@@ -735,6 +855,37 @@
       \field{labeltitlesource}{title}
       \field{title}{IEEE P802.11s Task Group IEEE Unapproved Draft Standard P802.11s/D4.0}
       \field{year}{2010}
+    \endentry
+    \entry{gl_izco2018bdc}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=469102ff09ab2baf2f859838c2dae750}{%
+           family={Izco},
+           familyi={I\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{fullhash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{bibnamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authorbibnamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authornamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authorfullhash}{469102ff09ab2baf2f859838c2dae750}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Base de Datos Corporativa}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://bookdown.org/f_izco/BDC-POC/metricas.html
+      \endverb
+      \verb{url}
+      \verb https://bookdown.org/f_izco/BDC-POC/metricas.html
+      \endverb
     \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
@@ -970,6 +1121,43 @@
       \endverb
       \verb{url}
       \verb http://arxiv.org/abs/1906.02691
+      \endverb
+    \endentry
+    \entry{gl_kohavi1998ml_glossary}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2a149b8d68fbffd75e8ece81b80708f}{%
+           family={Kohavi},
+           familyi={K\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79fae1f3d670f588a9b7148774f77abf}{%
+           family={Provost},
+           familyi={P\bibinitperiod},
+           given={Foster},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{fullhash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{bibnamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authorbibnamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authornamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authorfullhash}{09ccb8b870dc387623a2bb010466df17}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Glossary of Terms Journal of Machine Learning}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb http://ai.stanford.edu/~ronnyk/glossary.html
+      \endverb
+      \verb{url}
+      \verb http://ai.stanford.edu/~ronnyk/glossary.html
       \endverb
     \endentry
     \entry{tec_kostadinov2019seq2seq}{online}{}
@@ -1688,6 +1876,34 @@
       \verb 10.6109/jicce.2011.9.5.610
       \endverb
     \endentry
+    \entry{gl_bigdata2019metricas}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=97f7653f976bc0f179677ed71e788ab6}{%
+           family={{SitioBigData.com}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{fullhash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{bibnamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authorbibnamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authornamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authorfullhash}{97f7653f976bc0f179677ed71e788ab6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Learning: Selección Métricas de clasificación}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://sitiobigdata.com/2019/01/19/machine-learning-metrica-clasificacion-parte-3/#
+      \endverb
+      \verb{url}
+      \verb http://sitiobigdata.com/2019/01/19/machine-learning-metrica-clasificacion-parte-3/#
+      \endverb
+    \endentry
     \entry{bk_sutton2018rl}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=eb920e5277d3d5fd0903f3cd41e11871}{%
@@ -1735,6 +1951,64 @@
       \verb{url}
       \verb http://incompleteideas.net/book/RLbook2018.pdf
       \endverb
+    \endentry
+    \entry{art_wu2019interior}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1525d17b2c4c430bfe185a07ed6bceb5}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Wenming},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24558841cb4945398d6113f079c1fa80}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Xiao-Ming},
+           giveni={X\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9808131c304b46a1a1de697001684f1b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f09bcf039fad548685e22adbafd36be1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4695d13b1d50856b3eb29960e2ac8cba}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Yu-Hao},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d00a9e6045458f17d54f5b6b87fbfe}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ligang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b95c74a79ca645816f1d629568eabf5f}
+      \strng{fullhash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{bibnamehash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{authorbibnamehash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{authornamehash}{b95c74a79ca645816f1d629568eabf5f}
+      \strng{authorfullhash}{7b708edd1af6083078d74dfb10cf382c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Graphics (SIGGRAPH Asia)}
+      \field{number}{6}
+      \field{title}{Data-driven Interior Plan Generation for Residential Buildings}
+      \field{volume}{38}
+      \field{year}{2019}
     \endentry
     \entry{ot_ymant2023ap}{misc}{}
       \name{author}{1}{}{%
@@ -2395,6 +2669,37 @@
       \field{title}{Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow}
       \field{year}{2019}
     \endentry
+    \entry{gl_gonzalez2019auc}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=77097be61ee0735f8c0a1f03fbdfeb4a}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Ligdi},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{fullhash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{bibnamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authorbibnamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authornamehash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \strng{authorfullhash}{77097be61ee0735f8c0a1f03fbdfeb4a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Curvas ROC y Área bajo la curva (AUC)}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
+      \endverb
+      \verb{url}
+      \verb http://ligdigonzalez.com/curvas-roc-y-area-bajo-la-curva-auc-machine-learning/
+      \endverb
+    \endentry
     \entry{tec_goodfellow2014gan}{article}{}
       \name{author}{8}{}{%
         {{un=0,uniquepart=base,hash=9065df87f119d90d95d857dd67df5ad0}{%
@@ -2450,6 +2755,34 @@
       \verb http://arxiv.org/abs/1406.2661
       \endverb
     \endentry
+    \entry{gl_google2018machinelearning}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6bc28252c14133d21331dc54856c1797}{%
+           family={{Google Developers}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{fullhash}{6bc28252c14133d21331dc54856c1797}
+      \strng{bibnamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authorbibnamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authornamehash}{6bc28252c14133d21331dc54856c1797}
+      \strng{authorfullhash}{6bc28252c14133d21331dc54856c1797}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Glosario sobre aprendizaje automático}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://developers.google.com/machine-learning/glossary/?hl=es-419
+      \endverb
+      \verb{url}
+      \verb https://developers.google.com/machine-learning/glossary/?hl=es-419
+      \endverb
+    \endentry
     \entry{bk_haining2003spdat}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1052967a4fd9a0ac41cee317001d82b1}{%
@@ -2480,6 +2813,67 @@
       \field{year}{2003}
       \field{pages}{1\bibrangedash 454}
       \range{pages}{454}
+    \endentry
+    \entry{bk_hernandez2014metodologia}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=82531f0c5173ef965e84d101f98cbf0a}{%
+           family={Hernández\bibnamedelima Sampieri},
+           familyi={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cda946b44fb9851bceae7fa35c71abde}{%
+           family={Fernández\bibnamedelima Collado},
+           familyi={F\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e441489e7f536d4f82d39bf61aa6b76}{%
+           family={Baptista\bibnamedelima Lucio},
+           familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Pilar},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d5214b09070be8ba4dd4b092d74a6a64}{%
+           family={Hirst},
+           familyi={H\bibinitperiod},
+           given={Graeme},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ciudad de México}%
+      }
+      \list{publisher}{1}{%
+        {McGraw Hill Education}%
+      }
+      \strng{namehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{fullhash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{bibnamehash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{authorbibnamehash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{authornamehash}{7c7c2f335ff7edc16815d4abaab9b7e7}
+      \strng{authorfullhash}{ac5ca95afba2bfe4fd763edb69eda3d4}
+      \strng{editorbibnamehash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \strng{editornamehash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \strng{editorfullhash}{d5214b09070be8ba4dd4b092d74a6a64}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{isbn}{978-1-4562-2396-0}
+      \field{title}{Metodología de la Investigación}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://academia.utp.edu.co/grupobasicoclinicayaplicadas/files/2013/06/Metodolog%C3%ADa-de-la-Investigaci%C3%B3n.pdf
+      \endverb
+      \verb{url}
+      \verb https://academia.utp.edu.co/grupobasicoclinicayaplicadas/files/2013/06/Metodolog%C3%ADa-de-la-Investigaci%C3%B3n.pdf
+      \endverb
     \endentry
     \entry{pr_hosseini2023NSGAIIap}{article}{}
       \name{author}{3}{}{%
@@ -2588,6 +2982,37 @@
       \field{labeltitlesource}{title}
       \field{title}{IEEE P802.11s Task Group IEEE Unapproved Draft Standard P802.11s/D4.0}
       \field{year}{2010}
+    \endentry
+    \entry{gl_izco2018bdc}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=469102ff09ab2baf2f859838c2dae750}{%
+           family={Izco},
+           familyi={I\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{fullhash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{bibnamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authorbibnamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authornamehash}{469102ff09ab2baf2f859838c2dae750}
+      \strng{authorfullhash}{469102ff09ab2baf2f859838c2dae750}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Base de Datos Corporativa}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://bookdown.org/f_izco/BDC-POC/metricas.html
+      \endverb
+      \verb{url}
+      \verb https://bookdown.org/f_izco/BDC-POC/metricas.html
+      \endverb
     \endentry
     \entry{bk_kamath2019deeplearning_nlp_sr}{book}{}
       \name{author}{3}{}{%
@@ -2823,6 +3248,43 @@
       \endverb
       \verb{url}
       \verb http://arxiv.org/abs/1906.02691
+      \endverb
+    \endentry
+    \entry{gl_kohavi1998ml_glossary}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f2a149b8d68fbffd75e8ece81b80708f}{%
+           family={Kohavi},
+           familyi={K\bibinitperiod},
+           given={Ron},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=79fae1f3d670f588a9b7148774f77abf}{%
+           family={Provost},
+           familyi={P\bibinitperiod},
+           given={Foster},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{fullhash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{bibnamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authorbibnamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authornamehash}{09ccb8b870dc387623a2bb010466df17}
+      \strng{authorfullhash}{09ccb8b870dc387623a2bb010466df17}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Glossary of Terms Journal of Machine Learning}
+      \field{year}{1998}
+      \verb{urlraw}
+      \verb http://ai.stanford.edu/~ronnyk/glossary.html
+      \endverb
+      \verb{url}
+      \verb http://ai.stanford.edu/~ronnyk/glossary.html
       \endverb
     \endentry
     \entry{tec_kostadinov2019seq2seq}{online}{}
@@ -3541,6 +4003,34 @@
       \verb 10.6109/jicce.2011.9.5.610
       \endverb
     \endentry
+    \entry{gl_bigdata2019metricas}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=97f7653f976bc0f179677ed71e788ab6}{%
+           family={{SitioBigData.com}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{fullhash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{bibnamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authorbibnamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authornamehash}{97f7653f976bc0f179677ed71e788ab6}
+      \strng{authorfullhash}{97f7653f976bc0f179677ed71e788ab6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Learning: Selección Métricas de clasificación}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb http://sitiobigdata.com/2019/01/19/machine-learning-metrica-clasificacion-parte-3/#
+      \endverb
+      \verb{url}
+      \verb http://sitiobigdata.com/2019/01/19/machine-learning-metrica-clasificacion-parte-3/#
+      \endverb
+    \endentry
     \entry{bk_sutton2018rl}{inbook}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=eb920e5277d3d5fd0903f3cd41e11871}{%
@@ -3588,6 +4078,64 @@
       \verb{url}
       \verb http://incompleteideas.net/book/RLbook2018.pdf
       \endverb
+    \endentry
+    \entry{art_wu2019interior}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1525d17b2c4c430bfe185a07ed6bceb5}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Wenming},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24558841cb4945398d6113f079c1fa80}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Xiao-Ming},
+           giveni={X\bibinithyphendelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9808131c304b46a1a1de697001684f1b}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f09bcf039fad548685e22adbafd36be1}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yuhan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4695d13b1d50856b3eb29960e2ac8cba}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Yu-Hao},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74d00a9e6045458f17d54f5b6b87fbfe}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ligang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b95c74a79ca645816f1d629568eabf5f}
+      \strng{fullhash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{bibnamehash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{authorbibnamehash}{7b708edd1af6083078d74dfb10cf382c}
+      \strng{authornamehash}{b95c74a79ca645816f1d629568eabf5f}
+      \strng{authorfullhash}{7b708edd1af6083078d74dfb10cf382c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Graphics (SIGGRAPH Asia)}
+      \field{number}{6}
+      \field{title}{Data-driven Interior Plan Generation for Residential Buildings}
+      \field{volume}{38}
+      \field{year}{2019}
     \endentry
     \entry{ot_ymant2023ap}{misc}{}
       \name{author}{1}{}{%
