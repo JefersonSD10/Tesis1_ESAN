@@ -377,7 +377,7 @@ Asimismo, se elaboró el pseudocódigo el cual se puede ver en la Figura 44.
 \textbf{Entregable}: Función de pérdida mejorada con métricas de cobertura e interferencia y Reporte de resultados de simulaciones de cobertura.
 
 \subsubsection{Evaluación del Modelo}
-Durante esta fase, se procede a evaluar los modelos desarrollados en la investigación utilizando las métricas de clasificación seleccionadas y descritas en la sección 3.3.2. La Tabla 6 proporciona un desglose detallado de las actividades y tareas realizadas durante esta fase.
+En esta etapa, se lleva a cabo la evaluación de los prototipos elaborados en este trabajo, en la sección 3.3.2 se está empleando las métricas de clasificación seleccionadas y detalladas. Se ofrece un análisis pormenorizado de las actividades y tareas ejecutadas en esta fase en la Tabla 6.
 
 %\vspace{2ex}
 %\begingroup
@@ -508,10 +508,10 @@ El despliegue del modelo en producción es el paso en el que el modelo de IA se 
 
 \vspace{0.5cm}
 \subsection{Metodología para la medición de resultados}
-Diversas métricas se emplean para evaluar el desempeño de un modelo, sirviendo como herramientas de evaluación fundamentadas en los datos de la Matriz de Confusión. A continuación, se detalla su concepto y sus componentes.
+Diversas métricas se emplean para evaluar el desempeño de un modelo, en los datos de la Matriz de Confusión, sirviendo como herramientas de evaluación fundamentadas. A continuación, se describe su significado y sus componentes.
 
 \begin{itemize}
-\item \textbf{Matriz de confusión}: La Matriz de Confusión es una tabla de dimensiones NxN que sintetiza la precisión de las predicciones generadas por un modelo de clasificación. Esta matriz muestra la relación entre las etiquetas predichas por el modelo y las etiquetas reales de los datos. Uno de los ejes de la matriz representa las etiquetas predichas, mientras que el otro muestra las etiquetas reales, con N representando el número total de clases. En el contexto de un problema de clasificación binaria, N=2 \parencite{gl_kohavi1998ml_glossary}. Su objetivo principal es evaluar el rendimiento de un modelo de Machine Learning supervisado en datos de prueba, donde las etiquetas reales son desconocidas. El término <<matriz de confusión>> se origina porque ayuda a identificar dónde el sistema confunde entre dos clases (Big Data, 2019). Puedes encontrar una representación visual de la matriz de confusión en la Figura 45.
+\item \textbf{Matriz de confusión}: Tabla de dimensiones que sintetiza la precisión de predicciones generadas por un protitopo de categorización. La matriz muestra la relación entre las etiquetas predichas por el modelo y las etiquetas reales de los datos. Uno de los ejes de la matriz representa las etiquetas predichas, mientras que el otro muestra las etiquetas reales, con N representando el número total de clases. Su propósito primario es analizar la eficacia de un modelo de Aprendizaje Automático Supervisado en conjuntos de datos de prueba, donde las etiquetas reales son desconocidas. El término <<matriz de confusión>> se origina porque ayuda a identificar dónde el sistema confunde entre dos clases (Big Data, 2019). en la Figura 45, se puede encontrar una representación visual de la matriz de confusión .
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.75\textwidth]{3/figures/matriz_confusion.png}
@@ -530,7 +530,7 @@ Diversas métricas se emplean para evaluar el desempeño de un modelo, sirviendo
     Después de explicar los conceptos previos, se obtienen las siguientes métricas comúnmente utilizadas en clasificación, de las cuales se utilizarán solo las tres primeras según lo referenciado en los documentos anteriores:
 
     \begin{itemize}
-    \item \textbf{Exactitud}: se determina a partir de la fórmula que se mostrará \parencite{gl_kohavi1998ml_glossary} y cuantifica la precisión de las predicciones en relación con el conjunto total de ejemplos en un modelo de clasificación.
+    \item \textbf{Exactitud}: se determina a partir de la fórmula que se mostrará \parencite{gl_kohavi1998ml_glossary} y cuantifica la precisión de las predicciones en relación con el conjunto cantidad total de muestras en un modelo de categorización.
     	%\begin{equcaption}[!ht]
     \begin{equation}\label{eq:accuracy}
         \phantomsection
@@ -540,7 +540,7 @@ Diversas métricas se emplean para evaluar el desempeño de un modelo, sirviendo
         
         La pregunta que responde esta métrica es ¿Cuál es la proporción de predicciones correctas? 
         
-        \item \textbf{Precisión}: evalúa la proporción de elementos identificados correctamente como positivos entre todos los elementos identificados como positivos. Su cálculo se basa en la siguiente expresión.
+        \item \textbf{Precisión}: evalúa la fracción de elementos detectados adecuadamente como positivos entre todos los elementos identificados como positivos. Su cálculo se basa en la siguiente expresión.
         \begin{equation}\label{eq:precision}
             \phantomsection
             \text{Precisión}=\frac{V.P.}{V.P.+F.P.}
@@ -549,18 +549,18 @@ Diversas métricas se emplean para evaluar el desempeño de un modelo, sirviendo
         
         La pregunta que responde esta métrica es: ¿Cuál es la proporción de predicciones positivas que son precisas?
 
-	\item \textbf{Área bajo la curva ROC}: es una medida que abarca todos los posibles umbrales de clasificación, indicando la probabilidad de que un clasificador esté más confiado en identificar un verdadero positivo que un falso positivo \parencite{gl_google2018machinelearning}. Para comprender mejor esta métrica, es fundamental tener conocimiento previo sobre la curva ROC y su relevancia en evaluaciones de modelos.
+	\item \textbf{Área bajo la curva ROC}: abarca todos los posibles umbrales de clasificación, indicando la posibilidad de la cual un categorizador esté más confiado en identificar un verdadero positivo que un falso positivo \parencite{gl_google2018machinelearning}. Para comprender mejor esta métrica, es fundamental tener conocimiento previo sobre la curva ROC y su relevancia en evaluaciones de modelos.
 	
     La curva ROC es una herramienta que evalúa la capacidad de distinguir entre dos categorías en un modelo, como por ejemplo, determinar si un paciente tiene cáncer o no.
 
-Al ajustar el umbral hacia la izquierda, lo que aumenta la sensibilidad, la especificidad tiende a disminuir. Por otro lado, al mover el umbral hacia la derecha, disminuye la sensibilidad y aumenta la especificidad. Según \parencite{gl_gonzalez2019auc}, el área bajo la curva (AUC) refleja la sensibilidad en función de la especificidad.
+Al ajustar el umbral hacia la izquierda, lo que aumenta la sensibilidad, la especificidad tiende a disminuir. Por otro lado, al mover el umbral hacia la derecha, disminuye la sensibilidad y aumenta la especificidad. Según \parencite{gl_gonzalez2019auc}, el AUC refleja la sensibilidad en función de la especificidad.
 
-El rendimiento del modelo se refleja en el área bajo la curva, donde un rendimiento superior se evidencia en una curva que se distancia de la diagonal principal. Este cálculo se realiza utilizando la siguiente fórmula:
+El rendimiento del modelo se refleja en el área bajo la curva, donde un rendimiento superior se evidencia en una curva que se distancia de la diagonal principal. Este cálculo se realiza con la ecuación:
 
 \begin{equation}\label{eq
 }
 \phantomsection
-\mathrm{P}(\text{score}(x^{+}) > \text{score}(x^{-}))
+\mathbf{P}(\text{score}(x^{+}) > \text{score}(x^{-}))
 \end{equation}
 \myequations{Fórmula para el área bajo la curva ROC}
 En cuanto a la interpretación del AUC, se establece lo siguiente:

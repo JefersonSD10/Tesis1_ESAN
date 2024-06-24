@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber tesis"] 1719204489.72165 "tesis.bcf" "tesis.bbl" "tesis" 1719204707.95392 0
+["biber tesis"] 1719208100.13081 "tesis.bcf" "tesis.bbl" "tesis" 1719208466.38995 0
   "biblio/references.bib" 1719114736 24864 cebd23e0c7c698bd905c85c148bb3333 ""
-  "tesis.bcf" 1719204707 151890 f7412fab8561556958b11605b290b025 "pdflatex"
+  "tesis.bcf" 1719208465 152120 4fd38014f50127e2361975367b84afeb "pdflatex"
   (generated)
   "tesis.bbl"
   "tesis.blg"
   (rewritten before read)
-["pdflatex"] 1719204697.54608 "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN/tesis.tex" "tesis.pdf" "tesis" 1719204707.9549 0
+["pdflatex"] 1719208457.90613 "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN/tesis.tex" "tesis.pdf" "tesis" 1719208466.39096 0
   "0/agradecimientos.tex" 1717963981 159 2ed14b7dbd5457d22cea2d4cc1dd3c72 ""
   "0/aprobacion.tex" 0 -1 0 ""
   "0/introduccion.tex" 1719203174 3015 a38fa57b26d0f0fb4a03fc8ba978bd5f ""
@@ -16,7 +16,7 @@
   "1/figures/access-point-1.jpeg" 1717963981 129890 ac29611b23a0b5aa0a531a54f89dfe5f ""
   "1/planteamiento.tex" 1719204190 16634 b871725bff0d59e5f5d35e01162d4f6e ""
   "2/1_antecedentes/antecedentes.tex" 1719204281 25473 c7ef3066626d11686d34bbb3ad24e34d ""
-  "2/2_teoria/base_teo.tex" 1719204613 37162 d39d1121407262e0efa45ff75295eed8 ""
+  "2/2_teoria/base_teo.tex" 1719207327 37413 d3ff19c80d760fb0dd7848e779b5d85b ""
   "2/3_conceptos/marc_conceptual.tex" 1719202993 13682 2ae309d9cd299b791dacceb9a383f8a0 ""
   "2/figures/accesspoints.jpg" 1717963981 22691 87f4b612258b3bfbe218af0d755513b1 ""
   "2/figures/autocodificadoresvariacionales.png" 1717963981 334812 ab72533a0a4c40955e15084e1b704b05 ""
@@ -62,7 +62,7 @@
   "3/figures/pseudo_cobert.jpg" 1719105347 136933 70c021af8136f9e3d02fb59394ed2d15 ""
   "3/figures/pseudo_train.jpg" 1719105191 120264 5b4bbb10933daa0714757c55db6d53a6 ""
   "3/figures/pseudocodigo.jpg" 1719035367 138693 f758c184f7eee1f6fe8a4ba5ef03cbf3 ""
-  "3/metodologia.tex" 1719204696 39550 a10512f9e7271fd33d5f621abedfbfe5 ""
+  "3/metodologia.tex" 1719208456 39410 5eb37acfe90749421a4a8826995ab495 ""
   "4/desarrollo.tex" 1717963981 0 d41d8cd98f00b204e9800998ecf8427e ""
   "5/resultados.tex" 1717963982 0 d41d8cd98f00b204e9800998ecf8427e ""
   "6/conclusion.tex" 1717963982 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -265,15 +265,15 @@
   "anexos/arbol_problemas.png" 1717963982 115453 ac0e3af25604071af37eb84f2db9c66f ""
   "c:/Users/jefer/OneDrive/Escritorio/Tesis/Tesis1_ESAN/tesis.tex" 1719033782 13633 8cff9232982054dee229ca89d231bca9 ""
   "images_repo/esanlogomin.png" 1717963982 44054 5686aaa912c5c911c9912422804fbdf6 ""
-  "tesis.aux" 1719204707 92616 8a16514b12c3f4d6a57f06633e262506 "pdflatex"
-  "tesis.bbl" 1719204494 176211 cbdef4f08dc9ff5ecdf6b6c05183da4d "biber tesis"
-  "tesis.equ" 1719204707 631 042cad6bc2520b192811507ad692ba4d "pdflatex"
-  "tesis.lof" 1719204707 5919 818ff527c11a3c50089c2350d12d4f6a "pdflatex"
-  "tesis.lot" 1719204707 1017 b89e7e00b5c0ba623715357000bf3688 "pdflatex"
-  "tesis.out" 1719204707 14188 08521e15c9957b3373f58b60f9aad030 "pdflatex"
-  "tesis.run.xml" 1719204707 2407 abd49b23619a5865ba13eeb8aa920da5 "pdflatex"
+  "tesis.aux" 1719208465 92782 151e7c3da7af27aa14b9168660fec9db "pdflatex"
+  "tesis.bbl" 1719208104 176211 cbdef4f08dc9ff5ecdf6b6c05183da4d "biber tesis"
+  "tesis.equ" 1719208465 631 042cad6bc2520b192811507ad692ba4d "pdflatex"
+  "tesis.lof" 1719208465 5919 818ff527c11a3c50089c2350d12d4f6a "pdflatex"
+  "tesis.lot" 1719208465 1017 b89e7e00b5c0ba623715357000bf3688 "pdflatex"
+  "tesis.out" 1719208465 14188 08521e15c9957b3373f58b60f9aad030 "pdflatex"
+  "tesis.run.xml" 1719208465 2407 abd49b23619a5865ba13eeb8aa920da5 "pdflatex"
   "tesis.tex" 1719033782 13633 8cff9232982054dee229ca89d231bca9 ""
-  "tesis.toc" 1719204707 7358 9dc77f3034c008e7e13754246e55281f "pdflatex"
+  "tesis.toc" 1719208465 7358 9dc77f3034c008e7e13754246e55281f "pdflatex"
   (generated)
   "tesis.aux"
   "tesis.bcf"
