@@ -163,6 +163,7 @@
       \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
       \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
       \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -177,6 +178,41 @@
       \endverb
       \verb{url}
       \verb http://ling.snu.ac.kr/class/AI_Agent/deep_learning_for_nlp.pdf
+      \endverb
+    \endentry
+    \entry{tec_brownlee2018stacked_models}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Machine Learning Mastery}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stacking Ensemble for Deep Learning Neural Networks in Python}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
       \endverb
     \endentry
     \entry{pr_cai2023precisewifi}{article}{}
@@ -1259,49 +1295,6 @@
       \field{year}{2001}
       \field{pages}{46\bibrangedash 56}
       \range{pages}{11}
-    \endentry
-    \entry{pr_contreras2021modelwlan}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=2d2fb3aed7d4e6d446fde0fda406bbf9}{%
-           family={Martha\bibnamedelima Contreras},
-           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Juan\bibnamedelima Vesga},
-           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3c5c7ad588e7327948775785f31b64de}{%
-           family={Vesga},
-           familyi={V\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{fullhash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{bibnamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authorbibnamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authornamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authorfullhash}{a91cb95106e671c931c609f3d9b78a05}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Investigación e Innovación en Ingenierías}
-      \field{number}{1}
-      \field{title}{Modelo de optimización para la ubicación de Access Point en redes WLAN}
-      \field{volume}{9}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.17081/invinno.9.1.4203
-      \endverb
-      \verb{urlraw}
-      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
-      \endverb
-      \verb{url}
-      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
-      \endverb
     \endentry
     \entry{ot_napit2017ap}{misc}{}
       \name{author}{1}{}{%
@@ -2290,6 +2283,7 @@
       \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
       \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
       \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{extraname}{1}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
@@ -2304,6 +2298,41 @@
       \endverb
       \verb{url}
       \verb http://ling.snu.ac.kr/class/AI_Agent/deep_learning_for_nlp.pdf
+      \endverb
+    \endentry
+    \entry{tec_brownlee2018stacked_models}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=915af163e2107106fced5dd3164d9a8e}{%
+           family={Brownlee},
+           familyi={B\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Machine Learning Mastery}%
+      }
+      \strng{namehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{fullhash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{bibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorbibnamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authornamehash}{915af163e2107106fced5dd3164d9a8e}
+      \strng{authorfullhash}{915af163e2107106fced5dd3164d9a8e}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Stacking Ensemble for Deep Learning Neural Networks in Python}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
+      \endverb
+      \verb{url}
+      \verb https://machinelearningmastery.com/stacking-ensemble-for-deep-learning-neural-networks/
       \endverb
     \endentry
     \entry{pr_cai2023precisewifi}{article}{}
@@ -3386,49 +3415,6 @@
       \field{year}{2001}
       \field{pages}{46\bibrangedash 56}
       \range{pages}{11}
-    \endentry
-    \entry{pr_contreras2021modelwlan}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=2d2fb3aed7d4e6d446fde0fda406bbf9}{%
-           family={Martha\bibnamedelima Contreras},
-           familyi={M\bibinitperiod\bibinitdelim C\bibinitperiod},
-           given={Juan\bibnamedelima Vesga},
-           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3c5c7ad588e7327948775785f31b64de}{%
-           family={Vesga},
-           familyi={V\bibinitperiod},
-           given={José},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{fullhash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{bibnamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authorbibnamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authornamehash}{a91cb95106e671c931c609f3d9b78a05}
-      \strng{authorfullhash}{a91cb95106e671c931c609f3d9b78a05}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Investigación e Innovación en Ingenierías}
-      \field{number}{1}
-      \field{title}{Modelo de optimización para la ubicación de Access Point en redes WLAN}
-      \field{volume}{9}
-      \field{year}{2021}
-      \verb{doi}
-      \verb 10.17081/invinno.9.1.4203
-      \endverb
-      \verb{urlraw}
-      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
-      \endverb
-      \verb{url}
-      \verb https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/4203
-      \endverb
     \endentry
     \entry{ot_napit2017ap}{misc}{}
       \name{author}{1}{}{%

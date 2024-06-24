@@ -1,46 +1,26 @@
-\subsection{\citetitle{pr_contreras2021modelwlan}}
+\subsection{\citetitle{art_wu2019interior}}
 
-\cite{pr_contreras2021modelwlan} publicaron el modelo de optimización  \citetitle{pr_contreras2021modelwlan} para el departamento de Investigación e Innovación en Ingenierías de la Universidad Simón Bolívar.
+\cite{art_wu2019interior} publicaron el artículo  \citetitle{art_wu2019interior} para la <<Association for Computing Machinery>> en el 2019.
 
-Debido a su movilidad y bajo costo, la demanda de redes inalámbricas, particularmente WLAN, ha aumentado significativamente. Para que estas redes inalámbricas funcionen en hogares, oficinas y escuelas, los puntos de acceso (AP) son necesarios. La ubicación y densidad de los AP tienen un impacto en la cobertura y la calidad de la señal. Para mejorar la eficiencia y la cobertura de la red, este artículo propone un modelo de optimización para la ubicación de AP en interiores que utiliza el modelo de propagación Log-Normal Shadowing Path Loss.
+Se presenta una técnica novedosa para la generación automática de planos de planta para edificaciones residenciales mediante un enfoque basado en datos. Este método se inspira en el proceso de diseño humano y ha demostrado un rendimiento superior en comparación con los métodos existentes. La generación automatizada de planos de planta es fundamental en el diseño de interiores, y esta investigación ofrece una perspectiva innovadora para abordar este desafío.
 
-El desarrollo del modelo de optimización incluyó una serie de pasos importantes: se utilizó el modelo de propagación Log-Normal Shadowing Path Loss para estimar el radio de cobertura y la probabilidad de corte de la señal utilizando dimensiones del escenario, frecuencia y condiciones ambientales; se implementó un pseudocódigo para calcular el radio de cobertura y la probabilidad de corte de la señal para las bandas de 2,4 GHz y 5 GHz; y se diseñó una técnica específica para determinar la ubicación óptima de los AP dentro de una construcción, considerando la probabilidad de corte, la sensibilidad de recepción y otros parámetros técnicos.
-
-Los resultados del modelo sugerido demostraron una mejora significativa en la identificación de las áreas de cobertura y la probabilidad de corte. En particular, se descubrió que la banda de 2.4 GHz cubre un mayor área de cobertura en comparación con la banda de 5 GHz, pero también se observó que tiene una mayor probabilidad de interferencia. La técnica permitió el cálculo de los radios de cobertura apropiados y la mejora de la ubicación geográfica de los AP, lo que permitió maximizar la cobertura y reducir las zonas de silencio. Las tablas y los gráficos que muestran la relación entre la distancia y la potencia de la señal describieron los parámetros específicos para cada banda de frecuencia y tipo de entorno.
-
-El modelo de optimización para la ubicación de puntos de acceso en redes WLAN en ambientes interiores demostró ser efectivo para aumentar la cobertura y reducir la probabilidad de corte de señal como se ilustra en la Figura 3. Los algoritmos y metodologías creados ofrecen una herramienta útil para diseñar y desplegar redes WLAN de manera eficiente. Este modelo debería ser utilizado en futuras investigaciones y aplicaciones prácticas para mejorar la calidad y el rendimiento de las redes inalámbricas, especialmente en entornos con alta densidad de usuarios y dispositivos.
+La metodología propuesta en este estudio se basa en un enfoque de dos etapas para la generación de planos de planta. En la primera etapa, se localizan las habitaciones, mientras que en la segunda etapa se definen las paredes interiores. Para entrenar eficazmente las redes neuronales utilizadas en este proceso, se presenta un conjunto de datos a gran escala denominado RPLAN, que contiene más de 80,000 planos de planta de edificaciones residenciales reales con habitaciones y paredes etiquetadas. Esta metodología imita el proceso creativo de los artistas humanos y ha demostrado ser efectiva en la generación automatizada de planos de planta. Para un ejemplo más claro se puede observar la Figura 3.
 
 \begin{figure}[!ht]
 	\begin{center}
-		\includegraphics[width=0.80\textwidth]{2/figures/contreras2021.png}
-		\caption[Diagrama de cobertura y ubicación de AP]{Diagrama de cobertura y ubicación de AP.\\
-			Fuente: \cite{pr_contreras2021modelwlan}. \citetitle{pr_contreras2021modelwlan}. (p. 14)}
+		\includegraphics[width=1\textwidth]{2/figures/wu2019.jpg}
+		\caption[Un modelo de predicción iterativo para predecir la ubicación de las habitaciones]{Un modelo de predicción iterativo para predecir la ubicación de las habitaciones.\\
+			Fuente: \cite{art_wu2019interior}. \citetitle{art_wu2019interior}. (p. 4)}
 		\label{2:fig111}
 	\end{center}
 \end{figure}
 
-\subsection{\citetitle{pr_alathari2023optaps}}
-Según el acta de la conferencia "TInternational Conference on Computational Science and Technology", que se llevó a cabo en 2022, \cite{pr_alathari2023optaps} publicaron el artículo conocido como \citetitle{pr_alathari2023optaps}, <<Optimización de la ubicación de puntos de acceso en comunicaciones interiores>> en español.
-
-El estudio presenta un modelo de optimización para la ubicación de puntos de acceso (AP) en redes inalámbricas. Utilizando técnicas sofisticadas de algoritmos genéticos y simulaciones de Monte Carlo, el objetivo principal es maximizar la cobertura y minimizar la interferencia. La necesidad creciente de mejorar la eficiencia de las redes inalámbricas en entornos de alta densidad es el tema de esta investigación.
-
-La técnica utilizada consta de numerosos pasos cruciales. Primero, se recopilan datos sobre la distribución del espacio y la cobertura. Después, se utiliza un algoritmo genético para crear las ubicaciones iniciales potenciales de AP. Se utilizan simulaciones de Monte Carlo para evaluar la efectividad de estas ubicaciones en términos de cobertura y minimización de interferencia. Se siguen estos pasos hasta llegar a la configuración de AP ideal.
-
-Comparado con las técnicas convencionales, los resultados muestran una mejora significativa en la cobertura de la red y una reducción en la interferencia que se puede observar en la Figura 4. Se logró aumentar la cobertura en un 25 \% y disminuir la interferencia en un 15 \%. Estos hallazgos se comprobaron en un entorno simulado que emulaba las condiciones de una red inalámbrica de alta densidad real.
-
-\begin{figure}[!ht]
-	\begin{center}
-		\includegraphics[width=0.75\textwidth]{2/figures/alathari2023.png}
-		\caption[Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.]{Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.\\
-		Fuente: \cite{pr_alathari2023optaps}. \citetitle{pr_alathari2023optaps}. (p. 11)}
-		\label{2:fig112}
-	\end{center}
-\end{figure}
+En cuanto al rendimiento, el modelo de regresión muestra un buen desempeño con un error promedio de 0.82 metros en el conjunto de validación, mientras que la red de continuación alcanza alrededor del 99\% de precisión en la validación. En la tarea de clasificación de píxeles, se enfrentan problemas de desequilibrio de clases, los cuales se solucionan mediante el uso de una pérdida cruzada ponderada. En cuanto a la generación de un plano vectorizado, el proceso toma aproximadamente cuatro segundos a partir de los límites del edificio como entrada.
 
 \subsection{\citetitle{pr_ketkhaw2019deepl}}
 \cite{pr_ketkhaw2019deepl}  publicaron la investigación \citetitle{pr_ketkhaw2019deepl}, en español "Predicción de la ubicación de puntos de acceso no autorizados basada en redes neuronales profundas", se publicó en el journal tailandés <<Journal of Mobile Multimedia>> en 2022.
 
-El objetivo del estudio es desarrollar un método llamado LPRAP que utiliza redes neuronales profundas para predecir la ubicación de puntos de acceso no autorizados en redes inalámbricas locales. La detección y localización precisa de estos RAPs es esencial para garantizar la seguridad de las redes y proteger la información confidencial de posibles amenazas.
+El objetivo del estudio es desarrollar un método llamado LPRAP que utiliza redes neuronales profundas para predecir la ubicación de puntos de acceso no autorizados en redes inalámbricas locales. La detección y localización precisa de estos RAPs es esencial para garantizar la seguridad de las redes y proteger la información confidencial de posibles amenazas. El artículo no especifica el uso de una base de datos concreta. No obstante, detalla el procedimiento de preparación del conjunto de datos empleado para entrenar y evaluar su esquema de predicción de la ubicación de puntos de acceso no autorizados (RAP). Este procedimiento incluye la recopilación de indicadores de intensidad de señal recibida (RSSI) en distintas áreas de una red experimental. La recopilación de datos se lleva a cabo mediante la medición de la RSSI en diversas subáreas dentro de una red configurada, capturando un total de 900,000 marcos de balizas para los procesos de entrenamiento y prueba.
 
 Los dos mecanismos principales del proceso LPRAP son la detección de RAPs y la predicción de su ubicación. Para determinar la intensidad de la señal recibida (RSSI) en cada subárea, se recopila un conjunto de marcos de balizas en la detección de RAP. Posteriormente, se clasifica la ubicación de los RAPs utilizando un espacio de características de 81 dimensiones. En cuanto a la predicción de ubicación, se utiliza la precisión de la predicción de ubicación para evaluar el rendimiento del esquema propuesto comparándolo con otros algoritmos de aprendizaje automático como SVM, KNN, Naive Bayes y MLP.
 
@@ -56,9 +36,9 @@ Los resultados del experimento muestran que LPRAP supera a todos los demás algo
 \end{figure}
 
 \subsection{\citetitle{pr_nauata2021housegan}}
-\cite{pr_nauata2021housegan} ,en la conferencia "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)", que tuvo lugar en Nashville, Tennessee, Estados Unidos en el año 2021, publicaron un artículo titulado \citetitle{pr_nauata2021housegan}, en español se traduce como "House-GAN++: Generative Adversarial Layout Refinement Network hacia un agente computacional inteligente para arquitectos profesionales".
+\cite{pr_nauata2021housegan} ,en la conferencia <<2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)>>, que tuvo lugar en Nashville, Tennessee, Estados Unidos en el año 2021, publicaron un artículo titulado \citetitle{pr_nauata2021housegan}, en español se traduce como "House-GAN++: Generative Adversarial Layout Refinement Network hacia un agente computacional inteligente para arquitectos profesionales".
 
-Para la generación automatizada de planos de planta, se sugiere una red generativa rival de refinamiento de diseño de planos de planta (House-GAN++). El sistema recibe un diagrama de burbujas que muestra las conexiones funcionales entre las habitaciones y, como salida, crea un plano de planta realista.
+Para la generaci\'on automatizada de planos de planta, se sugiere una red generativa rival de refinamiento de dise\~no de planos de planta (House-GAN++). El sistema recibe un diagrama de burbujas que muestra las conexiones funcionales entre las habitaciones y, como salida, crea un plano de planta realista. El art\'iculo utiliza la base de datos RPLAN. Esta base de datos contiene 60,000 planos de casas en formato vectorial dise\~nados por arquitectos profesionales.
 
 Como se muestra en la Figura 7, la arquitectura sugerida integra una GAN relacional con restricciones de grafo y una GAN condicional. El generador itera el diseño antes de convertirlo en la siguiente restricción de entrada. Cada componente recibe una máscara de segmentación de la verdad fundamental con una probabilidad aleatoria durante el entrenamiento (condicionamiento GT por componente).
 
@@ -85,7 +65,7 @@ El sistema sugerido supera ampliamente los enfoques del estado del arte actuales
 \subsection{\citetitle{pr_cai2023precisewifi}}
 \cite{pr_cai2023precisewifi} publicaron un artículo que se llamaba \citetitle{pr_cai2023precisewifi}, el término se traduce al español como "Posicionamiento WiFi preciso en el interior mediante algoritmos de aprendizaje profundo" para la revista científica <<ArXiv:2307.02011v>> publicada en 2023.
 
-Este artículo presenta una nueva estrategia para el posicionamiento en interiores que emplea tecnología WiFi. Para mejorar la precisión del posicionamiento en comparación con el enfoque tradicional basado únicamente en RSSI, se recomienda utilizar una combinación de mediciones de la Intensidad de la Señal Recibida (RSSI) y el Ángulo de Llegada (AoA).
+Este artículo presenta una nueva estrategia para el posicionamiento en interiores que emplea tecnología WiFi. Para mejorar la precisión del posicionamiento en comparación con el enfoque tradicional basado únicamente en RSSI, se recomienda utilizar una combinación de mediciones de la Intensidad de la Señal Recibida (RSSI) y el Ángulo de Llegada (AoA). En lugar de utilizar una base de datos predefinida, los autores realizaron sus propios experimentos en tres entornos interiores diferentes: un aula grande, un pasillo y un aula pequeña. Los datos para el estudio fueron recolectados directamente en estos entornos utilizando equipos WiFi y otros dispositivos de medición. El artículo se enfoca en la recolección de datos de Received Signal Strength Indicator (RSSI) y Angle of Arrival (AoA) en estos entornos para realizar el posicionamiento en interiores.
 
 La metodología se compone de tres pasos principales: 1) Usando puntos de referencia, crear modelos de posicionamiento basados en RSSI y el método híbrido RSSI-AoA; 2) Entrenar los modelos utilizando varios algoritmos de aprendizaje profundo, como BPNN, RBF y CNN; 3) Probar el rendimiento de los modelos y calcular los errores en tres entornos de prueba diferentes: un salón de clases grande, un salón de clases pequeño y un salón de clases pasillo.
 
@@ -101,9 +81,9 @@ Independientemente del algoritmo de aprendizaje profundo utilizado y del entorno
 \end{figure}
 
 \subsection{\citetitle{pr_hosseini2023NSGAIIap}}
-En el año 2023, la revista "Automation in Construction" publicó \cite{pr_hosseini2023NSGAIIap} publicaron el artículo conocido como \citetitle{pr_hosseini2023NSGAIIap}, "Ubicación óptima de puntos de acceso Wi-Fi basada en NSGA-II para posicionamiento interior: una predicción RSS basada en BIM", según su traducción al español.
+En el año 2023, la revista <<Automation in Construction>> publicó \cite{pr_hosseini2023NSGAIIap} publicaron el artículo conocido como \citetitle{pr_hosseini2023NSGAIIap}, "Ubicación óptima de puntos de acceso Wi-Fi basada en NSGA-II para posicionamiento interior: una predicción RSS basada en BIM", según su traducción al español.
 
-Este artículo presenta un método para optimizar la colocación de puntos de acceso Wi-Fi (AP) en interiores utilizando un modelo de propagación de señal calibrado y un algoritmo genético multiobjetivo (NSGA-II).
+Este artículo presenta un método para optimizar la colocación de puntos de acceso Wi-Fi (AP) en interiores utilizando un modelo de propagación de señal calibrado y un algoritmo genético multiobjetivo (NSGA-II), el cual codifica las posiciones de los APs en cromosomas binarios y aplica operadores genéticos para encontrar un conjunto de soluciones óptimas que minimizan el número de APs y maximizan la calidad del fingerprinting, considerando las restricciones del modelo BIM. El artículo no menciona la utilización de una base de datos externa. Los datos empleados parecen ser resultado de mediciones de campo realizadas por los autores dentro del edificio modelado en BIM.
 
 La técnica consta de varias etapas: 1) Voxelización del modelo BIM del edificio, 2) Muestreo de intensidad de señal recibida (RSS) en puntos de control y verificación, 3) Calibrar el modelo de propagación de señal mediante el método de cuadrados mínimos, 4) Creación de huellas digitales virtuales 3D y 5) Uso de NSGA-II para optimizar la ubicación de los AP Wi-Fi. 
 
@@ -121,7 +101,7 @@ Los resultados demuestran que el método sugerido puede reducir significativamen
 \subsection{\citetitle{pr_lee2015coverage3d}}
 En noviembre del 2015, en la publicación "Computers, Environment and Urban Systems", \cite{pr_lee2015coverage3d} publicaron un artículo que se llamaba \citetitle{pr_lee2015coverage3d}, "Modelización 3D de la ubicación de puntos de acceso Wi-Fi en interiores" en español.
 
-Este documento presenta un modelo de optimización para la ubicación de puntos de acceso (AP) Wi-Fi en un entorno interior de múltiples pisos con el objetivo de maximizar la cobertura de la señal. El modelo utiliza el modelo de sombra log-normal para considerar la atenuación de la señal en tres dimensiones. Esto permite una representación más precisa de la cobertura de la señal en comparación con los métodos tradicionales en dos dimensiones.
+El artículo no menciona específicamente el uso de una base de datos. En cambio, se centra en desarrollar un modelo de optimización para la ubicación de puntos de acceso Wi-Fi en un edificio de varios pisos. El caso de estudio se realizó en el edificio de Ciencias Sociales de la Universidad Nacional de Seúl, donde se definieron 335 nodos de demanda y 1418 posibles ubicaciones para los puntos de acceso Wi-Fi. Este documento presenta un modelo de optimización para la ubicación de puntos de acceso (AP) Wi-Fi en un entorno interior de múltiples pisos con el objetivo de maximizar la cobertura de la señal. El modelo utiliza el modelo de sombra log-normal para considerar la atenuación de la señal en tres dimensiones. Esto permite una representación más precisa de la cobertura de la señal en comparación con los métodos tradicionales en dos dimensiones.
 
 El artículo aborda los siguientes puntos importantes: Para estimar la atenuación de la señal en 3D, se define un modelo de propagación de señal log-normal en sombra. El problema de ubicación de AP se identificó como un problema de cobertura de señal máxima (MSCLP), Resolver el MSCLP utilizando un algoritmo de optimización para encontrar las ubicaciones de AP ideales, y finalmente, utilizando esferas que representan la fuerza de la señal en los puntos de demanda para visualizar la cobertura 3D resultante.
 
@@ -157,7 +137,7 @@ La investigación reveló que la planificación del diseño espacial del algorit
 \subsection{\citetitle{pr_chang2021buildinggan}}
 En abril del 2021, en la revista científica "arXiv", \cite{pr_chang2021buildinggan} publicaron el artículo conocido como \citetitle{pr_chang2021buildinggan}, el título "Building-GAN: generación de diseños arquitectónicos volumétricos condicionados por grafos" se traduce al español.
 
-Para mejorar la eficiencia en el diseño volumétrico de edificios en la industria de la arquitectura y la construcción, este artículo presenta un enfoque innovador llamado Building-GAN. Para visualizar los diseños arquitectónicos, se introduce un grafo de voxels tridimensional, así como un generador que incorpora un módulo de punteros cruzados para conectar el grafo de programas y el grafo de voxels.
+Se emplearon dos conjuntos de datos principales: uno propio de 157 planos de TOKI multiplicados espacialmente, y el conjunto de datos LIFULL HOMES utilizado por el algoritmo HouseGAN de fuente abierta. Para mejorar la eficiencia en el diseño volumétrico de edificios en la industria de la arquitectura y la construcción, este artículo presenta un enfoque innovador llamado Building-GAN. Para visualizar los diseños arquitectónicos, se introduce un grafo de voxels tridimensional, así como un generador que incorpora un módulo de punteros cruzados para conectar el grafo de programas y el grafo de voxels.
 
 El artículo detalla los pasos que se deben seguir para crear el modelo Building-GAN. Comienza con la recopilación de datos, que produce un conjunto de datos sintéticos que incluye 120,000 diseños volumétricos de edificios comerciales. Luego se implementa un Grafo Neural Generativo (GNN) de voxels y se crea un grafo de programas jerárquico. Un módulo cruzado basado en punteros también se agrega para conectar los grafos de programas y los voxels.
 

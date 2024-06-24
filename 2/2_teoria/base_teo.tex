@@ -100,7 +100,23 @@ Como se muestra en la Figura 19, el fundamento del aprendizaje profundo multimod
 	\end{center}
 \end{figure}
 
+Las señales de diferentes modalidades aportan información complementaria sobre diversos aspectos de un objeto, evento o actividad, lo que permite a los modelos multimodales hacer inferencias más robustas. Entre las técnicas multimodales existentes se encuentran la fusión temprana y tardía, la integración de modelos, el ensamblado de modelos y las redes neuronales profundas. Cuando estas características se combinan para tomar decisiones, se utilizan enfoques aditivos, los cuales recopilan información útil y mejoran la precisión de las predicciones de manera colectiva. \parencite{bk_deng2018deeplearningnlp}
+
 \cite{tec_baheti2020introduction_mdl} afirman que el uso de modelos multimodales mejora el rendimiento de las redes neuronales y permite una extracción más efectiva de características, lo que favorece predicciones mayores. Uno de las ventajas es que los datos de diferentes fuentes ofrecen información complementaria que revela patrones ocultos que no se pueden ver cuando las modalidades se analizan individualmente, mejorando así la precisión de las predicciones.
+
+Según \cite{tec_brownlee2018stacked_models}, se puede mejorar la calidad del promedio del modelo al considerar de manera ponderada las contribuciones de cada submodelo a la predicción combinada. Este enfoque se conoce como "generalización apilada" y se divide en dos niveles.
+
+\begin{itemize}
+    \item Nivel 0: Este nivel utiliza los datos de entrada del conjunto de entrenamiento para enseñar a los modelos a hacer predicciones.
+    \item Nivel 1: Aquí, los datos provienen de las salidas de los modelos del nivel anterior, que se utilizan como entradas para enseñar a los modelos de este nivel, también conocidos como meta-aprendices o generalizadores.
+\end{itemize}
+
+Dentro de los modelos ensamblados apilados, se emplean dos enfoques distintos:
+
+\begin{itemize}
+    \item Modelo apilado separado: Consiste en generar un conjunto de datos de entrada a partir de las predicciones combinadas de otros modelos, los cuales se utilizan para entrenar un nuevo modelo y realizar la predicción final.
+    \item Modelo apilado integrado: Este enfoque permite el uso de redes neuronales y un modelo multicéfalo compuesto por otros modelos preentrenados. Estos modelos no necesitan mantener la misma estructura, ya que sus capas se designan como "no entrenables" para evitar la actualización de sus pesos antes de generar predicciones. Los resultados de los submodelos se incorporan directamente en el generalizador.
+\end{itemize}
 
 \begin{figure}[!ht]
 	\begin{center}
@@ -144,11 +160,9 @@ A continuación, ofrecemos una variedad de categorías de modelos de inteligenci
 \end{itemize}
 
 
-\subsection{Modelos de Predicción}
+\subsection{Modelos de Predicción y Análisis de Datos Espaciales}
 
 Los modelos estadísticos se utilizan para prever comportamientos futuros mediante la recopilación de datos actuales e históricos, la creación de modelos estadísticos, la realización de predicciones y la validación continua a medida que se recopilan más datos. Estos modelos predictivos identifican patrones ocultos y usan los sucesos anteriores con el fin de calcular las diversas opciones de si el individuo presente algún cambio tiempo después. \parencite{gl_gartner2019pm}
-
-\subsection{Análisis de Datos Espaciales}
 
 El análisis espacial es una colección de técnicas y modelos que utilizan explícitamente referencias espaciales para cada valor de datos u objeto especificado en el sistema en estudio. Los métodos de análisis espacial necesitan hacer suposiciones o basarse en datos para describir las relaciones espaciales o interacciones espaciales entre casos. Los resultados de cualquier análisis espacial no son iguales cuando se reordenan la distribución espacial de valores o se reconfigura la estructura espacial del sistema. \parencite{bk_haining2003spdat}
 
@@ -194,20 +208,9 @@ Los métodos utilizados para el análisis espacial son:
 	\end{figure}
 \end{itemize}
 	
-\subsection{Procesamiento del Lenguaje Natural}
-El procesamiento del lenguaje natural (PLN) es una rama de la ciencia de la computación, la lingüística computacional, la ciencia cognitiva e la inteligencia artificial, y es un campo interdisciplinario. El objetivo es que las computadoras aprendan a hablar el lenguaje humano para que puedan realizar tareas útiles y comunicarse con las personas. \parencite{bk_deng2018deeplearningnlp}
+\subsection{Redes Neuronales Recurrentes y Redes Neuronales Convolucionales}
 
-En su libro, los autores \citeauthor{bk_deng2018deeplearningnlp} dividen el aprendizaje profundo, el racionalismo y el empiricismo en tres corrientes históricas.
-
-\begin{itemize}
-	\item \textbf{Racionalismo}: se basa en la teoría de la naturaleza del la comunicación humana, desarrollada en las décadas de 1960 y 1980. Se basa en el conocimiento inherente, transmitido genéticamente y presente desde el nacimiento. La primera utilización de esta táctica se remonta a los años 50, cuando Alan Turing realizó experimentos para la simulación de diálogos en lenguaje natural entre un humano y una computadora con el fin de obtener parecidas respuestas a las de un ser humano y evaluar así sus capacidades. Durante las décadas de 1970 y 1980, los sistemas de comprensión del lenguaje que se empleo se dieron a cabo en grupos de medidas creados mediante la experiencia.
-	
-	\item \textbf{Empirismo}: se distingue por utilizar el Aprendizaje Automático y utilizar grandes corpus de texto. Esta perspectiva sostiene que el cerebro humano funciona mediante asociaciones, reconocimiento de patrones y generalizaciones. 
-	
-	\item \textbf{Aprendizaje Profundo}: resuelve las inquietudes que tiene el lenguaje natural y el Aprendizaje Automático usual no sabe aún resolver, particularmente cuando se trata de grandes cantidades de datos. Debido a su capacidad para personalizar su arquitectura a través de múltiples capas e hiperparámetros, que permite un entrenamiento extenso, las redes neuronales artificiales son las más utilizadas. Sin embargo, a pesar de sus ventajas, tienen limitaciones, como la alta necesidad de capacidad computacional, la falta de precisión para obtener resultados estadísticos sobresalientes y la dificultad para comprender relaciones interoracionales.
-\end{itemize}
-
-Los modelos mencionados anteriormente incluyen las Redes Neuronales Convolucionales (CNN) y las Redes Neuronales Recurrentes (RNN), que son algunas de las técnicas de aprendizaje profundo que se utilizan actualmente para resolver problemas de lenguaje natural. A continuación se describen algunos de los más comunes, junto con las principales características y diferencias de los ejemplos ya mencionados.
+Las Redes Neuronales Convolucionales (CNN) y las Redes Neuronales Recurrentes (RNN) son algunas de las técnicas de aprendizaje profundo que se utilizan actualmente para resolver problemas de lenguaje natural. A continuación se describen algunos de los más comunes, junto con las principales características y diferencias de los ejemplos ya mencionados.
 
 \begin{itemize}
 	\item \textbf{Redes Neuronales Convolucionales}: Hoy en día, el procesamiento de imágenes, que incluye problemas de clasificación y visión por computadora, es una de sus aplicaciones más relevantes. El proyecto de Yann LeCun, ImageNet, utiliza el reconocimiento de objetos en imágenes.
@@ -228,8 +231,23 @@ Los modelos mencionados anteriormente incluyen las Redes Neuronales Convoluciona
 
  	La ID genérica es la creación de los vectores de los códigos Mots para la matriz de entidad genérica, que es la misma que los unidimensionales para los mapas de características genéricos de la siguiente entrada. Para generar vectores nuevos y consistentes después de cada resultado, se reagrupan según la función de los criterios utilizados (por ejemplo, máximo, mínimo, mes, etc.) y luego se vinculan al valor.
 
-	\item \textbf{Redes Neuronales Recurrentes}: son muy utilizadas porque los datos son secuencias. En la comunicación del ser humano, se sabe que los fonemas son secuencias de palabras, se puede usar un elemento dependiente para predecir la palabra que sigue de una oración. \parencite{bk_rao2019nlp_pytorch}
-	
+	\item \textbf{Redes Neuronales Recurrentes}: son muy utilizadas porque los datos son secuencias. En la comunicación del ser humano, se sabe que los fonemas son secuencias de palabras, se puede usar un elemento dependiente para predecir la palabra que sigue de una oración. En la siguiente figura se puede ejemplificar una RNN. \parencite{bk_rao2019nlp_pytorch}
+	\begin{figure}[!ht]
+		\begin{center}
+			\includegraphics[width=0.95\textwidth]{2/figures/rnn.png}
+			\caption[Modelo RNN]{Modelo RNN.\\
+			Fuente: \cite{bk_rao2019nlp_pytorch}. \citetitle{bk_rao2019nlp_pytorch}. (p. 1747)}
+			\label{2:fig41}
+		\end{center}
+	\end{figure}
+
+	Para representar un estado determinado en una RNN se debe usar la siguiente fórmula:
+
+	\begin{equation}\label{eq:RNN}
+		s_i = \text{RSRNN}(x_i, s_{i-1}) = g(W[s_{i-1}; x_i] + b)
+	\end{equation}
+	\myequations{Fórmula para hallar el estado de una RNN}
+
 	\item \textbf{Modelo Secuencia a Secuencia}: una técnica común en la traducción es la generación de lenguaje natural (NLG), basado en dos capas LSTM. De esto, 1° capa transforma la oración inicial para un "vector de pensamiento", mientras que en 2° capa decodifica la respuesta, como se se observa la Figura \ref{2:fig46}. \parencite{bk_deng2018deeplearningnlp}.
 	
 	\begin{figure}[!ht]

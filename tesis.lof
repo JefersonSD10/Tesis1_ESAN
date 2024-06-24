@@ -1,47 +1,47 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces Quejas de Clientes en el foro de Cisco}}{5}{figure.caption.9}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Problemas de uso de Access Points}}{6}{figure.caption.10}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Diagrama de cobertura y ubicación de AP}}{12}{figure.caption.11}%
-\contentsline {figure}{\numberline {4}{\ignorespaces Un mapa de calor que describe la intensidad de la señal recibida antes y después. a Área de cobertura de la señal para los puntos de acceso de la izquierda, b Área de cobertura de la señal para los puntos de acceso de la derecha, c Área de cobertura de la señal para los puntos de acceso de la izquierda, d Área de cobertura de la señal para los puntos de acceso de la derecha.}}{13}{figure.caption.12}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Precisión de la predicción en función del número de subzonas para la predicción de la ubicación de 1 a 4 RAP.}}{15}{figure.caption.13}%
-\contentsline {figure}{\numberline {6}{\ignorespaces La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.}}{16}{figure.caption.14}%
-\contentsline {figure}{\numberline {7}{\ignorespaces Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada}}{17}{figure.caption.15}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Los MAE del modelo híbrido de posicionamiento}}{18}{figure.caption.16}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Los resultados de la evaluación de la convergencia del NSGA-II}}{19}{figure.caption.17}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Colocación óptima de AP capacitados con demandas ponderadas (p = 117)}}{20}{figure.caption.18}%
-\contentsline {figure}{\numberline {11}{\ignorespaces HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores}}{22}{figure.caption.19}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN}}{23}{figure.caption.20}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)}}{24}{figure.caption.21}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Estructura de HHO}}{25}{figure.caption.22}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Comparaciones entre los métodos}}{26}{figure.caption.23}%
-\contentsline {figure}{\numberline {16}{\ignorespaces El algoritmo de K medias}}{29}{figure.caption.24}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Características del Aprendizaje por Refuerzo}}{30}{figure.caption.25}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Relación entre IA, ML y DL}}{31}{figure.caption.26}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Modelo de aprendizaje profundo}}{32}{figure.caption.27}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Modelo que combina imágenes y texto}}{32}{figure.caption.28}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Un modelo multimodal para las señales de la vista}}{33}{figure.caption.29}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Modelos de difusión}}{34}{figure.caption.30}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.31}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{36}{figure.caption.32}%
-\contentsline {figure}{\numberline {25}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{37}{figure.caption.33}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Regresión Logística}}{38}{figure.caption.34}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.35}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Quejas de Clientes en el foro de Cisco}}{6}{figure.caption.9}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Problemas de uso de Access Points}}{7}{figure.caption.10}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Un modelo de predicción iterativo para predecir la ubicación de las habitaciones}}{12}{figure.caption.11}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Precisión de la predicción en función del número de subzonas para la predicción de la ubicación de 1 a 4 RAP.}}{14}{figure.caption.12}%
+\contentsline {figure}{\numberline {5}{\ignorespaces La arquitectura se basa en un GAN relacional. Se puede especificar una máscara de segmentación 2D adicional para cada habitación/puerta como condición de entrada, lo que permite un refinamiento iterativo del diseño.}}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Evaluación del realismo. Se muestra un diseño generado para cada diagrama de burbujas de entrada}}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Los MAE del modelo híbrido de posicionamiento}}{17}{figure.caption.15}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Los resultados de la evaluación de la convergencia del NSGA-II}}{19}{figure.caption.16}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Colocación óptima de AP capacitados con demandas ponderadas (p = 117)}}{20}{figure.caption.17}%
+\contentsline {figure}{\numberline {10}{\ignorespaces HouseGAN con LIFULL HOMES Datasets, imágenes generadas por los autores}}{22}{figure.caption.18}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Para cada gráfico de programa, se generan diseños volumétricos mediante nuestro modelo y mediante House-GAN}}{23}{figure.caption.19}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Comparación de nuestros planos de casas en 3D generados con sus contrapartes reales (hechas por humanos)}}{24}{figure.caption.20}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Estructura de HHO}}{25}{figure.caption.21}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Comparaciones entre los métodos}}{26}{figure.caption.22}%
+\contentsline {figure}{\numberline {15}{\ignorespaces El algoritmo de K medias}}{29}{figure.caption.23}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Características del Aprendizaje por Refuerzo}}{30}{figure.caption.24}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Relación entre IA, ML y DL}}{31}{figure.caption.25}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Modelo de aprendizaje profundo}}{32}{figure.caption.26}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Modelo que combina imágenes y texto}}{32}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Un modelo multimodal para las señales de la vista}}{34}{figure.caption.28}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Modelos de difusión}}{35}{figure.caption.29}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.30}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{37}{figure.caption.31}%
+\contentsline {figure}{\numberline {24}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{38}{figure.caption.32}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Regresión Logística}}{39}{figure.caption.33}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.34}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Modelo RNN}}{40}{figure.caption.35}%
 \contentsline {figure}{\numberline {28}{\ignorespaces Modelo Seq2seq}}{40}{figure.caption.36}%
 \contentsline {figure}{\numberline {29}{\ignorespaces Red Generativa Antagónica de Imágenes}}{41}{figure.caption.37}%
 \contentsline {figure}{\numberline {30}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.38}%
 \contentsline {figure}{\numberline {31}{\ignorespaces Imágenes de Ruido Gaussiano}}{42}{figure.caption.39}%
 \contentsline {figure}{\numberline {32}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{44}{figure.caption.40}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{46}{figure.caption.41}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Access Points}}{49}{figure.caption.42}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Funcionamiento de un AP}}{50}{figure.caption.43}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Plano interior}}{53}{figure.caption.44}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Metodología de la Investigación}}{55}{figure.caption.45}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Representación de las imágenes de los planos interiores}}{59}{figure.caption.46}%
-\contentsline {figure}{\numberline {39}{\ignorespaces CNN para el análisis y extracción de rasgos característicos}}{61}{figure.caption.47}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Generador del GAN}}{62}{figure.caption.48}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Discriminador del GAN}}{63}{figure.caption.49}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Pseudocódigo para la implementación}}{64}{figure.caption.50}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Pseudocódigo para el Entrenamiento Supervisado}}{66}{figure.caption.51}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Pseudocódigo para la Optimización de Cobertura}}{67}{figure.caption.52}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Matriz de Confusión}}{71}{figure.caption.53}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Cronograma de actividades}}{75}{figure.caption.59}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{47}{figure.caption.41}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Access Points}}{50}{figure.caption.42}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Funcionamiento de un AP}}{51}{figure.caption.43}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Plano interior}}{54}{figure.caption.44}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Método de Investigación}}{56}{figure.caption.45}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Representación de las imágenes de los planos interiores}}{60}{figure.caption.46}%
+\contentsline {figure}{\numberline {39}{\ignorespaces CNN para el análisis y extracción de rasgos característicos}}{62}{figure.caption.47}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Generador del GAN}}{63}{figure.caption.48}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Discriminador del GAN}}{64}{figure.caption.49}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Pseudocódigo para la implementación}}{65}{figure.caption.50}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Pseudocódigo para el Entrenamiento Supervisado}}{67}{figure.caption.51}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Pseudocódigo para la Optimización de Cobertura}}{68}{figure.caption.52}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Matriz de Confusión}}{72}{figure.caption.53}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Cronograma de actividades}}{76}{figure.caption.59}%
