@@ -14,34 +14,33 @@
 \contentsline {figure}{\numberline {13}{\ignorespaces Estructura de HHO}}{25}{figure.caption.21}%
 \contentsline {figure}{\numberline {14}{\ignorespaces Comparaciones entre los métodos}}{26}{figure.caption.22}%
 \contentsline {figure}{\numberline {15}{\ignorespaces El algoritmo de K medias}}{29}{figure.caption.23}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Características del Aprendizaje por Refuerzo}}{30}{figure.caption.24}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Relación entre IA, ML y DL}}{31}{figure.caption.25}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Modelo de aprendizaje profundo}}{32}{figure.caption.26}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Modelo que combina imágenes y texto}}{32}{figure.caption.27}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Un modelo multimodal para las señales de la vista}}{34}{figure.caption.28}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Modelos de difusión}}{35}{figure.caption.29}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.30}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{37}{figure.caption.31}%
-\contentsline {figure}{\numberline {24}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{38}{figure.caption.32}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Regresión Logística}}{39}{figure.caption.33}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.34}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Modelo RNN}}{40}{figure.caption.35}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Modelo Seq2seq}}{40}{figure.caption.36}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Red Generativa Antagónica de Imágenes}}{41}{figure.caption.37}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.38}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Imágenes de Ruido Gaussiano}}{42}{figure.caption.39}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{44}{figure.caption.40}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{47}{figure.caption.41}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Access Points}}{50}{figure.caption.42}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Funcionamiento de un AP}}{51}{figure.caption.43}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Plano interior}}{54}{figure.caption.44}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Método de Investigación}}{56}{figure.caption.45}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Representación de las imágenes de los planos interiores}}{60}{figure.caption.46}%
-\contentsline {figure}{\numberline {39}{\ignorespaces CNN para el análisis y extracción de rasgos característicos}}{62}{figure.caption.47}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Generador del GAN}}{63}{figure.caption.48}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Discriminador del GAN}}{64}{figure.caption.49}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Pseudocódigo para la implementación}}{65}{figure.caption.50}%
-\contentsline {figure}{\numberline {43}{\ignorespaces Pseudocódigo para el Entrenamiento Supervisado}}{67}{figure.caption.51}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Pseudocódigo para la Optimización de Cobertura}}{68}{figure.caption.52}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Matriz de Confusión}}{72}{figure.caption.53}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Cronograma de actividades}}{76}{figure.caption.59}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Relación entre IA, ML y DL}}{30}{figure.caption.24}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Modelo de aprendizaje profundo}}{31}{figure.caption.25}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Modelo que combina imágenes y texto}}{32}{figure.caption.26}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Un modelo multimodal para las señales de la vista}}{33}{figure.caption.27}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Modelos de difusión}}{34}{figure.caption.28}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Autocodificadores variacionales}}{35}{figure.caption.29}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Análisis Exploratorio de Datos Espaciales (ESDA)}}{36}{figure.caption.30}%
+\contentsline {figure}{\numberline {23}{\ignorespaces El modelo gaussiano isotrópico; el modelo gaussiano anisotrópico ajustado; la predicción de Kriging Simple Residual; y la varianza de Kriging Simple Residual.}}{37}{figure.caption.31}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Regresión Logística}}{38}{figure.caption.32}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Arquitectura de un modelo CNN}}{39}{figure.caption.33}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Modelo RNN}}{39}{figure.caption.34}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Modelo Seq2seq}}{40}{figure.caption.35}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Red Generativa Antagónica de Imágenes}}{41}{figure.caption.36}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Red Generativa Antagónica de Imágenes}}{42}{figure.caption.37}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Imágenes de Ruido Gaussiano}}{42}{figure.caption.38}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Arquitectura de Red Generativa Antagónica con Capas Convolucionales (DCGAN)}}{44}{figure.caption.39}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Clasificación de redes inalámbricas con su alcance de señal}}{46}{figure.caption.40}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Access Points}}{49}{figure.caption.41}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Funcionamiento de un AP}}{50}{figure.caption.42}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Plano interior}}{53}{figure.caption.43}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Método de Investigación}}{55}{figure.caption.44}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Representación de las imágenes de los planos interiores}}{59}{figure.caption.45}%
+\contentsline {figure}{\numberline {38}{\ignorespaces CNN para el análisis y extracción de rasgos característicos}}{61}{figure.caption.46}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Generador del GAN}}{62}{figure.caption.47}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Discriminador del GAN}}{63}{figure.caption.48}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Pseudocódigo para la implementación}}{64}{figure.caption.49}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Pseudocódigo para el Entrenamiento Supervisado}}{66}{figure.caption.50}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Pseudocódigo para la Optimización de Cobertura}}{67}{figure.caption.51}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Matriz de Confusión}}{71}{figure.caption.52}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Cronograma de actividades}}{75}{figure.caption.58}%

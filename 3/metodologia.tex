@@ -9,7 +9,7 @@ Se ha identificado que este estudio posee un diseño experimental con el propós
 Este estudio adoptó un enfoque cuantitativo, conforme a lo explicado por \cite{bk_hernandez2014metodologia} en su libro \citetitle{bk_hernandez2014metodologia}. Este enfoque se basa en la recopilación de datos para comprobar hipótesis mediante mediciones numéricas y análisis estadísticos, con el objetivo de identificar patrones de comportamiento y validar teorías. La metodología empleada sigue los diez pasos del proceso cuantitativo descritos por el autor, aplicados desde la formulación de la idea hasta la presentación de los resultados finales en el informe de investigación.
 
 \subsection{Población}
-Podemos mostrar que la población se compone por los diversos entornos y espacios interiores (planos de edificios, oficinas, centros comerciales, etc.) donde se planea optimizar la cobertura de redes inalámbricas mediante la predicción de ubicaciones para puntos de acceso (APs) utilizando inteligencia artificial generativa.
+Podemos mostrar que la población se compone por los diversos entornos y espacios interiores (planos de edificios, oficinas, centros comerciales, etc.) donde se planea optimizar la cobertura de redes inalámbricas mediante la predicción de ubicaciones para puntos de acceso (APs) utilizando Inteligencia Artificial Generativa.
 
 \subsection{Muestra}
 La muestra consistió en 19,154 imágenes de planos interiores en formato vectorial del antecedente \cite{art_wu2019interior}, que se obtuvieron del conjunto RPLAN público. El criterio de selección de esta categoría se basó en los problemas que enfrentan tanto empresas como usuarios en la actualidad con la cobertura Wi-Fi y la ubicación ineficaz de los puntos de acceso interior, lo que resulta en quejas y pérdidas de dinero al realizar una reinstalación o reubicación de estos puntos.
@@ -45,7 +45,7 @@ Los detalles acerca de cómo se definen y miden las variables de estudio se pres
 %\end{table}
 
 \section{Técnicas de recolección de datos}
-La recolección de planos interiores es un paso crucial para la optimización de la cobertura de redes inalámbricas mediante la inteligencia artificial generativa. Una de las técnicas más accesibles y efectivas para obtener estos planos es a través del uso de bases de datos públicas y repositorios en línea. Estas fuentes ofrecen una amplia variedad de planos de planta, que pueden ser utilizados para modelar y predecir las ubicaciones óptimas de puntos de acceso (APs) en diferentes entornos interiores.
+La recolección de planos interiores es un paso crucial para la optimización de la cobertura de redes inalámbricas mediante la Inteligencia Artificial Generativa. Una de las técnicas más accesibles y efectivas para obtener estos planos es a través del uso de bases de datos públicas y repositorios en línea. Estas fuentes ofrecen una amplia variedad de planos de planta, que pueden ser utilizados para modelar y predecir las ubicaciones óptimas de puntos de acceso (APs) en diferentes entornos interiores.
 
 \begin{figure}[h]
 	\begin{center}
@@ -211,7 +211,7 @@ Por otro lado, la actividad de Representación se encarga de convertir los datos
 \end{figure}
 
 \subsubsection{Desarrollo del Modelo de IA}
-Tres actividades fundamentales componen el modelo generativo para la optimización de la cobertura de las redes inalámbricas para la predicción de las ubicaciones de los puntos de acceso. Cada una de estas actividades utiliza estrategias de aprendizaje profundo avanzadas para trabajar de manera secuencial y colaborativa. La Tabla 4 muestra todo esto más a fondo.
+Tres actividades fundamentales componen el modelo generativo para la optimización de la cobertura de las redes inalámbricas para la predicción de las ubicaciones de los puntos de acceso. Cada una de estas actividades utiliza estrategias de Aprendizaje Profundo avanzadas para trabajar de manera secuencial y colaborativa. La Tabla 4 muestra todo esto más a fondo.
 
 \vspace{2ex}
 \begingroup
@@ -242,7 +242,7 @@ Tres actividades fundamentales componen el modelo generativo para la optimizaci
     \begin{itemize}
         \item Selección del tipo de red CNN y GAN.
         \item Diseño de la arquitectura de la red (capas convolucionales).
-        \item Implementación de la red en un framework de aprendizaje profundo.
+        \item Implementación de la red en un framework de Aprendizaje Profundo.
         \item Definición de entradas y salidas.
     \end{itemize} \\
     \hline
@@ -511,7 +511,7 @@ El despliegue del modelo en producción es el paso en el que el modelo de IA se 
 Diversas métricas se emplean para evaluar el desempeño de un modelo, sirviendo como herramientas de evaluación fundamentadas en los datos de la Matriz de Confusión. A continuación, se detalla su concepto y sus componentes.
 
 \begin{itemize}
-\item \textbf{Matriz de confusión}: La Matriz de Confusión es una tabla de dimensiones NxN que sintetiza la precisión de las predicciones generadas por un modelo de clasificación. Esta matriz muestra la relación entre las etiquetas predichas por el modelo y las etiquetas reales de los datos. Uno de los ejes de la matriz representa las etiquetas predichas, mientras que el otro muestra las etiquetas reales, con N representando el número total de clases. En el contexto de un problema de clasificación binaria, N=2 \parencite{gl_kohavi1998ml_glossary}. Su objetivo principal es evaluar el rendimiento de un modelo de Machine Learning supervisado en datos de prueba, donde las etiquetas reales son desconocidas. El término "matriz de confusión" se origina porque ayuda a identificar dónde el sistema confunde entre dos clases (Big Data, 2019). Puedes encontrar una representación visual de la matriz de confusión en la Figura 45.
+\item \textbf{Matriz de confusión}: La Matriz de Confusión es una tabla de dimensiones NxN que sintetiza la precisión de las predicciones generadas por un modelo de clasificación. Esta matriz muestra la relación entre las etiquetas predichas por el modelo y las etiquetas reales de los datos. Uno de los ejes de la matriz representa las etiquetas predichas, mientras que el otro muestra las etiquetas reales, con N representando el número total de clases. En el contexto de un problema de clasificación binaria, N=2 \parencite{gl_kohavi1998ml_glossary}. Su objetivo principal es evaluar el rendimiento de un modelo de Machine Learning supervisado en datos de prueba, donde las etiquetas reales son desconocidas. El término <<matriz de confusión>> se origina porque ayuda a identificar dónde el sistema confunde entre dos clases (Big Data, 2019). Puedes encontrar una representación visual de la matriz de confusión en la Figura 45.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.75\textwidth]{3/figures/matriz_confusion.png}
