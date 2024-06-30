@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.6)  24 JUN 2024 00:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.6)  29 JUN 2024 14:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3071,6 +3071,11 @@ Underfull \hbox (badness 1902) in paragraph at lines 88--88
  []
 
 
+Underfull \hbox (badness 2799) in paragraph at lines 88--88
+\OT1/ptm/m/n/12 rac-ter[]^^Psti-cas de los
+ []
+
+
 Underfull \hbox (badness 1270) in paragraph at lines 88--89
 []|\OT1/ptm/m/n/12 Una ba-se de da-tos
  []
@@ -3208,8 +3213,28 @@ Underfull \hbox (badness 2799) in paragraph at lines 103--103
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 103--103
-\OT1/ptm/m/n/12 la op-ti-mi-za-ci[]on de
+Underfull \hbox (badness 1661) in paragraph at lines 103--103
+\OT1/ptm/m/n/12 de In-te-li-gen-cia Ar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\OT1/ptm/m/n/12 ti-fi-cial Ge-ne-ra-ti-va
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 103--103
+\OT1/ptm/m/n/12 en la Op-ti-mi-za-ci[]on
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 103--103
+\OT1/ptm/m/n/12 de la co-ber-tu-ra de
+ []
+
+
+Underfull \hbox (badness 2512) in paragraph at lines 103--103
+\OT1/ptm/m/n/12 Re-des Inal[]ambri-cas
  []
 
 
@@ -3324,13 +3349,13 @@ Package logreq Info: Writing requests to 'tesis.run.xml'.
 Here is how much of TeX's memory you used:
  34529 strings out of 474485
  666878 string characters out of 5743735
- 1970542 words of memory out of 5000000
+ 1969542 words of memory out of 5000000
  55948 multiletter control sequences out of 15000+600000
  599569 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,13n,117p,2988b,3193s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/jefer/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on tesis.pdf (99 pages, 5702793 bytes).
+Output written on tesis.pdf (99 pages, 5702737 bytes).
 PDF statistics:
  1400 PDF objects out of 1440 (max. 8388607)
  308 named destinations out of 1000 (max. 500000)
